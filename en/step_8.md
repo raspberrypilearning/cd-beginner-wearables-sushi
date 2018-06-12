@@ -8,11 +8,11 @@ First you will need another badge. This one will not have a battery of its own. 
 
 + Then sew several medium sized stitches next to each other or in a criss-cross. You want to make it look like a "blob" of conductive thread on the felt. Finish the stitching as normal, by doing three tiny stitches in one spot before cutting the thread short.
 
-![](/assets/new_badge_blobs_front_back_80_650.png)
+![](/images/new_badge_blobs_front_back_80_650.png)
 
 + Once you have one blob for the **negative**, and one blob for the **positive**, the new badge is ready. If you want, you can repeat these steps so that you extend the circuit to another pair of blobs at the opposite edge of the new badge, like this:
 
-![](/assets/new_badge_front_back_120_650.png)
+![](/images/new_badge_front_back_120_650.png)
 
 + Now you just need to extend the circuit on the main badge (the one with the battery). Remember to remove the battery from the holder first.
  
@@ -22,13 +22,13 @@ First you will need another badge. This one will not have a battery of its own. 
 
 + Taking new thread, sew a bunch of stitches at the spot you marked for the **negative** blob. Then sew a running stitch all the way to the LED on this badge and secure it to the **-** hole. Repeat this process to make a **positive** blob that is connected to the **+** hole of the same LED. When you are done it should look something like this:
 
-![](/assets/badge_ext_front_back_65_650.png)
+![](/images/badge_ext_front_back_65_650.png)
 
 Your badges are ready to be joined together! 
 
 + Pop the battery back into its holder. Place the new badge onto the main badge so the blobs make contact. Remember to match up **+** to **+** and **-** to **-**. You should see the new badge suddenly light up!
 
-![](/assets/badge_extended_unlit_lit_150_650.png)
+![](/images/badge_extended_unlit_lit_150_650.png)
 
 --- challenge ---
 ## Challenge: Make a soft switch
