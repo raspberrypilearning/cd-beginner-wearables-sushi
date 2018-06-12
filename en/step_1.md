@@ -1,25 +1,27 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+These Sushi Cards will introduce you to Wearable Electronics. These are electronic circuits made using components (parts) especially designed to be sewn directly into clothes or accessories. 
+
+You will get to learn about and make electronic circuits and also do some sewing.
+ 
+You can use this stuff to decorate clothes, bags, hats... The possibilities are unlimited!
+
+![](/assets/robot_headband_340_150_800.png)
 
 ### What you will make
 
-Add something here to showcase here, for example:
+You are going to make a felt badge or patch that lights up
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![](/assets/badge_lit_150_110_650.png)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+You will also see how you can design the badge so that lots of them can be joined together to make a glowing patchwork. This might be fun to do together with other Ninjas!
 
 ### What you will learn
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
++ Introduction to circuit components and concepts of + and -
++ Making a simple LED circuit
++ How a switch works and how to use one in a circuit
++ Using conductive thread and sewable components to make a wearable circuit
++ Basic sewing skills
++ Adding multiple LEDs to a circuit
++ How to make a wearable circuit that’s split into detachable components

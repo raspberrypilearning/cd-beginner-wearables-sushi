@@ -1,11 +1,23 @@
-title: cd-beginner-wearables-sushi
+title: Beginner Wearables Sushi Cards
 hero_image: images/banner.png
-description: cd-beginner-wearables-sushi description
-version: 4
+description: Learn about electronic circuits and make a felt badge that lights up
+theme: violet
+version: 3.0.0
 listed: false
 copyedit: false
-last_tested: "2018-06-12"
+curriculum: ''
+interests: wearable-technology
+technologies: electronic-components
+site_areas: coderdojo, projects
+hardware: electronic-components
+software: ''
+last_tested: "2017-04-28"
 steps:
   - title: Introduction
   - title: What you will need
-  - title: Step title
+  - title: Making a circuit
+  - title: Adding a switch
+  - title: Sewing on components
+  - title: Complete a wearable circuit
+  - title: Adding more LEDs
+  - title: Make detachable parts
