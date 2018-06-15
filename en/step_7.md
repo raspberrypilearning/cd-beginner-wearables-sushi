@@ -27,7 +27,7 @@ Deciding which option to use depends on where you are putting the new LED.
 
 + You also need to make sure all the different threads are kept separate and don't cross over or touch, so it is a good idea to look at where the **+**'s and **-**'s are when deciding.
 
---- /collpase ---
+--- /collapse ---
 
 + Take an LED and decide where on your badge you want to put it. You will sew it on and connect it to either the battery holder or the LED you already attached-whichever is easier.
 

@@ -22,14 +22,14 @@ First you will need another badge. This one will not have a battery of its own. 
 
 + Taking new thread, sew a bunch of stitches at the spot you marked for the **negative** blob. Then sew a running stitch all the way to the LED on this badge and secure it to the **-** hole. Repeat this process to make a **positive** blob that is connected to the **+** hole of the same LED. When you are done it should look something like this:
 
-![](images/badge_ext_front_back_65_650.png)
+![](images/badge_ext_blobs.png)
 
 Your badges are ready to be joined together! 
 
 + Pop the battery back into its holder. Place the new badge onto the main badge so the blobs make contact. Remember to match up **+** to **+** and **-** to **-**. You should see the new badge suddenly light up!
 
-![](images/badge_extended_lit.png)
 ![](images/badge_extended_unlit.png)
+![](images/badge_extended_lit.png)
 
 --- challenge ---
 ## Challenge: Make a soft switch

@@ -34,7 +34,7 @@ Ready to start sewing?
 title: Tips if you're having difficulties sewing
 ---
 
-+ Practice makes perfect! If you have never sewn before it can be quite tricky in the beginning. Don't worry, you'll get the hang of it ☺︎
++ Practice makes perfect! If you have never sewn before it can be quite tricky in the beginning. Don't worry, you'll get the hang of it.
 
 + This video might be helpful if you are new to sewing: [dojo.soy/wear-stitches](http://dojo.soy/wear-stitches){:target="_blank"}
 

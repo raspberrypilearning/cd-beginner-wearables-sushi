@@ -3,9 +3,9 @@
 ### Hardware
 
 The different parts of an electronic circuit are called **components**. Here is a list of the components you'll be using:
- + A battery ![](images/batteries_100_202_650.png) 
+ + A battery ![](images/batteries.png) 
  
- + LEDs—an LED is a small light. They can come in different colours, some of them can even flash or change colour. You can also get special sewable LEDs. Any kind can be used for this project. ![](images/LEDs_mix_150_272_650.png)
+ + LEDs—an LED is a small light. They can come in different colours, some of them can even flash or change colour. You can also get special sewable LEDs. Any kind can be used for this project. ![](images/LEDs_mix.png)
  
  + A sewable battery holder. This is a battery holder that's attached to a special board (called a **printed circuit board** or **PCB**) that you can sew onto your project ![](images/battery_holders_150_196_650.png)
  
