@@ -28,7 +28,8 @@ Your badges are ready to be joined together!
 
 + Pop the battery back into its holder. Place the new badge onto the main badge so the blobs make contact. Remember to match up **+** to **+** and **-** to **-**. You should see the new badge suddenly light up!
 
-![](images/badge_extended_unlit_lit_150_650.png)
+![](images/badge_extended_lit.png)
+![](images/badge_extended_unlit.png)
 
 --- challenge ---
 ## Challenge: Make a soft switch

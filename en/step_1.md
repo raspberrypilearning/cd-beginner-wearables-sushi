@@ -12,7 +12,7 @@ You can use this stuff to decorate clothes, bags, hats... The possibilities are 
 
 You are going to make a felt badge or patch that lights up
 
-![](images/badge_lit_150_110_650.png)
+![](images/badge_lit.png)
 
 You will also see how you can design the badge so that lots of them can be joined together to make a glowing patchwork. This might be fun to do together with other Ninjas!
 

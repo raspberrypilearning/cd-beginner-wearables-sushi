@@ -41,7 +41,7 @@ Deciding which option to use depends on where you are putting the new LED.
 
 Ta-daa! Your badge has two LEDs on it! 
 
-![](images/badge_second_led_150_106_650.png)
+![](images/second_led.JPG)
 
   
 

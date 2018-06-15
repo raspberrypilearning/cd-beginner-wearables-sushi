@@ -35,7 +35,7 @@ You now have half of your circuit sewn.
 
 + If you are attaching a pin to your badge, it is a good idea to put it onto a separate piece of felt that you attach to the back of your badge. This ensures the pin does not touch any part of your circuit—since the pin is metal that would cause a short circuit. Use ordinary ordinary thread for the extra sewing—or you could use glue or tape instead. 
 
- ![](images/badge_back_150_118_650.png) 
+ ![](images/badge_back.png) 
  
 10. If you like, you could cover the battery holder with an extra piece of felt too. You can also decorate your badge with different coloured felt or thread. Covering the LED with felt will give it a soft glow. You design your own fashion!
 
