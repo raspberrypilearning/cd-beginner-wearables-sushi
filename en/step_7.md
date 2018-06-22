@@ -39,9 +39,13 @@ Deciding which option to use depends on where you are putting the new LED.
 
 + Now connect the **+** hole of the new LED, using the same method.
 
-Ta-daa! Your badge has two LEDs on it! 
-
 ![](images/second_led.JPG)
+
+In the picture above, the second LED is connected directly to the battery.
+
+![](images/second_led2.png)
+
+Here, a second LED has been connected to the first LED, which is in turn connected to the battery (the battery is at the back of the fabric).
 
   
 

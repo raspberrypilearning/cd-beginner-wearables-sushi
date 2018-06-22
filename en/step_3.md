@@ -4,14 +4,14 @@ Let's create your first circuit!
 
 + Take a regular LED (one with two pins rather than a sewable one) and connect it to a battery by holding both pins to the battery, one on either side. Notice that one of the pins of the LED is longer than the other one. The longer one should be connected to the side of the battery marked with a plus sign '+'. Watch your LED light up!
 
+![](images/LED_battery_140_291_650.png) 
+
 --- collapse ---
 ---
 title: My LED didn't light up
 ---
 
 + If it didn't work, check that that the pins are the right way round. 
-
-![](images/led_battery_140_291_650.png) 
 
 --- /collapse ---
  

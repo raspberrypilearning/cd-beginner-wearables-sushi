@@ -3,7 +3,8 @@
 + Cut a piece of felt to the size you want for your badge. Decide where you are going to put the LED and mark the spot on the felt. Now decide where to put your battery holder. It could be on the back! Mark the spot for one of the positive holes and one of the negative holes with a **+** and **-**.
 
 + If you are using a regular LED, you will need to bend the pins into loops. A pliers can be helpful here. If you have a sewable LED, skip this step!
-![](images/led_pins_loops_80_92_650.png)
+![](images/led_loops1.png)
+![](images/led_loops2.png)
 
 + Thread your needle! Take a piece of conductive thread, about 30cm long, and pull one end of it through the hole in the needle (called the **eye**). This can be pretty fiddly. If the thread is frayed at the end, cut off the frayed bits with a scissors. Once the needle is threaded, the thread will be hanging out in two pieces. Pull one of them so it is a good bit longer than the other and tie a knot in the very end of the long piece.
 
