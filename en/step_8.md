@@ -8,7 +8,7 @@ First you will need another badge. This one will not have a battery of its own. 
 
 + Then sew several medium sized stitches next to each other or in a criss-cross. You want to make it look like a "blob" of conductive thread on the felt. Finish the stitching as normal, by doing three tiny stitches in one spot before cutting the thread short.
 
-![](images/new_badge_blobs_front_back_80_650.png)
+![](images/new_badge_blobs_front_back_120_650.png)
 
 + Once you have one blob for the **negative**, and one blob for the **positive**, the new badge is ready. If you want, you can repeat these steps so that you extend the circuit to another pair of blobs at the opposite edge of the new badge, like this:
 

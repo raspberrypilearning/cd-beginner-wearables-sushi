@@ -25,9 +25,11 @@ You now have half of your circuit sewn.
 
 + To complete the circuit, you need to connect the **+** hole on the LED with the **+** hole on the battery holder. Use the same method you already used to connect the **negatives**. I am not including a switch in this circuit, but you could if you wanted, using a third piece of thread as before.
 
+![](images/sewing_complete_front.png)
+
   **Important!** Make sure the path for your **positive** thread **does not cross or touch** the **negative** thread or any edges of the battery holder anywhere. Remember, this would cause a **short circuit** (a bad thing)!
 
-![](images/sewing_complete_double_100_650.png)
+![](images/sewing_complete_back.png)
  
 + Insert a battery into the battery holder and watch your LED light up!
 

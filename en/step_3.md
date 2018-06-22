@@ -45,11 +45,11 @@ title: Identifying + and - on different LEDs
 
 + Put one end of the first thread through the **+** hole of the battery holder, making sure it touches the metal, and hold the other end to the **positive** pin of the LED. You can use tape if you need to, although this will fray the thread a lot. If you have crocodile clips you can use these instead of thread. 
 
-![](images/circuit_thread_pos_100_191_650.png) 
+![](images/circuit_thread_pos.png) 
 
 + Now take the second thread. Put one end through the **-** hole of the battery holder and hold the other end to the **negative** pin of the LED. 
 
-![](images/circuit_thread_complete_150_199_650.png) 
+![](images/circuit_thread_complete.png) 
 
 + Make sure the two threads are not touching or crossing over at any point. If they do this will cause a **short** in your circuit and it will not work properly.
 
