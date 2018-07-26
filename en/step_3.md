@@ -1,4 +1,4 @@
-## Making a circuit
+## Make a circuit
 
 Let's create your first circuit! 
 
