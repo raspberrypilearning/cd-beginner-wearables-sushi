@@ -1,4 +1,4 @@
-## Adding more LEDs
+## Add more LEDs
 
 Adding more LEDs to a circuit is easy! You don't need any additional batteries. 
  
