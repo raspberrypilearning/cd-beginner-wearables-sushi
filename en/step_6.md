@@ -1,4 +1,4 @@
-## Complete a wearable circuit
+## Complete your wearable circuit
 
 By now you have needle and thread coming out of the felt where the LED has been attached. Imagine a line between this spot and the spot you marked for the **-** hole of the battery holder. If it helps, you could draw the line on the felt. You will sew a **running stitch** along this line to connect the LED to the battery holder. 
 
