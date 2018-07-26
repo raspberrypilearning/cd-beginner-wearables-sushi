@@ -2,18 +2,18 @@
 
 + Cut a piece of felt to the size you want for your badge. Decide where you are going to put the LED and mark the spot on the felt. Now decide where to put your battery holder. It could be on the back! Mark the spot for one of the positive holes and one of the negative holes with a **+** and **-**.
 
-+ If you are using a regular LED, you will need to bend the pins into loops. A pliers can be helpful here. If you have a sewable LED, skip this step!
++ If you are using a regular LED, you will need to bend the pins into loops. Pliers can be helpful here. If you have a sewable LED, skip this step!
 
 ![](images/led_loops1.png)
 ![](images/LED_loops2.JPG)
 
-+ Thread your needle! Take a piece of conductive thread, about 30cm long, and pull one end of it through the hole in the needle (called the **eye**). This can be pretty fiddly. If the thread is frayed at the end, cut off the frayed bits with a scissors. 
++ Thread your needle! Take a piece of conductive thread about 30cm long, and pull one end of it through the hole in the needle (called the **eye**). This can be pretty fiddly. If the thread is frayed at the end, cut off the frayed bits with a scissors. 
 
 + Once the needle is threaded, the thread will be hanging out in two pieces. Pull one of them so it is a good bit longer than the other and tie a knot in the very end of the long piece.
 
 Ready to start sewing? 
 
-+ Place your LED onto the felt at the spot you have chosen. With one hand, hold onto the felt and the LED. With the other hand, place the tip of the needle **behind** the felt and push it through so that it comes out through the **-** hole of the LED. 
++ Place your LED onto the felt at the spot you have marked out for it. With one hand, hold onto the felt and the LED. With the other hand, place the tip of the needle **behind** the felt and push it through so that it comes out through the **-** hole of the LED. 
 
 ![](images/needle_through_LED.png)
 
@@ -31,14 +31,14 @@ Ready to start sewing?
 
 + Repeat the last two steps three more times. Be sure to pull the thread tight each time. This will create a good connection and keep the LED secured tightly to the felt.
 
-+ You have now learned how to attach wearable components to your project. Almost there!
++ You have just learned how to attach wearable components. Almost there!
 
 --- collapse ---
 ---
-title: Tips if you're having difficulties sewing
+title: Tips for sewing
 ---
 
-+ Practice makes perfect! If you have never sewn before it can be quite tricky in the beginning. Don't worry, you'll get the hang of it.
++ Practice makes perfect! If you have never sewn before, it can be tricky in the beginning. Don't worry, you'll get the hang of it.
 
 + This video might be helpful if you are new to sewing: [dojo.soy/wear-stitches](http://dojo.soy/wear-stitches){:target="_blank"}
 
