@@ -41,7 +41,9 @@ title: Identifying + and - on different LEDs
 
 --- /collapse ---
 
-+ Separate the LED and the battery, and pop the battery into a battery holder, with the **+** facing up (the holder will have a mark to show its **+** side too). Team up with the Ninjs next to you and get two pieces of conductive thread.
++ Separate the LED and the battery, and pop the battery into a battery holder, with the **+** facing up (the holder will have a mark to show its **+** side too).
+
++ Get two pieces of conductive thread, and team up with the Ninja next to you, so you can help each other hold things in place.
 
 + Put one end of the first thread through the **+** hole of the battery holder, making sure it touches the metal, and hold the other end to the **positive** leg of the LED. You can use tape if you need to, although this will fray the thread a lot. If you have crocodile clips, you can use these instead of thread. 
 
