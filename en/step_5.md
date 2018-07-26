@@ -1,4 +1,4 @@
-## Sewing on components
+## Sew on components
 
 + Cut a piece of felt to the size you want for your badge. Decide where you are going to put the LED and mark the spot on the felt. Now decide where to put your battery holder. It could be on the back! Mark the spot for one of the positive holes and one of the negative holes with a **+** and **-**.
 
