@@ -1,6 +1,6 @@
 title: Beginner Wearables Sushi Cards
 hero_image: images/banner.png
-description: Learn about electronic circuits and make a felt badge that lights up
+description: M ake a felt badge that lights up and learn about electronic circuits
 theme: violet
 version: 3.0.0
 listed: false
@@ -15,9 +15,9 @@ last_tested: "2017-04-28"
 steps:
   - title: Introduction
   - title: What you will need
-  - title: Making a circuit
-  - title: Adding a switch
-  - title: Sewing on components
+  - title: Make a circuit
+  - title: Add a switch
+  - title: Sew on components
   - title: Complete a wearable circuit
-  - title: Adding more LEDs
+  - title: Add more LEDs
   - title: Make detachable parts
