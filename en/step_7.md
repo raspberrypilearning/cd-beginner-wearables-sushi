@@ -4,6 +4,10 @@ Adding more LEDs to a circuit is easy! You don't need any additional batteries.
  
 **Note**: the LEDs must be of the same type, either all sewable or all non-sewable. It works best with sewable LEDs, as you can connect many more of them to the same battery without the power being reduced.
  
++ Pop the battery out of the battery holder for now. When working on a circuit, it is important to always make sure is is not **live** by switching it off or taking out the battery!
+
++ Decide where on your badge you want to put your next LED, and mark the place.
+
 You will connect the LEDs in **parallel**. There are two ways to do this.
 
 ### Method 1
@@ -23,19 +27,13 @@ Another option is to attach the new LED to the LED that's already in your circui
 title: Which method should I choose?
 ---
 
-Deciding which method to use depends on where you want to put the new LED. 
+Deciding whether to connect the LED to the battery holder or to the other LED depends on where you want to put the new LED. 
 
-+ The best place to connect it is usually whichever is closer.
++ Usually you will pick is pick whichever is closer.
 
 + You also need to make sure all the different threads are kept separate and don't cross over or touch, so it is a good idea to look at where the **+**'s and **-**'s are when you pick a method and a place for the LED.
 
 --- /collapse ---
-
-+ Decide where on your badge you want to put your next LED, and mark the place.
-
-+ Pop the battery out of the battery holder for now. When working on a circuit, it is important to always make sure is is not **live** by switching it off or taking out the battery!
-
-+ You will sew the LED on and connect it to either the battery holder or the LED you already attached - whichever is easier.
 
 + Holding the LED in place, use a needle and a new piece of conductive thread to secure the **-** hole of the LED like you did the first time.
 
