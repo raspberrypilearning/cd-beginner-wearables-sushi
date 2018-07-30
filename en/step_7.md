@@ -41,10 +41,10 @@ Deciding whether to connect the LED to the battery holder or to the other LED de
 
 + Now connect the **+** hole of the new LED using the same method.
 
-In this picture, the second LED is connected directly to the battery:
+In this photo, the second LED is connected directly to the battery:
 
 ![](images/second_led.JPG)
 
-Below, a second LED has been connected to the first LED, which is in turn connected to the battery (the battery is at the back of the fabric).
+In the next photo, a second LED has been connected to the first LED, which is in turn connected to the battery (the battery is at the back of the fabric):
 
 ![](images/second_led2.png)
