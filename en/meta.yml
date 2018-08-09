@@ -5,7 +5,7 @@ theme: violet
 version: 3.0.0
 listed: true
 copyedit: true
-curriculum: ''
+curriculum:  1, design-0, programming-0, phys-comp-0, manufacture-1, community-0
 interests: wearable-technology
 technologies: electronic-components
 site_areas: coderdojo, projects
