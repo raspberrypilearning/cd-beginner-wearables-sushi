@@ -1,46 +1,50 @@
-## Complete your wearable circuit
+## Add more LEDs
 
-By now you have needle and thread coming out of the felt where the LED has been attached. Imagine a line between this spot and the spot you marked for the **-** hole of the battery holder. If it helps, you could draw the line on the felt. You will sew a **running stitch** along this line to connect the LED to the battery holder. 
+Adding more LEDs to your circuit is easy, and you don't need any additional batteries!
+ 
+**Note**: the LEDs in your circuit must be of the same type, either all sewable or all non-sewable. It will work best with sewable LEDs, as you can connect many more of them to the same battery without the power being reduced.
+ 
++ Pop the battery out of the battery holder for now. When working on a circuit, it is important to always make sure is is not **live** by switching it off or taking out the battery!
 
-+ Place the tip of the needle on the line, about 1cm away from where the thread is coming out of the felt, and push it through. Pull the needle and thread all the way through as before. Then repeat this on the other side of the felt. Keep doing this in 1cm wide steps until you reach the spot you marked for the **-** hole of the battery holder.
++ Decide where on your badge you want to put your next LED, and mark that place.
 
-+ Next, put your battery holder into place on the felt. Then, just like you did for the LED, attach the battery holder by sewing three stitches through the **-** hole. Remember to make sure they are good and tight!
+You will connect the LEDs in **parallel**. There are two ways to do this.
 
-+ To finish, sew three tiny stitches right next to where you attached the battery holder, all in the same place. This will secure the end of the thread and stop your work from unravelling.
+### Method 1
 
-+ Cut the thread so that only a tiny bit is hanging out of the felt. 
-  
+One option is to connect the LED directly to the battery, just like the first LED. It is OK to use the same holes on the battery holder more than once on the battery holder - the only limit is how much thread you can fit through! The example circuit in the picture hasn't been sewn onto anything, so you can see the threads clearly:
+
+![](images/more_leds_separate.png)
+
+### Method 2
+
+Another option is to attach the new LED to the LED that's already in your circuit, instead of to the battery. You match up the **+** to the **+** and the **-** to the **-** as you would if you were connecting it to a battery. In the below example, the same two long pieces of thread are used for both LEDs. You could also use separate pieces of thread for each LED.
+
+![](images/more_leds_extended.png)
+ 
 --- collapse ---
 ---
-title: Watch a video of the last bit
+title: Which method should I choose?
 ---
 
-Here is a video showing you how to finish this part of the sewing: [dojo.soy/wear-finishing](http://dojo.soy/wear-finishing){:target="_blank"} 
+Deciding whether to connect the LED to the battery holder or to the other LED depends on where you want to put the new LED! 
+
++ Usually you will pick the component that's closer to the place you've chosen for your second LED.
+
++ You also need to make sure all the different threads are kept separate and don't cross over or touch, so it is a good idea to look at where the **+** and **-** of your components are when you pick a method and a place for the LED.
 
 --- /collapse ---
 
- ![](images/tiny_stitches_triple_80_650.png)
++ Holding the LED in place, use a needle and a new piece of conductive thread to secure the **-** hole of the LED like you did for the first one you sewed on.
 
-You now have half of your circuit sewn. 
++ The next step is the running stitch. If you are connecting the LED to the other LED, then this time the stitches will go in a line towards the **-** hole of the other LED, instead of to the battery holder. Once you reach the correct hole, make three stitches through it, and three tiny stitches to finish, exactly as you did before.
 
-+ To complete the circuit, you need to connect the **+** hole on the LED with the **+** hole on the battery holder. Do this in the same way in which you just connected the **negatives**. I am not including a switch in this circuit, but you could if you wanted, using a third piece of thread as before.
++ Now connect the **+** hole of the new LED using the same method.
 
-![](images/sewing_complete_front.png)
+In this photo, the second LED is connected directly to the battery:
 
-  **Important!** Make sure the path for your **+** thread **does not cross/touch** the **-** thread or any edges of the battery holder anywhere. Remember, this would cause a **short circuit** (a bad thing)!
+![](images/second_led.JPG)
 
-![](images/sewing_complete_back.png)
- 
-+ Insert a battery into the battery holder and watch your LED light up!
+In the next photo, a second LED has been connected to the first LED, which is in turn connected to the battery (the battery is at the back of the fabric):
 
-### Making the badge
-
-+ Time to get creative! Decorate your badge however you like with different coloured felt or thread, or any other materials you have. Covering the LED with felt will give it a softer glow.
-
-![](images/badge_front.png) 
-
-+ If you are attaching a pin to your badge, it is a good idea to put it onto a separate piece of felt that you attach to the back of your badge. This ensures that the pin does not touch any part of your circuit — since the pin is metal, that would cause a short circuit. Use ordinary thread for the extra sewing, or glue or tape instead. 
-
-![](images/badge_back.png) 
- 
-Congratulations! Your badge is done, and you have sewn a complete wearable circuit. The next Sushi Cards show you how to add more LEDs, and they are optional.
+![](images/second_led2.png)

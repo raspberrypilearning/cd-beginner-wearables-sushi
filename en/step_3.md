@@ -1,67 +1,47 @@
-## Make a circuit
+## Add a switch
 
-Let's create your first circuit! 
+What if you want to turn your circuit off? To do this, you need a break somewhere in the circuit to stop the electricity from flowing. A **switch** is a component that allows you to turn a circuit off and on easily. There are lots of different types of switches: buttons, sliders, even magnetic or tilting ones. Some battery holders even have a built-in switch. 
 
-+ Take a regular LED (one with two legs rather than a sewable one) and connect it to a battery by holding both legs to the battery, one on either side. Notice that one of the legs of the LED is longer than the other one. The longer one should be connected to the side of the battery marked with a plus sign **+**. Watch your LED light up!
+![](images/switches.png)
 
-![](images/LED_battery_140_291_650.png) 
++ On your circuit, detach the thread from the **+** hole of the battery holder. Take a new piece of thread and put one end of the new piece through the the **+** hole where the other thread just was. You might need to team up with a third person here, for some extra hands! Otherwise you can always use tape, or use crocodile clips instead of thread.
 
---- collapse ---
----
-title: My LED didn't light up
----
++ If you have a ready-made switch, hold the other end of the new thread to one end of it. Then take the thread you removed from the battery holder (it should still be attached to the LED) and hold it to the other end of the switch. Now you can use the switch to turn the LED off and on!
 
-+ If it didn't work, check that the legs are the right way round. 
-
---- /collapse ---
- 
-+ Once you have the LED lighting up, try flipping the battery over so the legs are connected the wrong way around, with the shorter one on the `+` side of the battery. Does it still work?
+![](images/switch_on_thread.png)
 
 --- collapse ---
 ---
-title: How it works
+title: Which way around should the switch go?
 ---
 
-In every circuit, there are a **positive** or **+** and a **negative** or **-** direction. 
-
-For electricity to flow, you need to match up the **+** to **+** and the **-** to **-** between your components. This is why the LED doesn't light up when you flip the battery around.
++ Notice there is no positive or negative side on a switch. This means it doesn't matter which way around the switch sits.
 
 --- /collapse ---
+
++ If you don't have a switch, you can make one very easily. Take the two loose ends of thread in your circuit and hold them together to make your LED light up. When you separate them, it turns off again. You have just created a simple switch! 
+
+![](images/switch_diy_thread_a.png)
+![](images/switch_diy_thread_b.png)
+![](images/switch_diy_thread_c.png)
 
 --- collapse ---
 ---
-title: Identifying + and - on different LEDs
+title: How does it work?
 ---
 
-+ On the LED, the longer leg is **+** and the shorter pin is **-**. You can also identify **-** by looking closely at the bulb: it is the side with the flat edge.
- 
-+ A sewable LED is built onto a tiny **printed circuit board**, so it has holes instead of legs. The holes are marked with **+** and **-** signs. 
+As you've seen, electricity flows all the way around the circuit to make the LED light up. For the electricity to flow, there needs to be a connection between each component in the circuit. 
 
-![](images/LEDs_pos_neg_100_650.png)
+When you separate the two threads, you have broken the connection between them, so the electricity can no longer flow.
+
+When you make the threads touch, they are connected and the electricity is able to flow once more. 
+
+I've put tape near the end of each thread so you can more easily see where the break is in the circuit. This will be the switch. Here it is in action:
+
+![](images/switch_diy_tape_abc_120_650.png)
+
+In a ready-made switch, the part where the connection gets broken and reconnected is usually hidden inside so you can't see it. Now you know what is really happening when you switch something on or off! 
 
 --- /collapse ---
 
-+ Separate the LED and the battery, and pop the battery into a battery holder, with the **+** facing up (the holder will have a mark to show its **+** side too).
-
-+ Get two pieces of conductive thread, and team up with the Ninja next to you, so you can help each other hold things in place.
-
-+ Put one end of the first thread through the **+** hole of the battery holder, making sure it touches the metal, and hold the other end to the **positive** leg of the LED. You can use tape if you need to, although this will fray the thread a lot. If you have crocodile clips, you can use these instead of thread. 
-
-![](images/circuit_thread_pos.png) 
-
-+ Now take the second thread. Put one end through the **-** hole of the battery holder, and hold the other end to the **negative** leg of the LED. 
-
-![](images/circuit_thread_complete.png) 
-
-+ Make sure the two threads are not touching or crossing over at any point. If they do, this will cause a **short** in your circuit and it will not work properly.
-
---- collapse ---
----
-title: What is a short?
----
-
-+ When you have a **short circuit**, the electricity goes a shorter way through the circuit, skipping some of the components, and that's why it stops working.
-
---- /collapse ---
-
-Now you have a circuit and are ready to make a light-up badge!
+Different types of switches work by breaking the circuit in different ways. You can use a switch in your wearables projects to give you control over when the circuit is on or off.
