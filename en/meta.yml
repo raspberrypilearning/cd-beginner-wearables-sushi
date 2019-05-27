@@ -1,4 +1,4 @@
-title: Beginner Wearables Sushi Cards
+title: Glowing badge
 hero_image: images/banner.png
 description: Make a felt badge that lights up, and learn about electronic circuits
 theme: violet
@@ -14,7 +14,6 @@ software: ''
 last_tested: "2017-04-28"
 steps:
   - title: Introduction
-  - title: What you will need
   - title: Make a circuit
   - title: Add a switch
   - title: Sew on components

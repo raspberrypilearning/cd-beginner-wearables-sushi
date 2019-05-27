@@ -1,47 +1,45 @@
-## Add a switch
+## Sew on components
 
-What if you want to turn your circuit off? To do this, you need a break somewhere in the circuit to stop the electricity from flowing. A **switch** is a component that allows you to turn a circuit off and on easily. There are lots of different types of switches: buttons, sliders, even magnetic or tilting ones. Some battery holders even have a built-in switch. 
++ Cut a piece of felt to the size you want for your badge. Decide where you are going to put the LED and mark the spot on the felt. Now decide where to put your battery holder. It could be on the back! Mark the spot for one of the positive holes and one of the negative holes with a **+** and **-**.
 
-![](images/switches.png)
++ If you are using a regular LED, you will need to bend the pins into loops. Pliers can be helpful here. If you have a sewable LED, skip this step!
 
-+ On your circuit, detach the thread from the **+** hole of the battery holder. Take a new piece of thread and put one end of the new piece through the the **+** hole where the other thread just was. You might need to team up with a third person here, for some extra hands! Otherwise you can always use tape, or use crocodile clips instead of thread.
+![](images/led_loops1.png)
+![](images/LED_loops2.JPG)
 
-+ If you have a ready-made switch, hold the other end of the new thread to one end of it. Then take the thread you removed from the battery holder (it should still be attached to the LED) and hold it to the other end of the switch. Now you can use the switch to turn the LED off and on!
++ Thread your needle! Take a piece of conductive thread about 30cm long, and pull one end of it through the hole in the needle (called the **eye**). This can be pretty fiddly. If the thread is frayed at the end, cut off the frayed bits with a scissors. 
 
-![](images/switch_on_thread.png)
++ Once the needle is threaded, the thread will be hanging out in two pieces. Pull one of them so it is a good bit longer than the other and tie a knot in the very end of the long piece.
+
+Ready to start sewing? 
+
++ Place your LED onto the felt at the spot you have marked out for it. With one hand, hold onto the felt and the LED. With the other hand, place the tip of the needle **behind** the felt and push it through so that it comes out through the **-** hole of the LED. 
+
+![](images/needle_through_LED.png)
+
++ Pull the needle and thread all the way through at the front. Try holding the needle by the eye and pinching the thread tightly there to keep it from falling out of the needle while you pull (if it does fall out, it's ok, you can re-thread it). You want to keep pulling until only the knot remains at the back. 
+
+![](images/pull_thread_through.png)
+
++ Now, place the tip of the needle **right beside** the **-** hole of the LED (the one it just came through), but **not inside** it. Like this:
+
+![](images/needle_next_to_LED.png)
+
++ Push the needle through the felt so it comes out the back. Grab the needle behind the felt and pull it all the way through, just like you did at the front. You've just sewn your first stitch! It should look something like this:
+
+![](images/first_stitch.png)
+
++ Repeat the last two steps three more times. Be sure to pull the thread tight each time. This will create a good connection and keep the LED secured tightly to the felt.
+
++ You have just learned how to attach wearable components. Almost there!
 
 --- collapse ---
 ---
-title: Which way around should the switch go?
+title: Tips for sewing
 ---
 
-+ Notice there is no positive or negative side on a switch. This means it doesn't matter which way around the switch sits.
++ Practice makes perfect! If you have never sewn before, it can be tricky in the beginning. Don't worry, you'll get the hang of it.
+
++ This video might be helpful if you are new to sewing: [dojo.soy/wear-stitches](http://dojo.soy/wear-stitches){:target="_blank"}
 
 --- /collapse ---
-
-+ If you don't have a switch, you can make one very easily. Take the two loose ends of thread in your circuit and hold them together to make your LED light up. When you separate them, it turns off again. You have just created a simple switch! 
-
-![](images/switch_diy_thread_a.png)
-![](images/switch_diy_thread_b.png)
-![](images/switch_diy_thread_c.png)
-
---- collapse ---
----
-title: How does it work?
----
-
-As you've seen, electricity flows all the way around the circuit to make the LED light up. For the electricity to flow, there needs to be a connection between each component in the circuit. 
-
-When you separate the two threads, you have broken the connection between them, so the electricity can no longer flow.
-
-When you make the threads touch, they are connected and the electricity is able to flow once more. 
-
-I've put tape near the end of each thread so you can more easily see where the break is in the circuit. This will be the switch. Here it is in action:
-
-![](images/switch_diy_tape_abc_120_650.png)
-
-In a ready-made switch, the part where the connection gets broken and reconnected is usually hidden inside so you can't see it. Now you know what is really happening when you switch something on or off! 
-
---- /collapse ---
-
-Different types of switches work by breaking the circuit in different ways. You can use a switch in your wearables projects to give you control over when the circuit is on or off.

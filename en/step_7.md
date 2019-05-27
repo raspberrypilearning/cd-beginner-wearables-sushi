@@ -1,50 +1,41 @@
-## Add more LEDs
+## Make detachable parts
 
-Adding more LEDs to your circuit is easy, and you don't need any additional batteries!
+You can also extend your badge circuit so that separate pieces of felt with their own LEDs (of the same type) can be joined to it to make them light up! 
+
+First you will need another badge. This one will not have a battery of its own. But without a battery, where will the threads go?
+
++ When you sew your LED onto this new badge, do the running stitches all the way to the edge of the felt, or near the edge. Remember to keep the **positive** and **negative** threads separate from each other!
+
++ Then sew several medium-sized stitches next to each other or criss-crossing over each other. You want to make it look like a "blob" of conductive thread on the felt.
+
++ Finish the stitching as normal by doing three tiny stitches in one spot before cutting the thread short.
+
+![](images/new_badge_blobs_front_back_120_650.png)
+
++ Once you have one blob for the **negative**, and one blob for the **positive** side, the new badge is ready. If you want, you can repeat these steps so that you extend the circuit to another pair of blobs at the opposite edge of the new badge, like this:
+
+![](images/new_badge_front_back_120_650.png)
+
++ Now you just need to extend the circuit on the main badge (the one with the battery). Remember to remove the battery from the holder first.
  
-**Note**: the LEDs in your circuit must be of the same type, either all sewable or all non-sewable. It will work best with sewable LEDs, as you can connect many more of them to the same battery without the power being reduced.
- 
-+ Pop the battery out of the battery holder for now. When working on a circuit, it is important to always make sure is is not **live** by switching it off or taking out the battery!
++ Decide where you want to the badges to join together. You will be sewing stitches from the LED on the main badge to this point, so make sure you can trace a line from the **+** to the **positive** blob and from the **-** to the **negative** blob without the lines crossing.
 
-+ Decide where on your badge you want to put your next LED, and mark that place.
++ Mark two spots on the main badge where the **positive** and **negative** blobs touch it. You are going to sew matching blobs here for them to connect to. You can put the new badge to one side for the next bit.
 
-You will connect the LEDs in **parallel**. There are two ways to do this.
++ Taking new thread and the main badge, sew a bunch of stitches at the spot you marked for the **negative** blob. Then sew a running stitch all the way to the LED on this badge and secure it to the **-** hole. Repeat this process to make a **positive** blob that is connected to the **+** hole of the same LED. When you are done it should look something like this:
 
-### Method 1
+![](images/badge_ext_blobs.png)
 
-One option is to connect the LED directly to the battery, just like the first LED. It is OK to use the same holes on the battery holder more than once on the battery holder - the only limit is how much thread you can fit through! The example circuit in the picture hasn't been sewn onto anything, so you can see the threads clearly:
+Your badges are ready to be joined together! 
 
-![](images/more_leds_separate.png)
++ Pop the battery back into its holder. Place the new badge onto the main badge so the blobs touch each other. Remember to match up **+** to **+** and **-** to **-**. You should see the new badge suddenly light up!
 
-### Method 2
+![](images/badge_extended_unlit.png)
+![](images/badge_extended_lit.png)
 
-Another option is to attach the new LED to the LED that's already in your circuit, instead of to the battery. You match up the **+** to the **+** and the **-** to the **-** as you would if you were connecting it to a battery. In the below example, the same two long pieces of thread are used for both LEDs. You could also use separate pieces of thread for each LED.
+--- challenge ---
+## Challenge: Make a soft switch
 
-![](images/more_leds_extended.png)
- 
---- collapse ---
----
-title: Which method should I choose?
----
++ You could use this technique to make a simple soft switch on your project. For example, put a **positive** blob each at either end of a bracelet, so the two come in contact when you close it.
 
-Deciding whether to connect the LED to the battery holder or to the other LED depends on where you want to put the new LED! 
-
-+ Usually you will pick the component that's closer to the place you've chosen for your second LED.
-
-+ You also need to make sure all the different threads are kept separate and don't cross over or touch, so it is a good idea to look at where the **+** and **-** of your components are when you pick a method and a place for the LED.
-
---- /collapse ---
-
-+ Holding the LED in place, use a needle and a new piece of conductive thread to secure the **-** hole of the LED like you did for the first one you sewed on.
-
-+ The next step is the running stitch. If you are connecting the LED to the other LED, then this time the stitches will go in a line towards the **-** hole of the other LED, instead of to the battery holder. Once you reach the correct hole, make three stitches through it, and three tiny stitches to finish, exactly as you did before.
-
-+ Now connect the **+** hole of the new LED using the same method.
-
-In this photo, the second LED is connected directly to the battery:
-
-![](images/second_led.JPG)
-
-In the next photo, a second LED has been connected to the first LED, which is in turn connected to the battery (the battery is at the back of the fabric):
-
-![](images/second_led2.png)
+--- /challenge ---
