@@ -34,6 +34,7 @@ Your badges are ready to be joined together!
 ![](images/badge_extended_lit.png)
 
 --- challenge ---
+
 ## Challenge: Make a soft switch
 
 + You could use this technique to make a simple soft switch on your project. For example, put a **positive** blob each at either end of a bracelet, so the two come in contact when you close it.
