@@ -1,0 +1,23 @@
+---
+title: Leuchtende Anstecknadel
+hero_image: images/banner.png
+description: Fertige eine Anstecknadel an die aufleuchten kann und lerne mehr über elektronische Schaltungen
+theme: violet
+version: 3.0.0
+listed: true
+copyedit: true
+curriculum: 1, design-0, programming-0, phys-comp-0, manufacture-1, community-0
+interests: wearable-technology
+technologies: electronic-components
+site_areas: coderdojo, projects
+hardware: electronic-components
+software: ''
+last_tested: "2017-04-28"
+steps:
+  - title: Einleitung
+  - title: Fertige einen Schaltkreis an
+  - title: Füge einen Schalter hinzu
+  - title: Nähe die Komponenten zusammen
+  - title: Stelle deinen tragbaren Schaltkreis fertig
+  - title: Füge weitere LEDs hinzu
+  - title: Fertige die abnehmbaren Teile an
