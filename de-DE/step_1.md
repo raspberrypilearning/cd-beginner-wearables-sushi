@@ -1,83 +1,83 @@
-## Introduction
+## Einleitung
 
-These Sushi Cards will introduce you to wearable electronics. These are electronic circuits you can make using especially designed parts to create amazing-looking clothes and accessories.
+Diese Sushi Karte führt dich in das Thema der tragbaren Elektronik ein. Hierbei handelt es sich um elektronische Schaltungen, die du mit speziell entwickelten Teilen herstellen kannst, um fantastisch aussehende Klamotten und Accessoires herzustellen.
 
-You will get to learn about and make electronic circuits, and you'll also do some sewing.
+Du wirst lernen, elektronische Schaltungen herzustellen und du wirst auch etwas nähen.
 
-You can use wearable electronics to decorate clothes, bags, hats, anything — the possibilities are unlimited!
+Du kannst tragbare Elektronik verwenden, um Klamotten, Taschen, Hüte usw. zu dekorieren - die Möglichkeiten sind unbegrenzt!
 
 ![](images/robot_headband_340_150_800.png)
 
-### What you will make
+### Was du machen wirst
 
-You are going to make a felt badge or patch that lights up!
+Du wirst einen Filz-Anstecker oder einen Filz-Aufnäher machen, der leuchten kann!
 
 ![](images/badge_lit.png)
 
-You will also see how you can design the badge so that you can join lots of them together to make a glowing patchwork. This might be fun to do together with other Ninjas!
+Du wirst auch sehen, wie du den Aufnäher so gestalten kannst, dass du viele von ihnen zu einem leuchtenden Patchwork zusammenfügen kannst. Es könnte Spaß machen, dies mit anderen Ninjas zusammen zu tun!
 
 --- collapse ---
 ---
-title: What you will learn
+title: Was du lernen wirst
 ---
 
-+ The basics of circuit components and the concepts involved in **positive/+** and **minus/-**
-+ Making a simple LED circuit
-+ How a switch works and how to use one in a circuit
-+ Using conductive thread and sewable components (parts) to make a wearable circuit
-+ Basic sewing skills
-+ Adding multiple LEDs to a circuit
-+ How to make a wearable circuit that’s split into detachable components
++ Die Grundlagen der Schaltungskomponenten und die Konzepte von **plus / +** und **minus / -**
++ Das Erstellen einer einfachen LED-Schaltung
++ Wie ein Schalter funktioniert und wie man ihn in einer Schaltung verwendet
++ Das Verwenden eines leitenden Fadens und vernähbarer Komponenten (Teile) zur Herstellung einer tragbaren Schaltung
++ Grundlegende Nähkentnisse
++ Das Hinzufügen mehrerer LEDs zu einer Schaltung
++ Wie man eine tragbare Schaltung erstellt, die aus abnehmbaren Komponenten besteht
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you need
+title: Was du brauchst
 ---
 
 ### Hardware
 
-The different parts of an electronic circuit are called **components**. Here is a list of the components you'll be using:
+Die verschiedenen Teile einer elektronischen Schaltung werden als **Komponenten bezeichnet**. Hier ist eine Liste der Komponenten, die du verwenden wirst:
 
-+ A battery ![](images/batteries.png)
++ Eine Batterie![](images/batteries.png)
 
-+ LEDs. These are small lights that come in different colours, and some of them can even flash or change colour. You can also get special sewable LEDs. For this project, you can use any kind of LED!
++ LEDs. Dies sind kleine Lichter, die es in verschiedenen Farben gibt. Einige können sogar blinken oder die Farbe ändern. Es gibt auch spezielle LEDs zum Annähen. Für dieses Projekt kannst du jede Art von LED verwenden!
 
 ![](images/LEDs_mix.png)
 
-+ A sewable battery holder. This is a battery holder that's attached to a special board (called a **printed circuit board** or **PCB**) that you can sew onto your project.
++ Eine Batteriehalterung zum Annähen. Diese Batteriehalterung ist an einer speziellen Platte (der sogenannten **Leiterplatte**) angebracht, die du an deine Schaltung annähen kannst.
 
 ![](images/battery_holders.png)
 
-Note: Your battery holder might look different from the ones shown above.
+Hinweis: Deine Batteriehalterung sieht möglicherweise anders aus als die auf den oben angezeigten Bildern.
 
-+ Conductive thread. This is like embroidery thread, but it contains metal so that electricity can flow through it. We say that it **conducts** electricity.
++ Leitende Fäden. Dies ist eine Art Stickfaden, welcher Metalle enthält damit Elektrizität durch ihn hindurch fließen kann. Man bezeichnet es als **elektrisch leitend**.
 
 ![](images/thread.png)
 
-+ Crocodile clips (optional)
++ Krokodilklemmen (optional)
 
 ![](images/crocs.png)
 
-+ A switch (optional). You will see there are lots of different kinds of switches.
++ Einen Schalter (optional). Du wirst sehen, dass es viele verschiedene Arten von Schaltern gibt.
 
-### Other items
+### Sonstige Gegenstände
 
-+ Some fabric to sew the components onto. This could be a piece of clothing or a bag or anything you like. I will use regular craft felt.
++ Etwas Stoff zum Vernähen der Komponenten. Dies kann ein Kleidungsstück, eine Tasche oder ein anderer Stoff sein. Du hast die Wahl. Ich werde normalen Bastelfilz verwenden.
 
-+ A sewing needle, e.g. embroidery needle
++ Eine Nähnadel, z.B. eine Sticknadel
 
-+ Scissors
++ Eine Schere
 
-+ Tape-electrical or masking tape, or any other removable tape
++ Klebeband - Isolierband oder Abdeckband, oder ein anderes entfernbares Klebeband
 
-+ A safety pin or any kind of badge pin
++ Eine Sicherheitsnadel oder irgendeine Art von Anstecknadel
 
 #### Optional
 
-+ Regular embroidery thread (or any other kind of thread)
++ Normaler Stickfaden (oder eine andere Art von Faden)
 
-+ Pliers (preferably round-nosed)
++ Zange (vorzugsweise eine Rundzange)
 
 --- /collapse ---
