@@ -1,46 +1,46 @@
-## What you will need
+## Was du brauchen wirst
 
 ### Hardware
 
-The different parts of an electronic circuit are called **components**. Here is a list of the components you'll be using:
+Die verschiedenen Teile einer elektronischen Schaltung werden als ** -Komponenten bezeichnet **. Hier ist eine Liste der Bestandteile, die du verwenden wirst:
 
-+ A battery ![](images/batteries.png)
++ Eine Batterie![](images/batteries.png)
 
-+ LEDs. These are small lights that come in different colours, and some of them can even flash or change colour. You can also get special sewable LEDs. For this project, you can use any kind of LED!
++ LEDs. Dies sind kleine Lichter, die es in verschiedenen Farben gibt. Einige können sogar blinken oder die Farbe ändern. Es gibt auch spezielle LEDs zum Annähen. Für dieses Projekt kannst du jede Art von LED verwenden!
 
 ![](images/LEDs_mix.png)
 
-+ A sewable battery holder. This is a battery holder that's attached to a special board (called a **printed circuit board** or **PCB**) that you can sew onto your project.
++ Eine Batteriehalterung zum Annähen. Diese Batteriehalterung ist an einer speziellen Platte (der sogenannten <0>Leiterplatte</0>) angebracht, die du an deine Schaltung annähen kannst.
 
 ![](images/battery_holders.png)
 
-Note: Your battery holder might look different from the ones shown above.
+Hinweis: Deine Batteriehalterung sieht möglicherweise anders aus als die auf den oben angezeigten Bildern.
 
-+ Conductive thread. This is like embroidery thread, but it contains metal so that electricity can flow through it. We say that it **conducts** electricity.
++ Leitende Fäden. Dies ist eine Art Stickfaden, welcher Metalle enthält damit Elektrizität durch ihn hindurch fließen kann. Man bezeichnet ihn als **elektrisch leitend**.
 
 ![](images/thread.png)
 
-+ Crocodile clips (optional)
++ Krokodilklemmen (optional)
 
 ![](images/crocs.png)
 
-+ A switch (optional). You will see there are lots of different kinds of switches.
++ Einen Schalter (optional). Du wirst sehen, dass es viele verschiedene Arten von Schaltern gibt.
 
-### Other items
+### Sonstige Gegenstände
 
-+ Some fabric to sew the components onto. This could be a piece of clothing or a bag or anything you like. I will use regular craft felt.
++ Etwas Stoff zum Vernähen der Komponenten. Dies kann ein Kleidungsstück, eine Tasche oder ein anderer Stoff sein. Du hast die Wahl. Ich werde normalen Bastelfilz verwenden.
 
-+ A sewing needle, e.g. embroidery needle
++ Eine Nähnadel, z.B. eine Sticknadel
 
-+ Scissors
++ Eine Schere
 
-+ Tape-electrical or masking tape, or any other removable tape
++ Klebeband - Isolierband oder Abdeckband, oder ein anderes entfernbares Klebeband
 
-+ A safety pin or any kind of badge pin
++ Eine Sicherheitsnadel oder irgendeine Art von Anstecknadel
 
 #### Optional
 
-+ Regular embroidery thread (or any other kind of thread)
++ Normaler Stickfaden (oder eine andere Art von Faden)
 
-+ Pliers (preferably round-nosed)
++ Zange (vorzugsweise eine Rundzange)
  
