@@ -1,44 +1,44 @@
-## Sew on components
+## Nähe die Komponenten zusammen
 
-+ Cut a piece of felt to the size you want for your badge. Decide where you are going to put the LED and mark the spot on the felt. Now decide where to put your battery holder. It could be on the back! Mark the spot for one of the positive holes and one of the negative holes with a **+** and **-**.
++ Schneide ein Stück Filz auf die gewünschte Größe deines Ansteckers zu. Entscheide, wo du die LED platzieren möchtest, und markiere die Stelle auf dem Filz. Wähle nun aus an welcher Stelle du die Batteriehalterung befestigen möchtest. Es könnte auf der Rückseite sein! Markiere die Stelle für eines der positiven und eines der negativen Löcher mit einem **+** und **-**.
 
-+ If you are using a regular LED, you will need to bend the pins into loops. Pliers can be helpful here. If you have a sewable LED, skip this step!
++ Wenn du eine normale LED verwendest, musst du die Pins zu einer Schleife biegen. Hierbei kann eine Zange hilfreich sein. Wenn du eine LED zum Annähen hast, kannst du diesen Schritt überspringen!
 
 ![](images/led_loops1.png) ![](images/LED_loops2.JPG)
 
-+ Thread your needle! Take a piece of conductive thread about 30cm long, and pull one end of it through the hole in the needle (called the **eye**). This can be pretty fiddly. If the thread is frayed at the end, cut off the frayed bits with a scissors.
++ Fädel deine Nadel ein! Nimm ein etwa 30 cm langes Stück Leitfaden und ziehe eines der Enden durch das Loch in der Nadel (dieses wird auch als **Auge** bezeichnet). Das kann ganz schöne Fummelarbeit sein. Wenn das Ende des Fadens ausgefranst ist, kannst du den ausgefransten Teil einfach mit einer Schere abschneiden.
 
-+ Once the needle is threaded, the thread will be hanging out in two pieces. Pull one of them so it is a good bit longer than the other and tie a knot in the very end of the long piece.
++ Sobald die Nadel eingefädelt ist, hängt auf beiden Seiten der Faden heraus. Ziehe an einer Seite des Fadens, so dass sie ein gutes Stück länger ist als die andere. Mache nun einen Knoten am Ende des langen Stücks.
 
-Ready to start sewing?
+Bereit zum Nähen?
 
-+ Place your LED onto the felt at the spot you have marked out for it. With one hand, hold onto the felt and the LED. With the other hand, place the tip of the needle **behind** the felt and push it through so that it comes out through the **-** hole of the LED.
++ Lege deine LED an die Stelle auf dem Filz, die du markiert hast. Halte mit einer Hand den Filz und die LED fest. Mit der anderen Hand kannst du jetzt die Nadel **von hinten** durch den Filz schieben, so dass sie durch das **-** Loch der LED hindurchkommt.
 
 ![](images/needle_through_LED.png)
 
-+ Pull the needle and thread all the way through at the front. Try holding the needle by the eye and pinching the thread tightly there to keep it from falling out of the needle while you pull (if it does fall out, it's ok, you can re-thread it). You want to keep pulling until only the knot remains at the back.
++ Ziehe die Nadel und den Faden komplett nach vorne durch. Versuche, die Nadel am Auge, wo der Faden sitzt, festzuhalten, damit er beim Ziehen nicht aus der Nadel rutscht (wenn er doch herausfällt, kannst du ihn einfach erneut einfädeln). Ziehe so lange, bis nur noch der Knoten an der Rückseite des Filzes ist.
 
 ![](images/pull_thread_through.png)
 
-+ Now, place the tip of the needle **right beside** the **-** hole of the LED (the one it just came through), but **not inside** it. Like this:
++ Setze die Nadelspitze jetzt **direkt neben** das **-** Loch der LED (das, durch das sie gerade gekommen ist), aber **nicht hinein** in das Loch. Genau so:
 
 ![](images/needle_next_to_LED.png)
 
-+ Push the needle through the felt so it comes out the back. Grab the needle behind the felt and pull it all the way through, just like you did at the front. You've just sewn your first stitch! It should look something like this:
++ Schiebe die Nadel durch den Filz, so dass sie hinten herauskommt. Ziehe die Nadel hinter dem Filz ganz durch, genauso wie du es vorne auch getan hast. Du hast gerade deine erste Masche genäht! Es sollte ungefähr so aussehen:
 
 ![](images/first_stitch.png)
 
-+ Repeat the last two steps three more times. Be sure to pull the thread tight each time. This will create a good connection and keep the LED secured tightly to the felt.
++ Wiederhole die letzten beiden Schritte noch dreimal. Achte darauf, den Faden jedes Mal fest zu ziehen. Dadurch wird eine gute Verbindung hergestellt und die LED bleibt fest am Filz befestigt.
 
-+ You have just learned how to attach wearable components. Almost there!
++ Du hast soeben gelernt, wie man tragbare Komponenten anbringt. Fast fertig!
 
 --- collapse ---
 ---
-title: Tips for sewing
+titel: Tipps zum Nähen
 ---
 
-+ Practice makes perfect! If you have never sewn before, it can be tricky in the beginning. Don't worry, you'll get the hang of it.
++ Übung macht den Meister! Wenn du noch nie zuvor genäht hast, kann es am Anfang etwas schwierig sein. Mach dir keine Sorgen, du wirst den Dreh raus bekommen.
 
-+ This video might be helpful if you are new to sewing: [dojo.soy/wear-stitches](http://dojo.soy/wear-stitches){:target="_blank"}
++ Dieses Video kann hilfreich sein, wenn du mit dem Nähen noch nicht so vertraut bist: [ dojo.soy/wear-stitches ](http://dojo.soy/wear-stitches) {: target = "_ blank"}
 
 --- /collapse ---
