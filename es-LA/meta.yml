@@ -1,0 +1,30 @@
+---
+title: Insignia brillante
+hero_image: images/banner.png
+description: Crea una insignia de fieltro que se ilumine y aprende sobre los circuitos electrónicos
+theme: violet
+version: 3.0.0
+listed: true
+copyedit: true
+curriculum: 1, design-0, programming-0, phys-comp-0, manufacture-1, community-0
+interests: wearable-technology
+technologies: electronic-components
+site_areas: coderdojo, projects
+hardware: electronic-components
+software: ''
+last_tested: "2017-04-28"
+steps:
+  - 
+    title: Introducción
+  - 
+    title: Crea un circuito
+  - 
+    title: Agrega un interruptor
+  - 
+    title: Cose los componentes
+  - 
+    title: Complete your wearable circuit
+  - 
+    title: Agrega más LEDs
+  - 
+    title: Crea piezas desmontables
