@@ -4,7 +4,7 @@ Es ist sehr einfach weiterer LEDs zu deinem Schaltkreis hinzuzufügen und du ben
 
 **Hinweis**: Die LEDs in deinem Schaltkreis müssen vom gleichen Typ sein, entweder alle zum Annähen oder alle nicht annähbar. Es funktioniert am besten mit LEDs zum Annähen, da so viele LEDs an dieselbe Batterie angeschlossen werden können, ohne dass es die Leistung beeinträchtigt.
 
-+ Nimm die Batterie jetzt aus der Batteriehalterung heraus. Wenn du an einem Schaltkreis arbeitest, ist es wichtig, immer sicherzustellen, dass dieser nicht ** live** ist. Dies kannst du erreichen in dem du ihn ausschaltest oder die Batterie herausnimmst!
++ Nimm die Batterie jetzt aus der Batteriehalterung heraus. Wenn du an einem Schaltkreis arbeitest, ist es wichtig, immer sicherzustellen, dass dieser nicht **live** ist. Dies kannst du erreichen in dem du ihn ausschaltest oder die Batterie herausnimmst!
 
 + Entscheide dich, an welcher Stelle des Ansteckers du deine nächste LED platzieren möchtest und markiere diese Stelle.
 

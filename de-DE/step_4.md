@@ -34,7 +34,7 @@ Bereit zum Nähen?
 
 --- collapse ---
 ---
-titel: Tipps zum Nähen
+title: Tipps zum Nähen
 ---
 
 + Übung macht den Meister! Wenn du noch nie zuvor genäht hast, kann es am Anfang etwas schwierig sein. Mach dir keine Sorgen, du wirst den Dreh raus bekommen.
