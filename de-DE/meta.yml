@@ -1,7 +1,7 @@
 ---
-title: Glowing badge
+title: Leuchtende Anstecknadel
 hero_image: images/banner.png
-description: Make a felt badge that lights up, and learn about electronic circuits
+description: Fertige eine Anstecknadel an die aufleuchten kann und lerne mehr über elektronische Schaltungen
 theme: violet
 version: 3.0.0
 listed: true
@@ -15,16 +15,16 @@ software: ''
 last_tested: "2017-04-28"
 steps:
   - 
-    title: Introduction
+    title: Einleitung
   - 
-    title: Make a circuit
+    title: Fertige einen Schaltkreis an
   - 
-    title: Add a switch
+    title: Füge einen Schalter hinzu
   - 
-    title: Sew on components
+    title: Nähe die Komponenten zusammen
   - 
-    title: Complete your wearable circuit
+    title: Stelle deinen tragbaren Schaltkreis fertig
   - 
-    title: Add more LEDs
+    title: Füge weitere LEDs hinzu
   - 
-    title: Make detachable parts
+    title: Fertige die abnehmbaren Teile an
