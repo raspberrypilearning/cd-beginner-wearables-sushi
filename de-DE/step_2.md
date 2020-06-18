@@ -1,67 +1,67 @@
-## Make a circuit
+## Fertige einen Schaltkreis an
 
-Let's create your first circuit!
+Lass uns deinen ersten Schaltkreis erstellen!
 
-+ Take a regular LED (one with two legs rather than a sewable one) and connect it to a battery by holding both legs to the battery, one on either side. Notice that one of the legs of the LED is longer than the other one. The longer one should be connected to the side of the battery marked with a plus sign **+**. Watch your LED light up!
++ Nimm eine normale LED (eine mit zwei Anschlussbeinen anstelle einer vernähbaren) und schließe sie an eine Batterie an, indem du beide Beine an die Batterie hältst, eines auf jeder Seite. Beachte, dass das eine Anschlussbein der LED länger ist als das andere. Das Längere sollte an die Seite der Batterie angeschlossen werden, die mit einem Pluszeichen **+** gekennzeichnet ist. Schau, wie deine LED aufleuchtet!
 
 ![](images/LED_battery_140_291_650.png)
 
 --- collapse ---
 ---
-title: My LED didn't light up
+title: Meine LED hat nicht geleuchtet
 ---
 
-+ If it didn't work, check that the legs are the right way round.
++ Wenn es nicht funktioniert hat, überprüfe, ob die Beine richtig herum sind.
 
 --- /collapse ---
 
-+ Once you have the LED lighting up, try flipping the battery over so the legs are connected the wrong way around, with the shorter one on the `+` side of the battery. Does it still work?
++ Wenn die LED aufleuchtet, drehe die Batterie um, damit die Beine falsch herum angeschlossen sind. Das kürzere Anschlussbein befindet sich nun auf der `+` Seite der Batterie. Funktioniert es immer noch?
 
 --- collapse ---
 ---
-title: How it works
+title: So funktioniert es
 ---
 
-In every circuit, there are a **positive** or **+** and a **negative** or **-** direction.
+In jeder Schaltung gibt es eine **positive** oder **+** und eine **negative** oder **-** Richtung.
 
-For electricity to flow, you need to match up the **+** to **+** and the **-** to **-** between your components. This is why the LED doesn't light up when you flip the battery around.
+Damit Strom fließen kann, musst du bei deinen Komponenten **+** an **+** und **-** an ** - ** anschließen. Aus diesem Grund leuchtet die LED nicht auf, wenn du den Akku umdrehst.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Identifying + and - on different LEDs
+title: Erkennen von + und - auf verschiedenen LEDs
 ---
 
-+ On the LED, the longer leg is **+** and the shorter pin is **-**. You can also identify **-** by looking closely at the bulb: it is the side with the flat edge.
++ Das längere Bein der LED ist **+** und der kürzere Pin ist **-**. Du kannst **-** auch erkennen wenn du dir die Glühbirne ganz genau anschaust: Es ist die Seite mit der flachen Kante.
 
-+ A sewable LED is built onto a tiny **printed circuit board**, so it has holes instead of legs. The holes are marked with **+** and **-** signs.
++ Eine LED zum Annähen ist auf einer kleinen **Leiterplatte** angebracht. Daher hat es Löcher an Stelle von Anschlussbeinen. Die Löcher sind mit den Zeichen **+** und **-** markiert.
 
 ![](images/LEDs_pos_neg_100_650.png)
 
 --- /collapse ---
 
-+ Separate the LED and the battery, and pop the battery into a battery holder, with the **+** facing up (the holder will have a mark to show its **+** side too).
++ Nimm die LED von der Batterie ab und stecke die Batterie mit dem **+** nach oben in einen Batteriehalterung (die Halterung hat ebenfalls eine Markierung, um die **+** Seite anzuzeigen).
 
-+ Get two pieces of conductive thread, and team up with the Ninja next to you, so you can help each other hold things in place.
++ Nimm zwei Leitfäden und schließe dich mit dem Ninja neben dir zusammen. So könnt ihr euch gegenseitig helfen, damit nichts verrutscht.
 
-+ Put one end of the first thread through the **+** hole of the battery holder, making sure it touches the metal, and hold the other end to the **positive** leg of the LED. You can use tape if you need to, although this will fray the thread a lot. If you have crocodile clips, you can use these instead of thread.
++ Führe ein Ende des ersten Fadens durch das **+** Loch der Batteriehalterung. Achte hierbei darauf, dass es das Metall berührt. Halte nun das andere Ende an das **positive** Anschlussbein der LED. Du kannst bei Bedarf etwas Klebeband verwenden, jedoch wird das den Faden stark ausfransen. Wenn du Krokodilklemmen hast, kannst du diese anstelle der Fäden verwenden.
 
 ![](images/circuit_thread_pos.png)
 
-+ Now take the second thread. Put one end through the **-** hole of the battery holder, and hold the other end to the **negative** leg of the LED.
++ Nimm jetzt den zweiten Faden. Führe ein Ende durch das **-** Loch der Batteriehalterung und halte das andere Ende an das **negative** Anschlussbein der LED.
 
 ![](images/circuit_thread_complete.png)
 
-+ Make sure the two threads are not touching or crossing over at any point. If they do, this will cause a **short** in your circuit and it will not work properly.
++ Stelle sicher, dass sich die beiden Fäden an keiner Stelle berühren oder kreuzen. Wenn das passiert, führt es zu einem **Kurzschluss** in deiner Schaltung und sie wird nicht richtig funktionieren.
 
 --- collapse ---
 ---
-title: What is a short?
+title: Was ist ein Kurzschluss?
 ---
 
-+ When you have a **short circuit**, the electricity goes a shorter way through the circuit, skipping some of the components, and that's why it stops working.
++ Wenn du einen **Kurzschluss** hast, fließt der Strom auf einem kürzeren Weg durch den Stromkreis und überspringt einige der Komponenten. Deshalb funktioniert er nicht mehr.
 
 --- /collapse ---
 
-Now you have a circuit and are ready to make a light-up badge!
+Jetzt ist die Schaltung fertig und du bist bereit, einen leuchtenden Anstecker anzufertigen!
