@@ -1,50 +1,50 @@
-## Add more LEDs
+## Füge weitere LEDs hinzu
 
-Adding more LEDs to your circuit is easy, and you don't need any additional batteries!
+Es ist sehr einfach weiterer LEDs zu deinem Schaltkreis hinzuzufügen und du benötigst keine zusätzlichen Batterien!
 
-**Note**: the LEDs in your circuit must be of the same type, either all sewable or all non-sewable. It will work best with sewable LEDs, as you can connect many more of them to the same battery without the power being reduced.
+**Hinweis**: Die LEDs in deinem Schaltkreis müssen vom gleichen Typ sein, entweder alle zum Annähen oder alle nicht annähbar. Es funktioniert am besten mit LEDs zum Annähen, da so viele LEDs an dieselbe Batterie angeschlossen werden können, ohne dass es die Leistung beeinträchtigt.
 
-+ Pop the battery out of the battery holder for now. When working on a circuit, it is important to always make sure is is not **live** by switching it off or taking out the battery!
++ Nimm die Batterie jetzt aus der Batteriehalterung heraus. Wenn du an einem Schaltkreis arbeitest, ist es wichtig, immer sicherzustellen, dass dieser nicht ** live** ist. Dies kannst du erreichen in dem du ihn ausschaltest oder die Batterie herausnimmst!
 
-+ Decide where on your badge you want to put your next LED, and mark that place.
++ Entscheide dich, an welcher Stelle des Ansteckers du deine nächste LED platzieren möchtest und markiere diese Stelle.
 
-You will connect the LEDs in **parallel**. There are two ways to do this.
+Du wirst die LEDs **parallel** anschließen. Es gibt zwei Möglichkeiten, dies zu tun.
 
-### Method 1
+### Methode 1
 
-One option is to connect the LED directly to the battery, just like the first LED. It is OK to use the same holes on the battery holder more than once on the battery holder - the only limit is how much thread you can fit through! The example circuit in the picture hasn't been sewn onto anything, so you can see the threads clearly:
+Zum Einen gibt es die Möglichkeit die LED genau wie die erste LED direkt an die Batterie anzuschließen. Es ist in Ordnung, die gleichen Löcher der Batteriehalterung mehrmals zu verwenden - man kann so viele Fäden hindurch stecken wie es passt! Der Schaltkreis auf dem Bild wurde nicht auf etwas drauf genäht, damit du die Fäden deutlich sehen kannst:
 
 ![](images/more_leds_separate.png)
 
-### Method 2
+### Methode 2
 
-Another option is to attach the new LED to the LED that's already in your circuit, instead of to the battery. You match up the **+** to the **+** and the **-** to the **-** as you would if you were connecting it to a battery. In the below example, the same two long pieces of thread are used for both LEDs. You could also use separate pieces of thread for each LED.
+Zum andern hast du auch die Möglichkeit, die neue LED an der LED zu befestigen, die sich bereits in deinem Schaltkreis befindet, anstatt an der Batterie. Du musst auch hier **+** an **+** und **-** an **-** anschließen, wie als würdest du sie mit der Batterie verbinden. Im folgenden Beispiel werden für beide LEDs die zwei langen Fadenstücke verwendet. Du kannst auch verschiedene Fadenstücke für jede LED verwenden.
 
 ![](images/more_leds_extended.png)
 
 --- collapse ---
 ---
-title: Which method should I choose?
+title: Welche Methode soll ich wählen?
 ---
 
-Deciding whether to connect the LED to the battery holder or to the other LED depends on where you want to put the new LED!
+Die Entscheidung, ob du die LED an der Batteriehalterung oder an die andere LED anschließen solltest, hängt davon ab, wo du die neue LED platzieren möchtest!
 
-+ Usually you will pick the component that's closer to the place you've chosen for your second LED.
++ In der Regel sollte man die Komponente auswählen, die sich näher an der Stelle befindet, die du für deine zweite LED ausgewählt hast.
 
-+ You also need to make sure all the different threads are kept separate and don't cross over or touch, so it is a good idea to look at where the **+** and **-** of your components are when you pick a method and a place for the LED.
++ Du musst auch sicherstellen, dass die verschiedenen Fäden getrennt gehalten werden und sich nicht kreuzen oder berühren. Daher ist es eine gute Idee, zu prüfen, wo sich **+** und **-** deiner Komponenten befinden, wenn du eine Methode und eine Stelle für die LED auswählst.
 
 --- /collapse ---
 
-+ Holding the LED in place, use a needle and a new piece of conductive thread to secure the **-** hole of the LED like you did for the first one you sewed on.
++ Halte die LED an die ausgewählte Stelle und nähe das **-** Loch der LED mit einer Nadel und einem neuen Stück leitendem Faden fest - genau so wie du es bei der ersten LED gemacht hast.
 
-+ The next step is the running stitch. If you are connecting the LED to the other LED, then this time the stitches will go in a line towards the **-** hole of the other LED, instead of to the battery holder. Once you reach the correct hole, make three stitches through it, and three tiny stitches to finish, exactly as you did before.
++ Der nächste Schritt ist der Vorstich. Wenn du die LED mit der anderen LED verbindest, werden die Stiche in einer Reihe in Richtung des **-** Loch der anderen LED, anstelle der Batteriehalterung, genäht. Sobald du das richtige Loch erreicht hast, mache drei Stiche durch das Loch und zum Abschluss drei kleine Knoten, genau wie zuvor.
 
-+ Now connect the **+** hole of the new LED using the same method.
++ Verbinde nun das **+** Loch der neuen LED auf die gleiche Art und Weise.
 
-In this photo, the second LED is connected directly to the battery:
+Auf diesem Foto ist die zweite LED direkt an die Batterie angeschlossen:
 
 ![](images/second_led.JPG)
 
-In the next photo, a second LED has been connected to the first LED, which is in turn connected to the battery (the battery is at the back of the fabric):
+Auf dem nächsten Foto wurde eine zweite LED an die erste LED angeschlossen, die wiederum an die Batterie angeschlossen ist (die Batterie befindet sich auf der Rückseite des Stoffes):
 
 ![](images/second_led2.png)
