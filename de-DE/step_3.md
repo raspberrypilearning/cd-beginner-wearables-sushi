@@ -1,45 +1,45 @@
-## Add a switch
+## Füge einen Schalter hinzu
 
-What if you want to turn your circuit off? To do this, you need a break somewhere in the circuit to stop the electricity from flowing. A **switch** is a component that allows you to turn a circuit off and on easily. There are lots of different types of switches: buttons, sliders, even magnetic or tilting ones. Some battery holders even have a built-in switch.
+Was, wenn du deine Schaltung ausschalten möchtest? Hierzu benötigst du eine Unterbrechung im Stromkreis, um den Stromfluss zu stoppen. Ein **Schalter** ist eine Komponente, mit der du einen Stromkreis einfach aus- und einschalten kannst. Es gibt viele verschiedene Arten von Schaltern: Knöpfe, Schieberegler, und sogar magnetische oder zum Kippen. Einige Batteriehalterungen haben sogar einen eingebauten Schalter.
 
 ![](images/switches.png)
 
-+ On your circuit, detach the thread from the **+** hole of the battery holder. Take a new piece of thread and put one end of the new piece through the the **+** hole where the other thread just was. You might need to team up with a third person here, for some extra hands! Otherwise you can always use tape, or use crocodile clips instead of thread.
++ Nimm den Faden deiner Schaltung vom **+** Loch der Batteriehalterung ab. Nimm ein neues Stück Faden und stecke ein Ende des neuen Fadens durch das **+** Loch, wo der andere Faden gerade war. Möglicherweise benötigst du hier die Hilfe einer dritten Person! Andernfalls kannst du auch immer Klebeband oder Krokodilklemmen anstelle der Fäden verwenden.
 
-+ If you have a ready-made switch, hold the other end of the new thread to one end of it. Then take the thread you removed from the battery holder (it should still be attached to the LED) and hold it to the other end of the switch. Now you can use the switch to turn the LED off and on!
++ Wenn du einen vorgefertigten Schalter hast, halte das andere Ende des neuen Fadens an ein Ende des Schalters. Nimm dann den Faden, den du vorher aus der Batteriehalterung entfernt hast (er sollte noch immer mit der LED verbunden sein) und halte ihn an das andere Ende des Schalters. Jetzt kannst du den Schalter benutzen um die LED ein- und auszuschalten!
 
 ![](images/switch_on_thread.png)
 
 --- collapse ---
 ---
-title: Which way around should the switch go?
+title: Wie rum gehört der Schalter?
 ---
 
-+ Notice there is no positive or negative side on a switch. This means it doesn't matter which way around the switch sits.
++ Beachte, dass ein Schalter keine positive oder negative Seite hat. Dies bedeutet, dass es keine Rolle spielt, in welcher Richtung sich der Schalter befindet.
 
 --- /collapse ---
 
-+ If you don't have a switch, you can make one very easily. Take the two loose ends of thread in your circuit and hold them together to make your LED light up. When you separate them, it turns off again. You have just created a simple switch!
++ Wenn du keinen Schalter hast, kannst du ganz einfach selber einen erstellen. Nimm die beiden losen Fadenenden in deinem Stromkreis und halte sie zusammen, damit deine LED aufleuchtet. Wenn du sie auseinander nimmst, schaltet sich die LED wieder aus. Du hast gerade einen einfachen Schalter erstellt!
 
 ![](images/switch_diy_thread_a.png) ![](images/switch_diy_thread_b.png) ![](images/switch_diy_thread_c.png)
 
 --- collapse ---
 ---
-title: How does it work?
+title: Wie funktioniert es?
 ---
 
-As you've seen, electricity flows all the way around the circuit to make the LED light up. For the electricity to flow, there needs to be a connection between each component in the circuit.
+Wie du gesehen hast, fließt Strom rund um den Stromkreis, damit die LED aufleuchtet. Damit der Strom fließen kann, muss zwischen den einzelnen Komponenten des Stromkreises eine Verbindung bestehen.
 
-When you separate the two threads, you have broken the connection between them, so the electricity can no longer flow.
+Wenn du die beiden Fäden trennst, unterbrichst du die Verbindung zwischen ihnen, sodass der Strom nicht mehr fließen kann.
 
-When you make the threads touch, they are connected and the electricity is able to flow once more.
+Wenn du die Fäden zusammenführst sodass sie sich berühren, verbindest du sie miteinander und der Strom kann wieder fließen.
 
-I've put tape near the end of each thread so you can more easily see where the break is in the circuit. This will be the switch. Here it is in action:
+Ich habe Klebeband am Ende jedes Fadens angebracht, damit du leichter erkennen kannst, wo sich die Unterbrechung im Stromkreis befindet. Dies wird der Schalter sein. So funktioniert es in Aktion:
 
 ![](images/switch_diy_tape_abc_120_650.png)
 
-In a ready-made switch, the part where the connection gets broken and reconnected is usually hidden inside so you can't see it. Now you know what is really happening when you switch something on or off!
+Bei einem vorgefertigten Schalter ist der Teil, an dem die Verbindung unterbrochen und wieder verbunden wird, normalerweise im Inneren versteckt, sodass du ihn nicht sehen kannst. Jetzt weißt du, was wirklich passiert, wenn du etwas ein- oder ausschalten!
 
 --- /collapse ---
 
-Different types of switches work by breaking the circuit in different ways. You can use a switch in your wearables projects to give you control over when the circuit is on or off.
+Verschiedene Arten von Schaltern funktionieren, indem sie den Stromkreis auf unterschiedliche Weise unterbrechen. Du kannst bei deinen "Tragbare Elektronik"-Projekten einen Schalter verwenden, um zu steuern, wann der Stromkreis ein- oder ausgeschaltet ist.
