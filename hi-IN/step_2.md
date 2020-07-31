@@ -1,67 +1,67 @@
-## Make a circuit
+## एक सर्किट बनाओ
 
-Let's create your first circuit!
+चलिए अपना पहला सर्किट बनाएं!
 
-+ Take a regular LED (one with two legs rather than a sewable one) and connect it to a battery by holding both legs to the battery, one on either side. Notice that one of the legs of the LED is longer than the other one. The longer one should be connected to the side of the battery marked with a plus sign **+**. Watch your LED light up!
++ एक साधारण LED (दो पैर वाला, सिलने वाले के बजाय) लें और इसके दोनों पैरों को बैटरी से जोड़कर कनेक्ट करें, दोनों तरफ से एक एक पैर पकड़ते हुए। ध्यान दें कि LED के एक पैर दूसरे की तुलना में लंबा है। लंबे पैर वाला प्लस चिह्न **+** बैटरी के साथ जुड़ा होना चाहिए । अपने LED को प्रकाशित होते हुए देखें!
 
 ![](images/LED_battery_140_291_650.png)
 
 --- collapse ---
 ---
-title: My LED didn't light up
+title: मेरा LED प्रकाश नही हो रहा
 ---
 
-+ If it didn't work, check that the legs are the right way round.
++ यदि यह काम नहीं करता है, तो जांचें कि पैर सही तरीके से जुड़े हुए हैं की नहि।
 
 --- /collapse ---
 
-+ Once you have the LED lighting up, try flipping the battery over so the legs are connected the wrong way around, with the shorter one on the `+` side of the battery. Does it still work?
++ एक बार जब आपका LED प्रकाशित होजाए तो बैटरी को पलटने करने की कोशिश करें ताकि पैर गलत तरीके से चारों ओर जुड़े हों, छोटे पैर को बैटरी `+` तरफ जोड़ें I Does it still work?
 
 --- collapse ---
 ---
-title: How it works
+title: यह कैसे काम करता है?
 ---
 
-In every circuit, there are a **positive** or **+** and a **negative** or **-** direction.
+प्रत्येक सर्किट में, एक **सकारात्मक** या ** + ** (positive) और **नकारात्मक** या **-** (negative) दिशा होते हैं।
 
-For electricity to flow, you need to match up the **+** to **+** and the **-** to **-** between your components. This is why the LED doesn't light up when you flip the battery around.
+बिजली के प्रवाह के लिए, आपको **+** को ** + ** से मेल खाना चाहिए और **-** को **-** अपने पुर्ज़ो के बीच। यही कारण है कि जब आप बैटरी को इधर-उधर घुमाते हैं तो LED प्रकाश नहीं देता है।
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Identifying + and - on different LEDs
+title: विभिन्न LEDs पर + और - की पहचान करना
 ---
 
-+ On the LED, the longer leg is **+** and the shorter pin is **-**. You can also identify **-** by looking closely at the bulb: it is the side with the flat edge.
++ LED पर, लंबा पैर **+** है और छोटी पिन **-** होता है । आप **-** की पहचान ऐसे कर भी सकते हैं जब आप बल्ब को करीब से देखने पर: जो समतल किनारे (flat edge) वाला पक्ष होता है।
 
-+ A sewable LED is built onto a tiny **printed circuit board**, so it has holes instead of legs. The holes are marked with **+** and **-** signs.
++ एक सिलने लायक LED एक छोटे **printed circuit board** पर बनाया जाता है, तो इसमें पैरों के बजाय छेद होते है। छेद **+** और **-** के साथ चिह्नित हैं ।
 
 ![](images/LEDs_pos_neg_100_650.png)
 
 --- /collapse ---
 
-+ Separate the LED and the battery, and pop the battery into a battery holder, with the **+** facing up (the holder will have a mark to show its **+** side too).
++ LED और बैटरी को अलग करें और बैटरी को बैटरी होल्डर में डाले, **+** चिन्ह ऊपर की तरफ (होल्डर में भी **+** चिन्ह होगा)।
 
-+ Get two pieces of conductive thread, and team up with the Ninja next to you, so you can help each other hold things in place.
++ प्रवाहकीय धागे (conductive thread) के दो टुकड़े लाएं, और बगल के बच्चे के साथ टीम बनाएं, ताकि आप एक-दूसरे को चीजों को रखने में मदद कर सकें।
 
-+ Put one end of the first thread through the **+** hole of the battery holder, making sure it touches the metal, and hold the other end to the **positive** leg of the LED. You can use tape if you need to, although this will fray the thread a lot. If you have crocodile clips, you can use these instead of thread.
++ पहले धागे के एक छोर को बैटरी होल्डर के **+** छेद में डाले, यह सुनिश्चित करियेगा कि यह धातु (metal) को छूता है और दूसरे छोर को LED के **सकारात्मक** पैर रखिए । यदि आपको आवश्यकता हो तो आप टेप का उपयोग कर सकते हैं, हालांकि इससे धागे को बहुत नुकसान होगा। यदि आपके पास मगरमच्छ क्लिप हैं, तो आप धागे के बजाय इनका उपयोग कर सकते हैं।
 
 ![](images/circuit_thread_pos.png)
 
-+ Now take the second thread. Put one end through the **-** hole of the battery holder, and hold the other end to the **negative** leg of the LED.
++ अब दूसरा धागा लें। पहले धागे के एक छोर को बैटरी होल्डर के **-** छेद में डाले और दूसरे छोर को LED के **नकारात्मक** (negative) पैर पर रखिए ।
 
 ![](images/circuit_thread_complete.png)
 
-+ Make sure the two threads are not touching or crossing over at any point. If they do, this will cause a **short** in your circuit and it will not work properly.
++ सुनिश्चित करें कि दो धागे किसी भी बिंदु पर स्पर्श या पार नहीं कर रहे हैं। यदि वे ऐसा करते हैं, तो यह **शार्ट** सर्किट (short circuit) और यह ठीक से काम नहीं करेगा।
 
 --- collapse ---
 ---
-title: What is a short?
+title: शार्ट क्या होता है?
 ---
 
-+ When you have a **short circuit**, the electricity goes a shorter way through the circuit, skipping some of the components, and that's why it stops working.
++ जब आपके पास **शॉर्ट सर्किट** हो, तो कुछ पुर्ज़ो को छोड़ कर सर्किट के माध्यम से बिजली कम होती जाती है और इसीलिए यह काम करना बंद कर देता है।
 
 --- /collapse ---
 
-Now you have a circuit and are ready to make a light-up badge!
+अब आपके पास एक सर्किट है और एक जलने वाला पदक बनाने के लिए तैयार हैं!
