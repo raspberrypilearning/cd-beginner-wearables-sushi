@@ -1,41 +1,41 @@
 ## Make detachable parts
 
-You can also extend your badge circuit so that separate pieces of felt with their own LEDs (of the same type) can be joined to it to make them light up!
+आप अपने बैज circuit का विस्तार भी कर सकते हैं ताकि उनके स्वयं के LEDs(एक ही प्रकार के) के साथ महसूस किए गए अलग-अलग टुकड़ों को इसमें शामिल किया जा सके ताकि उन्हें हल्का बनाया जा सके!
 
-First you will need another badge. This one will not have a battery of its own. But without a battery, where will the threads go?
+पहले आपको दूसरे बैज की आवश्यकता होगी। इस एक की अपनी बैटरी नहीं होगी। लेकिन बैटरी के बिना, धागे कहां जाएंगे?
 
-+ When you sew your LED onto this new badge, do the running stitches all the way to the edge of the felt, or near the edge. Remember to keep the **positive** and **negative** threads separate from each other!
++ जब आप इस नए बैज पर अपने LED को सीवे करते हैं, तो रनिंग स्टिच को महसूस किए गए किनारे के किनारे, या किनारे के पास करें। याद रखना ** सकारात्मक ** और ** नकारात्मक ** एक दूसरे से अलग धागे!
 
-+ Then sew several medium-sized stitches next to each other or criss-crossing over each other. You want to make it look like a "blob" of conductive thread on the felt.
++ फिर एक-दूसरे के बगल में कई मध्यम-आकार के टाँके सीना या एक-दूसरे के ऊपर क्रोस-क्रॉस करना। आप इसे महसूस करने पर प्रवाहकीय धागे के "बूँद" की तरह बनाना चाहते हैं।
 
-+ Finish the stitching as normal by doing three tiny stitches in one spot before cutting the thread short.
++ धागा छोटा काटने से पहले एक स्थान पर तीन छोटे टांके लगाकर सिलाई को सामान्य रूप से समाप्त करें।
 
 ![](images/new_badge_blobs_front_back_120_650.png)
 
-+ Once you have one blob for the **negative**, and one blob for the **positive** side, the new badge is ready. If you want, you can repeat these steps so that you extend the circuit to another pair of blobs at the opposite edge of the new badge, like this:
++ एक बार जब आप ** नकारात्मक **, के लिए एक बूँद है और सकारात्मक ** के लिए एक बूँद ** पक्ष, नया बिल्ला तैयार है। यदि आप चाहते हैं, तो आप इन चरणों को दोहरा सकते हैं, ताकि आप नए बिल्ला के विपरीत छोर पर एक और जोड़ी ब्लब्स के लिए circuit का विस्तार करें:
 
 ![](images/new_badge_front_back_120_650.png)
 
-+ Now you just need to extend the circuit on the main badge (the one with the battery). Remember to remove the battery from the holder first.
++ अब आपको बस मुख्य बैज (बैटरी के साथ एक) पर circuit का विस्तार करने की आवश्यकता है। पहले धारक से बैटरी को हटाने के लिए याद रखें।
 
-+ Decide where you want to the badges to join together. You will be sewing stitches from the LED on the main badge to this point, so make sure you can trace a line from the **+** to the **positive** blob and from the **-** to the **negative** blob without the lines crossing.
++ तय करें कि आप बैज कहाँ से मिलाना चाहते हैं। आप इस बिंदु पर मुख्य बैज पर LED से टांके सिलाई करेंगे, इसलिए सुनिश्चित करें कि आप ** + ** से एक रेखा का पता लगा सकते हैं को ** सकारात्मक ** बूँद और ** से - ** को ** नकारात्मक ** रेखाओं के बिना बूँद।
 
-+ Mark two spots on the main badge where the **positive** and **negative** blobs touch it. You are going to sew matching blobs here for them to connect to. You can put the new badge to one side for the next bit.
++ मुख्य बैज पर दो स्थानों को चिह्नित करें जहां ** सकारात्मक ** और ** नकारात्मक ** छाले इसे छूते हैं। आप उन्हें कनेक्ट करने के लिए यहाँ मिलान बूँदें सिलाई करने जा रहे हैं। आप नए बैज को अगले बिट के लिए एक तरफ रख सकते हैं।
 
-+ Taking new thread and the main badge, sew a bunch of stitches at the spot you marked for the **negative** blob. Then sew a running stitch all the way to the LED on this badge and secure it to the **-** hole. Repeat this process to make a **positive** blob that is connected to the **+** hole of the same LED. When you are done it should look something like this:
++ नया धागा और मुख्य बैज लेते हुए, उस स्थान पर टाँके का एक गुच्छा सीवे करें जिसे आपने ** नकारात्मक के लिए चिह्नित किया है ** ब्लॉब। फिर इस बिल्ला पर LED के लिए सभी तरह से एक सिलाई सिलाई करें और इसे ** - पर सुरक्षित करें ** छेद। ** सकारात्मक बनाने के लिए इस प्रक्रिया को दोहराएं ** बूँद जो ** + से जुड़ी है ** उसी LED का छेद। जब आप कर रहे हैं यह कुछ इस तरह दिखना चाहिए:
 
 ![](images/badge_ext_blobs.png)
 
-Your badges are ready to be joined together!
+आपके बैज एक साथ जुड़ने के लिए तैयार हैं!
 
-+ Pop the battery back into its holder. Place the new badge onto the main badge so the blobs touch each other. Remember to match up **+** to **+** and **-** to **-**. You should see the new badge suddenly light up!
++ बैटरी को उसके धारक में वापस लाएं। नए बैज को मुख्य बैज पर रखें ताकि ब्लब्स एक दूसरे को स्पर्श करें। मैच के लिए याद रखें ** + ** से ** + ** और ** - ** को ** - ** । आपको नए बैज को अचानक से देखना चाहिए!
 
 ![](images/badge_extended_unlit.png) ![](images/badge_extended_lit.png)
 
 --- challenge ---
 
-## Challenge: Make a soft switch
+## Challenge: एक नरम स्विच करें
 
-+ You could use this technique to make a simple soft switch on your project. For example, put a **positive** blob each at either end of a bracelet, so the two come in contact when you close it.
++ आप इस तकनीक का उपयोग अपने प्रोजेक्ट पर एक सरल सॉफ्ट स्विच बनाने के लिए कर सकते हैं। उदाहरण के लिए, एक ** सकारात्मक डालें ** एक कंगन के दोनों छोर पर प्रत्येक बूँदें, इसलिए जब आप इसे बंद करते हैं तो दोनों संपर्क में आते हैं।
 
 --- /challenge ---
