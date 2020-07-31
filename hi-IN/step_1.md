@@ -1,83 +1,83 @@
-## Introduction
+## परिचय
 
-These Sushi Cards will introduce you to wearable electronics. These are electronic circuits you can make using especially designed parts to create amazing-looking clothes and accessories.
+ये सुशी कार्ड आपको पहनने वाले इलेक्ट्रॉनिक्स से परिचित कराएंगे। ये इलेक्ट्रॉनिक सर्किट्स (electronic circuits) हैं जो आप अनोखे दिखने वाले कपड़े और सामान बनाने के लिए विशेष रूप से डिज़ाइन किए गए भागों का उपयोग कर सकते हैं।
 
-You will get to learn about and make electronic circuits, and you'll also do some sewing.
+आपको इलेक्ट्रॉनिक सर्किट्स के बारे में जानने और बनाने के लिए मिलेगा, और आप कुछ सिलाई भी करेंगे।
 
-You can use wearable electronics to decorate clothes, bags, hats, anything — the possibilities are unlimited!
+आप कपड़े, बैग, टोपी, कुछ भी सजाने के लिए पहनने योग्य इलेक्ट्रॉनिक्स का उपयोग कर सकते हैं - संभावनाएं असीमित हैं!
 
 ![](images/robot_headband_340_150_800.png)
 
 ### What you will make
 
-You are going to make a felt badge or patch that lights up!
+आप एक महसूस करने वाला पदक या पैच बनाने जा रहे हैं जो जलकर रोशनी करता है!
 
 ![](images/badge_lit.png)
 
-You will also see how you can design the badge so that you can join lots of them together to make a glowing patchwork. This might be fun to do together with other Ninjas!
+आप यह भी देखेंगे कि आप पदक को कैसे डिज़ाइन कर सकते हैं ताकि आप उनमें बहुत से एक साथ मिलाकर एक चमकदार पैचवर्क (patchwork) बना सकें। यह अन्य बच्चो के साथ मिलकर करने में काफी मजेदार हो सकता है!
 
 --- collapse ---
 ---
-title: What you will learn
+title: आप क्या सीखेंगे
 ---
 
-+ The basics of circuit components and the concepts involved in **positive/+** and **minus/-**
-+ Making a simple LED circuit
-+ How a switch works and how to use one in a circuit
-+ Using conductive thread and sewable components (parts) to make a wearable circuit
-+ Basic sewing skills
-+ Adding multiple LEDs to a circuit
-+ How to make a wearable circuit that’s split into detachable components
++ सर्किट पुर्ज़े (components) की मूल बातें और **सकारात्मक/+** (positive) और **माइनस/-** (minus) में शामिल अवधारणाएं
++ एक साधारण LED सर्किट बनाना
++ एक स्विच कैसे काम करता है और एक सर्किट में इसका उपयोग कैसे करें
++ पहनने योग्य सर्किट बनाने के लिए प्रवाहकीय धागे और सीवेबल पुर्ज़ों (भागों) का उपयोग करना
++ बुनियादी सिलाई की कला
++ एक सर्किट में कई LEDs जोड़ना
++ एक पहनने योग्य सर्किट कैसे बनाया जाए जो अलग-अलग भागो में भट जाएं
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you need
+title: आपको किन चीज़ों की आवश्यकता होगी
 ---
 
-### Hardware
+### हार्डवेयर
 
-The different parts of an electronic circuit are called **components**. Here is a list of the components you'll be using:
+इलेक्ट्रॉनिक सर्किट के विभिन्न भागों को **components** (पुर्ज़े) कहा जाता है. यहां उन पुर्ज़ों की सूची दी गई है जिनका आप उपयोग करेंगे:
 
-+ A battery ![](images/batteries.png)
++ एक बैटरी ![](images/batteries.png)
 
-+ LEDs. These are small lights that come in different colours, and some of them can even flash or change colour. You can also get special sewable LEDs. For this project, you can use any kind of LED!
++ LEDs. ये छोटी बत्तियां हैं जो विभिन्न रंगों में आती हैं और उनमें से कुछ चम चमाती है और रंग भी बदलती हैं। आप विशेष सिलने लायक LEDs भी प्राप्त कर सकते हैं। इस प्रोजेक्ट के लिए आप किसी भी प्रकार के LED का उपयोग कर सकते हैं!
 
 ![](images/LEDs_mix.png)
 
-+ A sewable battery holder. This is a battery holder that's attached to a special board (called a **printed circuit board** or **PCB**) that you can sew onto your project.
++ एक सिलाई किया हुआ बैटरी होल्डर (battery holder) I यह एक बैटरी होल्डर है जो एक विशेष बोर्ड से जुड़ा होता है (जिसे **printed circuit board** या **PCB** कहा जाता है) जिसे आप अपने प्रोजेक्ट पर सिलाई कर सकते हैं।
 
 ![](images/battery_holders.png)
 
-Note: Your battery holder might look different from the ones shown above.
+नोट: आपका बैटरी होल्डर ऊपर दिखाए गए उदहारण से अलग दिख सकता है।
 
-+ Conductive thread. This is like embroidery thread, but it contains metal so that electricity can flow through it. We say that it **conducts** electricity.
++ प्रवाहकीय (conductive) धागा। यह कढ़ाई के धागे की तरह है, लेकिन इसमें धातु (metal) होती है ताकि इसके माध्यम से बिजली प्रवाहित हो सके। हम कहते हैं कि यह बिजली की **संचालन** (conducts) करता है ।
 
 ![](images/thread.png)
 
-+ Crocodile clips (optional)
++ मगरमच्छ क्लिप (वैकल्पिक)
 
 ![](images/crocs.png)
 
-+ A switch (optional). You will see there are lots of different kinds of switches.
++ एक स्विच (वैकल्पिक)। आप देखेंगे कि विभिन्न प्रकार के स्विच होते हैं।
 
-### Other items
+### अन्य सामान
 
-+ Some fabric to sew the components onto. This could be a piece of clothing or a bag or anything you like. I will use regular craft felt.
++ पुर्ज़ों को सिलने के लिए कुछ कपड़े। यह कपड़े का एक टुकड़ा या एक बैग या आप जो भी चाहे हो सकता है। हम यहाँ एक सामान कारीगरी के कागज़ का इस्तेमाल करेंगे I
 
-+ A sewing needle, e.g. embroidery needle
++ एक सिलाई सुई, जैसे कढ़ाई सुई
 
-+ Scissors
++ कैंची
 
-+ Tape-electrical or masking tape, or any other removable tape
++ टेप-इलेक्ट्रिकल या मास्किंग टेप, या कोई अन्य हटाने योग्य टेप (tape)
 
-+ A safety pin or any kind of badge pin
++ सेफ्टी पिन या किसी भी तरह का बैज पिन (badge pin)
 
-#### Optional
+#### ऐच्छिक (optional)
 
-+ Regular embroidery thread (or any other kind of thread)
++ साधारण कढ़ाई धागा (या किसी अन्य प्रकार का धागा)
 
-+ Pliers (preferably round-nosed)
++ सरौता/चिमटा (कोशिश करें गोल-नाक वाला)
 
 --- /collapse ---
