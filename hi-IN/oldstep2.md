@@ -1,46 +1,46 @@
-## What you will need
+## आपको किन चीज़ों की आवश्यकता होगी
 
-### Hardware
+### हार्डवेयर
 
-The different parts of an electronic circuit are called **components**. Here is a list of the components you'll be using:
+इलेक्ट्रॉनिक सर्किट के विभिन्न भागों को **components** (पुर्ज़े) कहा जाता है I यहां उन पुर्ज़ों की सूची दी गई है जिनका आप उपयोग करेंगे:
 
-+ A battery ![](images/batteries.png)
++ एक बैटरी ![](images/batteries.png)
 
-+ LEDs. These are small lights that come in different colours, and some of them can even flash or change colour. You can also get special sewable LEDs. For this project, you can use any kind of LED!
++ LEDs. ये छोटी बत्तियां हैं जो विभिन्न रंगों में आती हैं और उनमें से कुछ चम चमाती है और रंग भी बदलती हैं। आप विशेष सिलने लायक LEDs भी प्राप्त कर सकते हैं। इस प्रोजेक्ट के लिए आप किसी भी प्रकार के LED का उपयोग कर सकते हैं!
 
 ![](images/LEDs_mix.png)
 
-+ A sewable battery holder. This is a battery holder that's attached to a special board (called a **printed circuit board** or **PCB**) that you can sew onto your project.
++ एक सिलाई किया हुआ बैटरी होल्डर (battery holder) I यह एक बैटरी होल्डर है जो एक विशेष बोर्ड से जुड़ा होता है (जिसे **printed circuit board** या **PCB** कहा जाता है) जिसे आप अपने प्रोजेक्ट पर सिलाई कर सकते हैं।
 
 ![](images/battery_holders.png)
 
-Note: Your battery holder might look different from the ones shown above.
+नोट: आपका बैटरी होल्डर ऊपर दिखाए गए उदहारण से अलग दिख सकता है।
 
-+ Conductive thread. This is like embroidery thread, but it contains metal so that electricity can flow through it. We say that it **conducts** electricity.
++ प्रवाहकीय (conductive) धागा। यह कढ़ाई के धागे की तरह है, लेकिन इसमें धातु (metal) होती है ताकि इसके माध्यम से बिजली प्रवाहित हो सके। हम कहते हैं कि यह बिजली की **संचालन** (conducts) करता है ।
 
 ![](images/thread.png)
 
-+ Crocodile clips (optional)
++ मगरमच्छ क्लिप (वैकल्पिक)
 
 ![](images/crocs.png)
 
-+ A switch (optional). You will see there are lots of different kinds of switches.
++ एक स्विच (वैकल्पिक)। आप देखेंगे कि विभिन्न प्रकार के स्विच होते हैं।
 
 ### Other items
 
-+ Some fabric to sew the components onto. This could be a piece of clothing or a bag or anything you like. I will use regular craft felt.
++ पुर्ज़ों को सिलने के लिए कुछ कपड़े। यह कपड़े का एक टुकड़ा या एक बैग या आप जो भी चाहे हो सकता है। हम यहाँ एक सामान कारीगरी के कागज़ का इस्तेमाल करेंगे I
 
-+ A sewing needle, e.g. embroidery needle
++ एक सिलाई सुई, जैसे कढ़ाई सुई
 
-+ Scissors
++ कैंची
 
-+ Tape-electrical or masking tape, or any other removable tape
++ टेप-इलेक्ट्रिकल या मास्किंग टेप, या कोई अन्य हटाने योग्य टेप (tape)
 
-+ A safety pin or any kind of badge pin
++ सेफ्टी पिन या किसी भी तरह का बैज पिन (badge pin)
 
-#### Optional
+#### ऐच्छिक (optional)
 
-+ Regular embroidery thread (or any other kind of thread)
++ साधारण कढ़ाई धागा (या किसी अन्य प्रकार का धागा)
 
-+ Pliers (preferably round-nosed)
++ सरौता/चिमटा (कोशिश करें गोल-नाक वाला)
  
