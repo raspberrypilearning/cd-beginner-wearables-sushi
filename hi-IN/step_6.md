@@ -1,24 +1,24 @@
 ## Add more LEDs
 
-Adding more LEDs to your circuit is easy, and you don't need any additional batteries!
+आपके circuit में अधिक LEDs जोड़ना आसान है, और आपको किसी अतिरिक्त बैटरी की आवश्यकता नहीं है!
 
-**Note**: the LEDs in your circuit must be of the same type, either all sewable or all non-sewable. It will work best with sewable LEDs, as you can connect many more of them to the same battery without the power being reduced.
+** ध्यान दें **: आपके circuit में LEDs एक ही प्रकार का होना चाहिए, या तो सभी सीवेबल या सभी गैर-सीवेबल। यह सीवेबल LEDs के साथ सबसे अच्छा काम करेगा, क्योंकि आप इनमें से कई को एक ही बैटरी से बिना बिजली कम किए जोड़ सकते हैं।
 
-+ Pop the battery out of the battery holder for now. When working on a circuit, it is important to always make sure is is not **live** by switching it off or taking out the battery!
++ बैटरी धारक के लिए बैटरी को पॉप आउट करें। Circuit पर काम करते समय, यह सुनिश्चित करना हमेशा महत्वपूर्ण होता है कि ** लाइव न हो ** इसे बंद करके या बैटरी निकालकर!
 
-+ Decide where on your badge you want to put your next LED, and mark that place.
++ तय करें कि आपके बैज पर आप अपना अगला LED कहां लगाना चाहते हैं, और उस जगह को चिह्नित करें।
 
-You will connect the LEDs in **parallel**. There are two ways to do this.
+आप ** समानांतर में LEDs कनेक्ट करेंगे ** । इसे करने के दो तरीके हैं।
 
 ### Method 1
 
-One option is to connect the LED directly to the battery, just like the first LED. It is OK to use the same holes on the battery holder more than once on the battery holder - the only limit is how much thread you can fit through! The example circuit in the picture hasn't been sewn onto anything, so you can see the threads clearly:
+एक विकल्प LED को सीधे बैटरी से जोड़ना है, पहले LED की तरह। बैटरी होल्डर पर एक से अधिक बार बैटरी होल्डर पर एक ही छेद का उपयोग करना ठीक है - केवल सीमा यह है कि आप कितने धागे से फिट हो सकते हैं! चित्र में उदाहरण circuit को किसी भी चीज़ पर सीवन नहीं किया गया है, इसलिए आप थ्रेड्स को स्पष्ट रूप से देख सकते हैं:
 
 ![](images/more_leds_separate.png)
 
-### Method 2
+### विधि 2
 
-Another option is to attach the new LED to the LED that's already in your circuit, instead of to the battery. You match up the **+** to the **+** and the **-** to the **-** as you would if you were connecting it to a battery. In the below example, the same two long pieces of thread are used for both LEDs. You could also use separate pieces of thread for each LED.
+एक अन्य विकल्प नई LED को बैटरी के बजाय पहले से ही आपके circuit में संलग्न करना है। आप ** + ** से मेल खाते हैं को ** + ** और ** - ** को ** - ** जैसा कि यदि आप इसे एक बैटरी से जोड़ रहे थे। नीचे दिए गए उदाहरण में, दोनों LEDs के लिए धागे के समान दो लंबे टुकड़ों का उपयोग किया जाता है। आप प्रत्येक LED के लिए धागे के अलग-अलग टुकड़ों का भी उपयोग कर सकते हैं।
 
 ![](images/more_leds_extended.png)
 
@@ -27,24 +27,24 @@ Another option is to attach the new LED to the LED that's already in your circui
 title: Which method should I choose?
 ---
 
-Deciding whether to connect the LED to the battery holder or to the other LED depends on where you want to put the new LED!
+यह तय करना कि LED को बैटरी धारक से जोड़ना है या अन्य LED पर निर्भर करता है कि आप नई LED कहां लगाना चाहते हैं!
 
-+ Usually you will pick the component that's closer to the place you've chosen for your second LED.
++ आमतौर पर आप उस घटक को चुनेंगे जो उस जगह के करीब है जिसे आपने अपनी दूसरी LED के लिए चुना है।
 
-+ You also need to make sure all the different threads are kept separate and don't cross over or touch, so it is a good idea to look at where the **+** and **-** of your components are when you pick a method and a place for the LED.
++ आपको यह भी सुनिश्चित करने की आवश्यकता है कि सभी अलग-अलग धागे अलग-अलग रखे गए हैं और ओवर क्रॉस या टच नहीं करते हैं, इसलिए यह देखना एक अच्छा विचार है कि ** + ** और ** - ** कहां है? आपके घटक तब होते हैं जब आप एक विधि और LED के लिए एक स्थान चुनते हैं।
 
 --- /collapse ---
 
-+ Holding the LED in place, use a needle and a new piece of conductive thread to secure the **-** hole of the LED like you did for the first one you sewed on.
++ जगह में LED पकड़े, एक सुई और प्रवाहकीय धागे का एक नया टुकड़ा का उपयोग करें ** - ** सुरक्षित करने के लिए आप की तरह LED के छेद पहले एक के लिए आप पर सिल दिया था।
 
-+ The next step is the running stitch. If you are connecting the LED to the other LED, then this time the stitches will go in a line towards the **-** hole of the other LED, instead of to the battery holder. Once you reach the correct hole, make three stitches through it, and three tiny stitches to finish, exactly as you did before.
++ अगला चरण रनिंग स्टिच है। यदि आप LED को दूसरी LED से जोड़ रहे हैं, तो इस बार टाँके एक लाइन में जाएंगे ** - ** बैटरी धारक के बजाय अन्य LED का छेद। एक बार जब आप सही छेद पर पहुँच जाते हैं, तो इसके माध्यम से तीन टाँके बनाते हैं, और तीन छोटे टाँके खत्म करने के लिए, ठीक वैसे ही जैसे आपने पहले किया था।
 
-+ Now connect the **+** hole of the new LED using the same method.
++ अब ** + **कनेक्ट करें उसी विधि का उपयोग करके नई LED का छेद।
 
-In this photo, the second LED is connected directly to the battery:
+इस तस्वीर में, दूसरी LED सीधे बैटरी से जुड़ी है:
 
 ![](images/second_led.JPG)
 
-In the next photo, a second LED has been connected to the first LED, which is in turn connected to the battery (the battery is at the back of the fabric):
+अगली तस्वीर में, एक दूसरी LED को पहले LED से जोड़ा गया है, जो बदले में बैटरी से जुड़ा है (बैटरी कपड़े के पीछे है):
 
 ![](images/second_led2.png)
