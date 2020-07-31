@@ -33,7 +33,7 @@ Para que fluya la electricidad, debes hacer coincidir el **+** con el **+** y el
 title: Identificando + y - en diferentes LEDs
 ---
 
-+ En el LED, la pata más larga es **+** y el pin más corto es **-**. You can also identify **-** by looking closely at the bulb: it is the side with the flat edge.
++ En el LED, la pata más larga es **+** y el pin más corto es **-**. También puedes identificar **-** mirando de cerca la bombilla: es el lado con el borde plano.
 
 + Un LED que puedes coser está integrado en una pequeña **placa de circuito impreso**, por lo que tiene agujeros en lugar de patas. Los agujeros están marcados con símbolos de **+** y **-**.
 
