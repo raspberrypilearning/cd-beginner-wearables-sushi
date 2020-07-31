@@ -10,7 +10,7 @@ Puedes usar dispositivos electrónicos portátiles para decorar ropa, bolsos, so
 
 ### Lo que harás
 
-You are going to make a felt badge or patch that lights up!
+¡Vas a hacer una insignia o parche de fieltro que se ilumina!
 
 ![](images/badge_lit.png)
 
@@ -22,7 +22,7 @@ title: Lo que vas a aprender
 ---
 
 + Los fundamentos de los componentes del circuito y los conceptos involucrados en **positivo/+** y **menos/-**
-+ Making a simple LED circuit
++ Crear un circuito LED simple
 + Cómo funciona un interruptor y cómo usar uno en un circuito
 + Usar hilo conductor y componentes (piezas) que puedas coser para hacer un circuito portátil
 + Habilidades básicas de costura
@@ -38,7 +38,7 @@ title: Lo que necesitas
 
 ### Hardware
 
-The different parts of an electronic circuit are called **components**. Aquí hay una lista de los componentes que usarás:
+Las diferentes partes de un circuito electrónico se denominan **componentes**. Aquí hay una lista de los componentes que usarás:
 
 + Una batería ![](images/batteries.png)
 
@@ -46,7 +46,7 @@ The different parts of an electronic circuit are called **components**. Aquí ha
 
 ![](images/LEDs_mix.png)
 
-+ Un soporte de batería que puedas coser. This is a battery holder that's attached to a special board (called a **printed circuit board** or **PCB**) that you can sew onto your project.
++ Un soporte de batería que puedas coser. Este es un soporte de batería que está conectado a una placa especial (llamada **placa de circuito impreso** o **PCB**) que puedes coser a tu proyecto.
 
 ![](images/battery_holders.png)
 
@@ -68,16 +68,16 @@ Nota: el soporte de la batería puede verse diferente de los que se muestran arr
 
 + Una aguja de coser, p. Ej. Aguja de bordar
 
-+ Scissors
++ Tijeras
 
-+ Tape-electrical or masking tape, or any other removable tape
++ Cinta eléctrica, cinta adhesiva o cualquier otra cinta removible
 
-+ A safety pin or any kind of badge pin
++ Un imperdible o cualquier tipo de alfiler para insignia
 
-#### Optional
+#### Opcional
 
-+ Regular embroidery thread (or any other kind of thread)
++ Hilo de bordar regular (o cualquier otro tipo de hilo)
 
-+ Pliers (preferably round-nosed)
++ Alicates (preferiblemente de punta redonda)
 
 --- /collapse ---
