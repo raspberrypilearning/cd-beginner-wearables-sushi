@@ -19,7 +19,7 @@ title: Mi LED no se encendió
 
 --- collapse ---
 ---
-titulo: ¿Cómo funciona?
+title: ¿Cómo funciona?
 ---
 
 En cada circuito, hay un polo **positivo** o **+** y uno **negativo** o **-**.

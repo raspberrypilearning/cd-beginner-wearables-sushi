@@ -7,7 +7,7 @@
 ![](images/led_loops1.png) 
 ![](images/LED_loops2.JPG)
 
-+ ¡Ensarta tu aguja! Toma un trozo de hilo conductor de unos 30 cm de largo y pasa un extremo por el orificio de la aguja (llamado ** ojo**). Esto puede ser bastante complicado. Si el hilo está deshilachado al final, corte los pedazos deshilachados con unas tijeras.
++ ¡Ensarta tu aguja! Toma un trozo de hilo conductor de unos 30 cm de largo y pasa un extremo por el orificio de la aguja (llamado **ojo**). Esto puede ser bastante complicado. Si el hilo está deshilachado al final, corte los pedazos deshilachados con unas tijeras.
 
 + Una vez que la aguja esté ensartada, el hilo estará colgando en dos extremos. Tira de uno de ellos para que sea un poco más largo que el otro y ata un nudo al final de la pieza larga.
 
@@ -21,7 +21,7 @@
 
 ![](images/pull_thread_through.png)
 
-+ Ahora, coloca la punta de la aguja **justo al lado **del orificio**-** del LED (el que acabas de atravesar), pero **no dentro**. De esta manera:
++ Ahora, coloca la punta de la aguja **justo al lado** del orificio **-** del LED (el que acabas de atravesar), pero **no dentro**. De esta manera:
 
 ![](images/needle_next_to_LED.png)
 
