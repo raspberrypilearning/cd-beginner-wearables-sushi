@@ -6,7 +6,7 @@ Las diferentes partes de un circuito electrónico se denominan **componentes**. 
 
 + Una batería ![](images/batteries.png)
 
-+ LEDs. Estas son luces pequeñas que vienen en diferentes colores y algunas de ellas incluso parpadean o cambian de color. You can also get special sewable LEDs. ¡Para este proyecto, puedes usar cualquier tipo de LED!
++ LEDs. Estas son luces pequeñas que vienen en diferentes colores y algunas de ellas incluso parpadean o cambian de color. También puede conseguir LEDs especiales que puedas coser. ¡Para este proyecto, puedes usar cualquier tipo de LED!
 
 ![](images/LEDs_mix.png)
 
@@ -16,7 +16,7 @@ Las diferentes partes de un circuito electrónico se denominan **componentes**. 
 
 Nota: el soporte de la batería puede verse diferente de los que se muestran arriba.
 
-+ Cable conductor. Esto es como hilo de bordar, pero contiene metal para que la electricidad pueda fluir a través de él. We say that it **conducts** electricity.
++ Cable conductor. Esto es como hilo de bordar, pero contiene metal para que la electricidad pueda fluir a través de él. Decimos que **conduce** electricidad.
 
 ![](images/thread.png)
 
