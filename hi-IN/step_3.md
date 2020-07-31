@@ -1,45 +1,45 @@
-## Add a switch
+## एक स्विच (switch) जोड़ें
 
-What if you want to turn your circuit off? To do this, you need a break somewhere in the circuit to stop the electricity from flowing. A **switch** is a component that allows you to turn a circuit off and on easily. There are lots of different types of switches: buttons, sliders, even magnetic or tilting ones. Some battery holders even have a built-in switch.
+यदि आप अपना सर्किट बंद करना चाहते हैं तो क्या होगा? ऐसा करने के लिए, आपको बिजली के प्रवाह को रोकने के लिए सर्किट में कहीं तोड़ने की आवश्यकता होगी। एक **स्विच** (switch) ऐसा पुर्ज़ा है जो आपको बिजली को आसानी से चालू या बंद होने की अनुमति देता है I स्विच काफी प्रकार के होते हैं: बटन्स, स्लाइडर्स, यहां तक कि चुंबकीय या झुकाव वाले। कुछ बैटरी होल्डर्स में एक अंदर ही बना बनाया स्विच भी होता है।
 
 ![](images/switches.png)
 
-+ On your circuit, detach the thread from the **+** hole of the battery holder. Take a new piece of thread and put one end of the new piece through the the **+** hole where the other thread just was. You might need to team up with a third person here, for some extra hands! Otherwise you can always use tape, or use crocodile clips instead of thread.
++ अपने सर्किट पर, धागे को बैटरी होल्डर के **+** छेद से अलग करें। धागे का एक नया टुकड़ा लें और नए टुकड़े का एक छोर **+** छेद से डालें जहां दूसरा धागा था। आपको कुछ अतिरिक्त हाथों के लिए तीसरे व्यक्ति के साथ टीम बनाने की आवश्यकता हो सकती है! अन्यथा आप हमेशा टेप का उपयोग कर सकते हैं, या धागे के बजाय मगरमच्छ क्लिप का उपयोग कर सकते हैं।
 
-+ If you have a ready-made switch, hold the other end of the new thread to one end of it. Then take the thread you removed from the battery holder (it should still be attached to the LED) and hold it to the other end of the switch. Now you can use the switch to turn the LED off and on!
++ यदि आपके पास एक तैयार-निर्मित स्विच है, तो नए धागे के दूसरे छोर को उसके एक छोर पर पकड़ें। फिर बैटरी होल्डर से आपके द्वारा हटाए गए धागे को लें (यह अभी भी LED से जुड़ा होना चाहिए) और इसे स्विच के दूसरे छोर पर पकड़ें। अब आप LED को बंद करने और चालू करने के लिए स्विच का उपयोग कर सकते हैं!
 
 ![](images/switch_on_thread.png)
 
 --- collapse ---
 ---
-title: Which way around should the switch go?
+title: स्विच किस तरफ जाना चाहिए?
 ---
 
-+ Notice there is no positive or negative side on a switch. This means it doesn't matter which way around the switch sits.
++ ध्यान दें कि स्विच पर कोई सकारात्मक या नकारात्मक पक्ष नहीं है। इसका मतलब यह है कि इससे कोई फर्क नहीं पड़ता कि स्विच कहा बैठा है।
 
 --- /collapse ---
 
-+ If you don't have a switch, you can make one very easily. Take the two loose ends of thread in your circuit and hold them together to make your LED light up. When you separate them, it turns off again. You have just created a simple switch!
++ यदि आपके पास स्विच नहीं है, तो आप बहुत आसानी से एक बना सकते हैं। अपने circuit में धागे के दो ढीले छोरों को लें और उन्हें अपने LED प्रकाश को बनाने के लिए एक साथ पकड़ें। जब आप उन्हें अलग करते हैं, तो यह फिर से बंद हो जाता है। आपने अभी एक साधारण स्विच बनाया है!
 
 ![](images/switch_diy_thread_a.png) ![](images/switch_diy_thread_b.png) ![](images/switch_diy_thread_c.png)
 
 --- collapse ---
 ---
-title: How does it work?
+title: यह कैसे काम करता है?
 ---
 
-As you've seen, electricity flows all the way around the circuit to make the LED light up. For the electricity to flow, there needs to be a connection between each component in the circuit.
+जैसा कि आपने देखा, LED लाइट को अप करने के लिए circuit के चारों ओर बिजली प्रवाहित होती है। विद्युत प्रवाह के लिए, circuit में प्रत्येक घटक के बीच एक कनेक्शन होना चाहिए।
 
-When you separate the two threads, you have broken the connection between them, so the electricity can no longer flow.
+जब आप दो थ्रेड को अलग करते हैं, तो आप उनके बीच का कनेक्शन तोड़ चुके होते हैं, इसलिए बिजली अब प्रवाहित नहीं हो सकती है।
 
-When you make the threads touch, they are connected and the electricity is able to flow once more.
+जब आप थ्रेड्स को स्पर्श करते हैं, तो वे जुड़े होते हैं और बिजली एक बार फिर प्रवाह करने में सक्षम होती है।
 
-I've put tape near the end of each thread so you can more easily see where the break is in the circuit. This will be the switch. Here it is in action:
+मैंने प्रत्येक धागे के अंत के पास टेप लगा दिया है ताकि आप अधिक आसानी से देख सकें कि circuit में ब्रेक कहाँ है। यह स्विच होगा। यहाँ यह कार्रवाई में है:
 
 ![](images/switch_diy_tape_abc_120_650.png)
 
-In a ready-made switch, the part where the connection gets broken and reconnected is usually hidden inside so you can't see it. Now you know what is really happening when you switch something on or off!
+एक तैयार स्विच में, वह हिस्सा जहां कनेक्शन टूट जाता है और फिर से जुड़ जाता है, आमतौर पर अंदर छिपा होता है इसलिए आप इसे नहीं देख सकते। अब आप जानते हैं कि जब आप कुछ चालू या बंद करते हैं तो वास्तव में क्या होता है!
 
 --- /collapse ---
 
-Different types of switches work by breaking the circuit in different ways. You can use a switch in your wearables projects to give you control over when the circuit is on or off.
+Circuit को अलग-अलग तरीकों से तोड़कर विभिन्न प्रकार के स्विच काम करते हैं। Circuit के चालू या बंद होने पर आपको नियंत्रण देने के लिए आप अपनी वियरेबल्स परियोजनाओं में एक स्विच का उपयोग कर सकते हैं।
