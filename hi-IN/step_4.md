@@ -1,44 +1,44 @@
-## Sew on components
+## घटकों पर सीना
 
-+ Cut a piece of felt to the size you want for your badge. Decide where you are going to put the LED and mark the spot on the felt. Now decide where to put your battery holder. It could be on the back! Mark the spot for one of the positive holes and one of the negative holes with a **+** and **-**.
++ अपने बैज के लिए इच्छित आकार के टुकड़े को काटें। तय करें कि आप LED कहां लगा रहे हैं और महसूस किए गए स्थान को चिह्नित करें। अब तय करें कि अपनी बैटरी धारक को कहां रखा जाए। यह पीठ पर हो सकता है! धनात्मक छिद्रों में से एक और ऋणात्मक छिद्रों में से एक ** + ** के लिए स्पॉट को चिह्नित करें और ** - ** ।
 
-+ If you are using a regular LED, you will need to bend the pins into loops. Pliers can be helpful here. If you have a sewable LED, skip this step!
++ यदि आप एक नियमित LED का उपयोग कर रहे हैं, तो आपको pins को छोरों में loops होगा। सरौता यहां मददगार हो सकते हैं। यदि आपके पास एक सीवेबल LED है, तो इस चरण को छोड़ दें!
 
 ![](images/led_loops1.png) ![](images/LED_loops2.JPG)
 
-+ Thread your needle! Take a piece of conductive thread about 30cm long, and pull one end of it through the hole in the needle (called the **eye**). This can be pretty fiddly. If the thread is frayed at the end, cut off the frayed bits with a scissors.
++ अपनी सुई धागा! लगभग 30 सेमी लंबे प्रवाहकीय धागे का एक टुकड़ा लें, और सुई में छेद के माध्यम से इसके एक छोर को खींचें (** आंख कहा जाता है **)। यह बहुत अच्छी तरह से हो सकता है। यदि धागा अंत में फंसाया जाता है, तो एक कैंची के साथ फंसे हुए बिट्स को काट लें।
 
-+ Once the needle is threaded, the thread will be hanging out in two pieces. Pull one of them so it is a good bit longer than the other and tie a knot in the very end of the long piece.
++ एक बार सुई पिरो लेने के बाद, धागा दो टुकड़ों में बाहर लटक जाएगा। उनमें से एक को खींचो ताकि यह दूसरे की तुलना में अच्छा हो और लंबे टुकड़े के बहुत अंत में एक गाँठ बाँध सके।
 
-Ready to start sewing?
+सिलाई शुरू करने के लिए तैयार हैं?
 
-+ Place your LED onto the felt at the spot you have marked out for it. With one hand, hold onto the felt and the LED. With the other hand, place the tip of the needle **behind** the felt and push it through so that it comes out through the **-** hole of the LED.
++ अपने LED को उस स्थान पर महसूस करें जिस स्थान पर आपने इसके लिए चिन्हित किया है। एक हाथ से, महसूस किया और LED पर पकड़। दूसरे हाथ से, सुई की नोक ** पीछे रखें ** महसूस किया और इसे धक्का दिया ताकि यह के माध्यम से बाहर आ जाए ** - ** LED का छेद।
 
 ![](images/needle_through_LED.png)
 
-+ Pull the needle and thread all the way through at the front. Try holding the needle by the eye and pinching the thread tightly there to keep it from falling out of the needle while you pull (if it does fall out, it's ok, you can re-thread it). You want to keep pulling until only the knot remains at the back.
++ सुई खींचो और सामने के माध्यम से सभी तरह से धागा। आंख द्वारा सुई को पकड़ने की कोशिश करें और खींचते समय सुई को बाहर निकलने से रोकने के लिए धागे को कसकर वहां रखें (यदि यह बाहर गिरता है, तो यह ठीक है, आप इसे फिर से थ्रेड कर सकते हैं)। आप तब तक खींचते रहना चाहते हैं जब तक कि केवल गाँठ पीछे न रह जाए।
 
 ![](images/pull_thread_through.png)
 
-+ Now, place the tip of the needle **right beside** the **-** hole of the LED (the one it just came through), but **not inside** it. Like this:
++ अब, सुई की नोक ** बगल में रखें ** ** - ** LED का छेद (एक यह बस के माध्यम से आया था), लेकिन ** अंदर नहीं ** यह। ऐशे ही:
 
 ![](images/needle_next_to_LED.png)
 
-+ Push the needle through the felt so it comes out the back. Grab the needle behind the felt and pull it all the way through, just like you did at the front. You've just sewn your first stitch! It should look something like this:
++ महसूस के माध्यम से सुई को धक्का दें ताकि यह वापस बाहर आ जाए। महसूस किए जाने के पीछे सुई को पकड़ो और इसे सभी तरह से खींचें, जैसे आपने सामने की तरफ किया था। आपने अभी-अभी अपनी पहली सिलाई की है! यह कुछ इस तरह दिखना चाहिए:
 
 ![](images/first_stitch.png)
 
-+ Repeat the last two steps three more times. Be sure to pull the thread tight each time. This will create a good connection and keep the LED secured tightly to the felt.
++ पिछले दो चरणों को तीन बार दोहराएं। प्रत्येक बार धागे को कसकर खींचना सुनिश्चित करें। यह एक अच्छा कनेक्शन बनाएगा और LED को सुरक्षित रूप से महसूस करने के लिए सुरक्षित रखेगा।
 
-+ You have just learned how to attach wearable components. Almost there!
++ आपने अभी सीखा कि पहनने योग्य घटकों को कैसे जोड़ा जाए। लगभग वहाँ पहुँच गया!
 
 --- collapse ---
 ---
-title: Tips for sewing
+title: सिलाई के लिए टिप्स
 ---
 
-+ Practice makes perfect! If you have never sewn before, it can be tricky in the beginning. Don't worry, you'll get the hang of it.
++ अभ्यास परिपूर्ण बनाता है! यदि आपने पहले कभी सीवन नहीं किया है, तो यह शुरुआत में मुश्किल हो सकता है। चिंता न करें, आप इसे लटका देंगे।
 
-+ This video might be helpful if you are new to sewing: [dojo.soy/wear-stitches](http://dojo.soy/wear-stitches){:target="_blank"}
++ यदि आप सिलाई करने के लिए नए हैं तो यह वीडियो सहायक हो सकता है: [ dojo.soy/wear-stitches ](http://dojo.soy/wear-stitches) {: target= "_ blank"}
 
 --- /collapse ---
