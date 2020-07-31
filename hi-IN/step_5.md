@@ -1,46 +1,46 @@
-## Complete your wearable circuit
+## अपने पहनने योग्य circuit को पूरा करें
 
-By now you have needle and thread coming out of the felt where the LED has been attached. Imagine a line between this spot and the spot you marked for the **-** hole of the battery holder. If it helps, you could draw the line on the felt. You will sew a **running stitch** along this line to connect the LED to the battery holder.
+अब तक आप सुई और धागा महसूस कर रहे हैं जहां LED संलग्न किया गया है से बाहर आ रहा है। इस स्थान और उस स्थान के बीच की रेखा की कल्पना करें जिसे आपने के लिए चिह्नित किया है ** - ** बैटरी धारक का छेद। यदि यह मदद करता है, तो आप महसूस पर रेखा खींच सकते हैं। आप एक ** सिलाई सिलाई करेंगे ** LED को बैटरी धारक से जोड़ने के लिए इस लाइन के साथ।
 
-+ Place the tip of the needle on the line, about 1cm away from where the thread is coming out of the felt, and push it through. Pull the needle and thread all the way through as before. Then repeat this on the other side of the felt. Keep doing this in 1cm wide steps until you reach the spot you marked for the **-** hole of the battery holder.
++ सुई की नोक को लाइन पर रखें, जहां से धागा महसूस हो रहा है, वहां से लगभग 1 सेंटीमीटर की दूरी पर रखें और इसे धक्का दें। सुई खींचें और पहले की तरह से सभी तरह से थ्रेड करें। फिर महसूस किए जाने के दूसरी तरफ इसे दोहराएं। जब तक आप उस स्थान तक नहीं पहुंचते हैं, जब तक कि आप 1cm विस्तृत चरणों में ऐसा करते रहें ** - ** बैटरी धारक का छेद।
 
-+ Next, put your battery holder into place on the felt. Then, just like you did for the LED, attach the battery holder by sewing three stitches through the **-** hole. Remember to make sure they are good and tight!
++ इसके बाद, अपने बैटरी धारक को जगह पर रखें। फिर, जैसे आपने LED के लिए किया था, बैटरी धारक को ** - ** के माध्यम से तीन टांके लगाकर संलग्न करें। छेद। यह सुनिश्चित करने के लिए याद रखें कि वे अच्छे और तंग हैं!
 
-+ To finish, sew three tiny stitches right next to where you attached the battery holder, all in the same place. This will secure the end of the thread and stop your work from unravelling.
++ समाप्त करने के लिए, जहाँ आप बैटरी धारक को संलग्न किया था, ठीक उसी स्थान पर तीन छोटे टाँके सीवे। यह धागे के अंत को सुरक्षित करेगा और आपके काम को अनियंत्रित करने से रोक देगा।
 
-+ Cut the thread so that only a tiny bit is hanging out of the felt.
++ धागे को काटें ताकि केवल एक छोटा सा महसूस होने से बाहर लटका रहे।
 
 --- collapse ---
 ---
-title: Watch a video of the last bit
+title: अंतिम बिट का एक वीडियो देखें
 ---
 
-Here is a video showing you how to finish this part of the sewing: [dojo.soy/wear-finishing](http://dojo.soy/wear-finishing){:target="_blank"}
+यहां एक वीडियो दिखाया गया है कि आप सिलाई के इस भाग को कैसे पूरा कर सकते हैं: [ dojo.soy/wear-finishing ](http://dojo.soy/wear-finishing) {: target= "_ blank"}
 
 --- /collapse ---
 
  ![](images/tiny_stitches_triple_80_650.png)
 
-You now have half of your circuit sewn.
+अब आपके पास अपने circuit का आधा हिस्सा है।
 
-+ To complete the circuit, you need to connect the **+** hole on the LED with the **+** hole on the battery holder. Do this in the same way in which you just connected the **negatives**. I am not including a switch in this circuit, but you could if you wanted, using a third piece of thread as before.
++ Circuit को पूरा करने के लिए, आपको ** + ** कनेक्ट करना होगा** + ** के साथ LED पर छेद बैटरी धारक पर छेद। इसे उसी तरीके से करें जिसमें आपने अभी ** नकारात्मक ** को जोड़ा है। मैं इस circuit में एक स्विच शामिल नहीं कर रहा हूँ, लेकिन यदि आप चाहते हैं, तो पहले की तरह तीसरे धागे का उपयोग कर सकते हैं।
 
 ![](images/sewing_complete_front.png)
 
-  **Important!** Make sure the path for your **+** thread **does not cross/touch** the **-** thread or any edges of the battery holder anywhere. Remember, this would cause a **short circuit** (a bad thing)!
+  ** महत्वपूर्ण! ** अपने ** + **के लिए रास्ता सुनिश्चित करें थ्रेड ** क्रॉस / टच नहीं करता है ** ** - ** धागा या बैटरी धारक के किसी भी किनारे कहीं भी। याद रखें, यह एक ** शॉर्ट circuit **का कारण होगा (बुरी बात)!
 
 ![](images/sewing_complete_back.png)
 
-+ Insert a battery into the battery holder and watch your LED light up!
++ बैटरी धारक में एक बैटरी डालें और अपने LED प्रकाश को देखें!
 
-### Making the badge
+### बिल्ला बनाना
 
-+ Time to get creative! Decorate your badge however you like with different coloured felt or thread, or any other materials you have. Covering the LED with felt will give it a softer glow.
++ रचनात्मक पाने के लिए समय! अपने बैज को सजाइए, हालाँकि आपको अलग-अलग रंग के कपड़े या धागे या आपके पास मौजूद कोई अन्य सामग्री पसंद है। महसूस के साथ LED को कवर करने से यह एक नरम चमक देगा।
 
 ![](images/badge_front.png)
 
-+ If you are attaching a pin to your badge, it is a good idea to put it onto a separate piece of felt that you attach to the back of your badge. This ensures that the pin does not touch any part of your circuit — since the pin is metal, that would cause a short circuit. Use ordinary thread for the extra sewing, or glue or tape instead.
++ यदि आप अपने बैज में एक pin संलग्न कर रहे हैं, तो यह एक अच्छा विचार है कि आप इसे अपने बैज के पीछे संलग्न करें। यह सुनिश्चित करता है कि pin आपके circuit के किसी भी हिस्से को नहीं छूता है - चूंकि pin धातु है, जिससे शॉर्ट circuit होता है। इसके बजाय अतिरिक्त सिलाई, या गोंद या टेप के लिए साधारण धागे का उपयोग करें।
 
 ![](images/badge_back.png)
 
-Congratulations! Your badge is done, and you have sewn a complete wearable circuit. The next Sushi Cards show you how to add more LEDs, and they are optional.
+बधाई हो! आपका बैज किया जाता है, और आपने एक पूरा पहनने योग्य circuit सिल दिया है। अगले सुशी कार्ड आपको दिखाते हैं कि अधिक LEDs कैसे जोड़ें, और वे वैकल्पिक हैं।
