@@ -30,7 +30,7 @@
 
 + Repite los dos últimos pasos tres veces más. Asegúrate de apretar el hilo cada vez. Esto creará una buena conexión y mantendrá el LED firmemente sujeto al fieltro.
 
-+ Acabas de aprender a coser componentes portátiles. Almost there!
++ Acabas de aprender a coser componentes portátiles. ¡Casi terminamos!
 
 --- collapse ---
 ---
