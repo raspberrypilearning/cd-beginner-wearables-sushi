@@ -1,50 +1,50 @@
-## Add more LEDs
+## Voeg meer LED's toe
 
-Adding more LEDs to your circuit is easy, and you don't need any additional batteries!
+Het toevoegen van meer LED's aan je circuit is eenvoudig, en je hebt geen extra batterijen nodig!
 
-**Note**: the LEDs in your circuit must be of the same type, either all sewable or all non-sewable. It will work best with sewable LEDs, as you can connect many more of them to the same battery without the power being reduced.
+**Opmerking**: de LED's in je circuit moeten van hetzelfde type zijn, of ze allemaal naaibaar zijn of niet. Het werkt het beste met naaibare LED's, omdat je er veel meer op kunt aansluiten zonder dat het vermogen wordt verminderd.
 
-+ Pop the battery out of the battery holder for now. When working on a circuit, it is important to always make sure is is not **live** by switching it off or taking out the battery!
++ Haal de batterij nu uit de batterijhouder. Bij het werken aan een circuit is het belangrijk om altijd te controleren of het niet **aan staat** door het uit te schakelen of de batterij uit te nemen!
 
-+ Decide where on your badge you want to put your next LED, and mark that place.
++ Bepaal waar op je badge je de volgende LED wilt plaatsen en markeer die plek.
 
-You will connect the LEDs in **parallel**. There are two ways to do this.
+Je verbindt de LED's in **parallel**. Er zijn twee manieren om dit te doen.
 
-### Method 1
+### Methode 1
 
-One option is to connect the LED directly to the battery, just like the first LED. It is OK to use the same holes on the battery holder more than once on the battery holder - the only limit is how much thread you can fit through! The example circuit in the picture hasn't been sewn onto anything, so you can see the threads clearly:
+Eén optie is om de LED direct op de batterij aan te sluiten, net als de eerste LED. Het is prima om dezelfde gaten in de batterijhouder meer dan eenmaal te gebruiken op de batterijhouder - de enige limiet is hoeveel draad je er door kunt halen! Het voorbeeldcircuit in de afbeelding is op niets genaaid, dus je kunt de draden duidelijk zien:
 
 ![](images/more_leds_separate.png)
 
-### Method 2
+### Methode 2
 
-Another option is to attach the new LED to the LED that's already in your circuit, instead of to the battery. You match up the **+** to the **+** and the **-** to the **-** as you would if you were connecting it to a battery. In the below example, the same two long pieces of thread are used for both LEDs. You could also use separate pieces of thread for each LED.
+Een andere optie is om de nieuwe LED aan te sluiten op de LED die al in je circuit zit, in plaats van op de batterij. Je vergelijkt de **+** met de **+** en de **-** met de **-** zoals je zou doen als je het op een batterij zou aansluiten. In het onderstaande voorbeeld worden dezelfde twee lange stukjes draad gebruikt voor beide LED's. Je zou ook aparte stukjes draad kunnen gebruiken voor elke LED.
 
 ![](images/more_leds_extended.png)
 
 --- collapse ---
 ---
-title: Which method should I choose?
+title: Welke methode moet ik kiezen?
 ---
 
-Deciding whether to connect the LED to the battery holder or to the other LED depends on where you want to put the new LED!
+Of je de LED wilt aansluiten op de batterijhouder of op de andere LED, hangt af van waar je de nieuwe LED wilt plaatsen!
 
-+ Usually you will pick the component that's closer to the place you've chosen for your second LED.
++ Meestal kies je het onderdeel dat dichter bij de plek ligt die je hebt gekozen voor je tweede LED.
 
-+ You also need to make sure all the different threads are kept separate and don't cross over or touch, so it is a good idea to look at where the **+** and **-** of your components are when you pick a method and a place for the LED.
++ Je moet er ook voor zorgen dat alle verschillende draden gescheiden worden gehouden en niet kruisen of aanraken, dus het is een goed idee om te kijken waar de **+** en **-** van je onderdelen zijn wanneer je een methode kiest en een plek voor de LED.
 
 --- /collapse ---
 
-+ Holding the LED in place, use a needle and a new piece of conductive thread to secure the **-** hole of the LED like you did for the first one you sewed on.
++ Houd de LED op zijn plaats en gebruik een naald en een nieuw stuk geleidende draad om het **-** gat van de LED vast te zetten, zoals je dat deed voor de eerste die je hebt vastgenaaid.
 
-+ The next step is the running stitch. If you are connecting the LED to the other LED, then this time the stitches will go in a line towards the **-** hole of the other LED, instead of to the battery holder. Once you reach the correct hole, make three stitches through it, and three tiny stitches to finish, exactly as you did before.
++ De volgende stap is de rijgsteek. Als je de LED op de andere LED aansluit, gaan de steken deze keer in een lijn naar het **-** gat van de andere LED, in plaats van naar de batterijhouder. Zodra je het juiste gat hebt bereikt, maak je er drie steken doorheen en drie kleine steken om af te maken, precies zoals je eerder deed.
 
-+ Now connect the **+** hole of the new LED using the same method.
++ Sluit nu het **+** gat van de nieuwe LED aan op dezelfde manier.
 
-In this photo, the second LED is connected directly to the battery:
+In deze foto is de tweede LED rechtstreeks aangesloten op de batterij:
 
 ![](images/second_led.JPG)
 
-In the next photo, a second LED has been connected to the first LED, which is in turn connected to the battery (the battery is at the back of the fabric):
+Op de volgende foto is een tweede LED aangesloten op de eerste LED, die op zijn beurt is aangesloten op de batterij (de batterij bevindt zich aan de achterkant van de stof):
 
 ![](images/second_led2.png)
