@@ -1,41 +1,41 @@
-## Make detachable parts
+## Maak afneembare onderdelen
 
-You can also extend your badge circuit so that separate pieces of felt with their own LEDs (of the same type) can be joined to it to make them light up!
+Je kunt ook je badge-circuit uitbreiden zodat afzonderlijke stukken vilt met hun eigen LED's (van hetzelfde type) eraan kunnen worden verbonden om ze te laten oplichten!
 
-First you will need another badge. This one will not have a battery of its own. But without a battery, where will the threads go?
+Eerst heb je nog een badge nodig. Deze heeft geen eigen batterij. Maar zonder een batterij, waar gaan de draden heen?
 
-+ When you sew your LED onto this new badge, do the running stitches all the way to the edge of the felt, or near the edge. Remember to keep the **positive** and **negative** threads separate from each other!
++ Wanneer je je LED op deze nieuwe badge naait, doe je de rijgsteken helemaal tot aan de rand van het vilt of bij de rand. Vergeet niet om de **positieve** en **negatieve** draden van elkaar gescheiden te houden!
 
-+ Then sew several medium-sized stitches next to each other or criss-crossing over each other. You want to make it look like a "blob" of conductive thread on the felt.
++ Naai vervolgens enkele middelgrote steken naast elkaar of kruislings over elkaar. Je wilt het laten lijken op een "bobbel" van geleidende draad op het vilt.
 
-+ Finish the stitching as normal by doing three tiny stitches in one spot before cutting the thread short.
++ Voltooi de stiksels zoals normaal door drie kleine steken op één plek te maken voordat je de draad kort knipt.
 
 ![](images/new_badge_blobs_front_back_120_650.png)
 
-+ Once you have one blob for the **negative**, and one blob for the **positive** side, the new badge is ready. If you want, you can repeat these steps so that you extend the circuit to another pair of blobs at the opposite edge of the new badge, like this:
++ Zodra je een bobbel hebt voor de **negatieve**, en een bobbel voor de **positieve** kant, is de nieuwe badge klaar. Als je wilt, kun je deze stappen herhalen zodat je het circuit uitbreidt naar een ander paar bobbels aan de tegenoverliggende rand van de nieuwe badge, zoals dit:
 
 ![](images/new_badge_front_back_120_650.png)
 
-+ Now you just need to extend the circuit on the main badge (the one with the battery). Remember to remove the battery from the holder first.
++ Nu hoef je alleen maar het circuit op de hoofdbadge (die met de batterij) uit te breiden. Vergeet niet om de batterij eerst uit de houder te verwijderen.
 
-+ Decide where you want to the badges to join together. You will be sewing stitches from the LED on the main badge to this point, so make sure you can trace a line from the **+** to the **positive** blob and from the **-** to the **negative** blob without the lines crossing.
++ Bepaal waar je de badges wilt laten samenkomen. Je gaat steken naaien van de LED op de hoofdbadge naar dit punt, dus zorg ervoor dat je een lijn kunt volgen van de **+** naar de **positieve** bobbel en van de **-** naar de **negatieve** bobbel zonder ze te laten kruisen.
 
-+ Mark two spots on the main badge where the **positive** and **negative** blobs touch it. You are going to sew matching blobs here for them to connect to. You can put the new badge to one side for the next bit.
++ Markeer twee plekken op de hoofdbadge waar de **positieve** en **negatieve** bobbels deze raken. Je gaat hier overeenkomende bobbels naaien zodat ze verbinding kunnen maken. Je kunt de nieuwe badge even aan de kant leggen voor het volgende stukje.
 
-+ Taking new thread and the main badge, sew a bunch of stitches at the spot you marked for the **negative** blob. Then sew a running stitch all the way to the LED on this badge and secure it to the **-** hole. Repeat this process to make a **positive** blob that is connected to the **+** hole of the same LED. When you are done it should look something like this:
++ Naai een stel steken op de plek waar je de **negatieve** bobbel hebt gemarkeerd. Naai vervolgens een lopende steek helemaal aan de LED op deze badge en zet deze vast in het **-** gat. Herhaal dit proces om een **positieve** bobbel te maken die is aangesloten op het **+** gat van dezelfde LED. Wanneer je klaar bent zou het er ongeveer zo uit moeten zien:
 
 ![](images/badge_ext_blobs.png)
 
-Your badges are ready to be joined together!
+Je badges zijn klaar om samen te worden samengevoegd!
 
-+ Pop the battery back into its holder. Place the new badge onto the main badge so the blobs touch each other. Remember to match up **+** to **+** and **-** to **-**. You should see the new badge suddenly light up!
++ Plaats de batterij terug in de houder. Plaats de nieuwe badge op de hoofdbadge zodat de bobbels elkaar raken. Vergeet niet om **+** te laten aansluiten op **+** en **-** op **-**. Je zou moeten zien dat de nieuwe badge plotseling oplicht!
 
 ![](images/badge_extended_unlit.png) ![](images/badge_extended_lit.png)
 
 --- challenge ---
 
-## Challenge: Make a soft switch
+## Uitdaging: Maak een zachte schakelaar
 
-+ You could use this technique to make a simple soft switch on your project. For example, put a **positive** blob each at either end of a bracelet, so the two come in contact when you close it.
++ Je zou deze techniek kunnen gebruiken om een eenvoudige zachte schakelaar op je project te maken. Zet bijvoorbeeld een **positieve** bobbel aan beide uiteinden van een armband, zodat de twee in contact komen wanneer je deze sluit.
 
 --- /challenge ---
