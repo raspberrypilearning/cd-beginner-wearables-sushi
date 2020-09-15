@@ -1,67 +1,67 @@
-## Make a circuit
+## Maak een circuit
 
-Let's create your first circuit!
+Laten we je eerste circuit maken!
 
-+ Take a regular LED (one with two legs rather than a sewable one) and connect it to a battery by holding both legs to the battery, one on either side. Notice that one of the legs of the LED is longer than the other one. The longer one should be connected to the side of the battery marked with a plus sign **+**. Watch your LED light up!
++ Neem een gewone LED (een met twee poten in plaats van een naaibare) en sluit deze aan op een batterij door beide poten tegen de batterij te houden, een aan elke kant. Merk op dat een van de poten van de LED langer is dan de andere. De langere moet worden aangesloten op de zijkant van de batterij die is gemarkeerd met een plusteken **+**. Kijk hoe je LED gaat branden!
 
 ![](images/LED_battery_140_291_650.png)
 
 --- collapse ---
 ---
-title: My LED didn't light up
+title: Mijn LED ging niet branden
 ---
 
-+ If it didn't work, check that the legs are the right way round.
++ Als het niet werkte, controleer dan of de poten op de juiste plek zitten.
 
 --- /collapse ---
 
-+ Once you have the LED lighting up, try flipping the battery over so the legs are connected the wrong way around, with the shorter one on the `+` side of the battery. Does it still work?
++ Als de LED gaat branden, probeer dan de batterij om te draaien zodat de poten verkeerd zijn aangesloten, met de kortere aan de `+`-zijde van de batterij. Werkt het nog steeds?
 
 --- collapse ---
 ---
-title: How it works
+title: Hoe het werkt
 ---
 
-In every circuit, there are a **positive** or **+** and a **negative** or **-** direction.
+Elk circuit heeft een **positieve** of **+** en een **negatieve** of **-** richting.
 
-For electricity to flow, you need to match up the **+** to **+** and the **-** to **-** between your components. This is why the LED doesn't light up when you flip the battery around.
+Om elektriciteit te laten stromen, moet je de **+** afstemmen op **+** en de **-** op **-** tussen je componenten. Daarom licht de LED niet op wanneer je de batterij omdraait.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Identifying + and - on different LEDs
+title: Het identificeren van + en - op verschillende LED's
 ---
 
-+ On the LED, the longer leg is **+** and the shorter pin is **-**. You can also identify **-** by looking closely at the bulb: it is the side with the flat edge.
++ Op de LED is de langere poot **+** en de kortere poot is **-**. Je kunt **-** ook herkennen door goed naar de lamp te kijken: het is de kant met de platte rand.
 
-+ A sewable LED is built onto a tiny **printed circuit board**, so it has holes instead of legs. The holes are marked with **+** and **-** signs.
++ Op een kleine **printplaat** is een naaibaar LED-lampje gebouwd, zodat het gaten heeft in plaats van poten. De gaten zijn gemarkeerd met **+** en **-** tekens.
 
 ![](images/LEDs_pos_neg_100_650.png)
 
 --- /collapse ---
 
-+ Separate the LED and the battery, and pop the battery into a battery holder, with the **+** facing up (the holder will have a mark to show its **+** side too).
++ Haal de LED en de batterij uit elkaar en plaats de batterij in een batterijhouder, met de **+** naar boven gericht (de houder heeft een markering om ook de **+** zijde weer te geven).
 
-+ Get two pieces of conductive thread, and team up with the Ninja next to you, so you can help each other hold things in place.
++ Pak twee stukken geleidende draad en werk samen met de ninja naast je, zodat je elkaar kunt helpen dingen op hun plaats te houden.
 
-+ Put one end of the first thread through the **+** hole of the battery holder, making sure it touches the metal, and hold the other end to the **positive** leg of the LED. You can use tape if you need to, although this will fray the thread a lot. If you have crocodile clips, you can use these instead of thread.
++ Steek het ene uiteinde van de eerste draad door het **+** gat van de batterijhouder, zorg ervoor dat deze het metaal raakt en houd het andere uiteinde tegen de **positieve** poot van de LED. Je kunt tape gebruiken als dat nodig is, hoewel dit de draad zal doen rafelen. Als je krokodillenklemmen hebt, kun je deze gebruiken in plaats van draad.
 
 ![](images/circuit_thread_pos.png)
 
-+ Now take the second thread. Put one end through the **-** hole of the battery holder, and hold the other end to the **negative** leg of the LED.
++ Neem nu de tweede draad. Steek het ene uiteinde door het **-** gat van de batterijhouder en houd het andere uiteinde tegen de **negatieve** poot van de LED.
 
 ![](images/circuit_thread_complete.png)
 
-+ Make sure the two threads are not touching or crossing over at any point. If they do, this will cause a **short** in your circuit and it will not work properly.
++ Zorg ervoor dat de twee draden op geen enkel punt elkaar raken of kruisen. Als dat gebeurt, veroorzaakt dit een **kortsluiting** in je circuit en werkt het niet goed.
 
 --- collapse ---
 ---
-title: What is a short?
+title: Wat is een kortsluiting?
 ---
 
-+ When you have a **short circuit**, the electricity goes a shorter way through the circuit, skipping some of the components, and that's why it stops working.
++ Wanneer je **kortsluiting** hebt, gaat de elektriciteit een kortere weg door het circuit, waardoor sommige onderdelen worden overgeslagen, en daarom stopt het met werken.
 
 --- /collapse ---
 
-Now you have a circuit and are ready to make a light-up badge!
+Nu heb je een circuit en ben je klaar om een oplichtende badge te maken!
