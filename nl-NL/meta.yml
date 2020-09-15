@@ -1,7 +1,7 @@
 ---
-title: Glowing badge
+title: Oplichtende badge
 hero_image: images/banner.png
-description: Make a felt badge that lights up, and learn about electronic circuits
+description: Maak een vilten badge die oplicht en leer over elektronische circuits
 theme: violet
 version: 3.0.0
 listed: true
@@ -15,16 +15,16 @@ software: ''
 last_tested: "2017-04-28"
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: Make a circuit
+    title: Maak een circuit
   - 
-    title: Add a switch
+    title: Voeg een schakelaar toe
   - 
-    title: Sew on components
+    title: Naai de onderdelen vast
   - 
-    title: Complete your wearable circuit
+    title: Maak je draagbare circuit compleet
   - 
-    title: Add more LEDs
+    title: Voeg meer LED's toe
   - 
-    title: Make detachable parts
+    title: Maak afneembare onderdelen
