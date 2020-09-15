@@ -1,0 +1,23 @@
+---
+title: चमकणारा बिल्ला (बॅज)
+hero_image: images/banner.png
+description: चमकणारा बिल्ला (बॅज) बनवा आणि इलेक्ट्रॉनिक सर्किट्सबद्दल शिका
+theme: violet
+version: 3.0.0
+listed: true
+copyedit: true
+curriculum: 1, design-0, programming-0, phys-comp-0, manufacture-1, community-0
+interests: wearable-technology
+technologies: electronic-components
+site_areas: coderdojo, projects
+hardware: electronic-components
+software: ''
+last_tested: "2017-04-28"
+steps:
+  - title: परिचय
+  - title: एक सर्किट बनवा
+  - title: एक स्विच जोडा
+  - title: घटकांवर शिवणे
+  - title: आपले घालण्यायोग्य सर्किट पूर्ण करा
+  - title: अधिक एलईडी (LEDs) जोडा
+  - title: वेगळे केले जाऊ शकणारे भाग बनवा
