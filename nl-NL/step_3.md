@@ -1,45 +1,45 @@
-## Add a switch
+## Voeg een schakelaar toe
 
-What if you want to turn your circuit off? To do this, you need a break somewhere in the circuit to stop the electricity from flowing. A **switch** is a component that allows you to turn a circuit off and on easily. There are lots of different types of switches: buttons, sliders, even magnetic or tilting ones. Some battery holders even have a built-in switch.
+Wat als je je circuit wilt uitschakelen? Om dit te doen, heb je ergens in het circuit een onderbreking nodig om de elektriciteit te stoppen. Een **schakelaar** is een onderdeel waarmee je een circuit eenvoudig kunt in- en uitschakelen. Er zijn veel verschillende soorten schakelaars: knoppen, schuifregelaars, zelfs magnetische of kantelbare. Sommige batterijhouders hebben zelfs een ingebouwde schakelaar.
 
 ![](images/switches.png)
 
-+ On your circuit, detach the thread from the **+** hole of the battery holder. Take a new piece of thread and put one end of the new piece through the the **+** hole where the other thread just was. You might need to team up with a third person here, for some extra hands! Otherwise you can always use tape, or use crocodile clips instead of thread.
++ Maak op je circuit de draad los van het **+** gat in de batterijhouder. Neem een nieuw stukje draad en steek het ene uiteinde van het nieuwe stuk door het **+** gat waar de andere draad net zat. Misschien moet je hier samenwerken met een derde persoon, voor wat extra handen! Anders kun je altijd tape gebruiken, of krokodillenklemmen gebruiken in plaats van draad.
 
-+ If you have a ready-made switch, hold the other end of the new thread to one end of it. Then take the thread you removed from the battery holder (it should still be attached to the LED) and hold it to the other end of the switch. Now you can use the switch to turn the LED off and on!
++ Als je een kant-en-klare schakelaar hebt, houd dan het andere uiteinde van de nieuwe draad aan het ene uiteinde. Neem vervolgens de draad die je hebt verwijderd uit de batterijhouder (deze moet nog steeds aan de LED zijn bevestigd) en houd deze aan het andere uiteinde van de schakelaar. Nu kun je de schakelaar gebruiken om de LED uit en aan te zetten!
 
 ![](images/switch_on_thread.png)
 
 --- collapse ---
 ---
-title: Which way around should the switch go?
+title: Hoe moet de schakelaar aangesloten worden?
 ---
 
-+ Notice there is no positive or negative side on a switch. This means it doesn't matter which way around the switch sits.
++ Merk op dat er geen positieve of negatieve kant op een schakelaar is. Dit betekent dat het er niet toe doet in welke richting de schakelaar zit.
 
 --- /collapse ---
 
-+ If you don't have a switch, you can make one very easily. Take the two loose ends of thread in your circuit and hold them together to make your LED light up. When you separate them, it turns off again. You have just created a simple switch!
++ Als je geen schakelaar hebt, kun je er heel makkelijk een maken. Neem de twee losse uiteinden van de draad in je circuit en houd ze bij elkaar om je LED te laten oplichten. Wanneer je ze scheidt, wordt het weer uitgeschakeld. Je hebt zojuist een eenvoudige schakelaar gemaakt!
 
 ![](images/switch_diy_thread_a.png) ![](images/switch_diy_thread_b.png) ![](images/switch_diy_thread_c.png)
 
 --- collapse ---
 ---
-title: How does it work?
+title: Hoe werkt het?
 ---
 
-As you've seen, electricity flows all the way around the circuit to make the LED light up. For the electricity to flow, there needs to be a connection between each component in the circuit.
+Zoals je hebt gezien, stroomt elektriciteit helemaal rond het circuit om de LED te laten branden. Om de elektriciteit te laten stromen, moet er een verbinding zijn tussen elke component in het circuit.
 
-When you separate the two threads, you have broken the connection between them, so the electricity can no longer flow.
+Wanneer je de twee draden scheidt, heb je de verbinding verbroken, zodat de elektriciteit niet meer kan stromen.
 
-When you make the threads touch, they are connected and the electricity is able to flow once more.
+Wanneer de draden elkaar raken, zijn ze aangesloten en kan de elektriciteit weer stromen.
 
-I've put tape near the end of each thread so you can more easily see where the break is in the circuit. This will be the switch. Here it is in action:
+Ik heb tape aan het einde van elke draad geplaatst, zodat je gemakkelijker kunt zien waar de onderbreking in het circuit is. Dit zal de schakelaar worden. Hier zie je het in actie:
 
 ![](images/switch_diy_tape_abc_120_650.png)
 
-In a ready-made switch, the part where the connection gets broken and reconnected is usually hidden inside so you can't see it. Now you know what is really happening when you switch something on or off!
+In een kant-en-klare schakelaar is het deel waar de verbinding wordt verbroken en opnieuw wordt verbonden meestal verborgen in de schakelaar, zodat je het niet kunt zien. Nu weet je wat er echt gebeurt als je iets in- of uitschakelt!
 
 --- /collapse ---
 
-Different types of switches work by breaking the circuit in different ways. You can use a switch in your wearables projects to give you control over when the circuit is on or off.
+Verschillende soorten schakelaars werken door het circuit op verschillende manieren te onderbreken. Je kunt een schakelaar in je wearables-projecten gebruiken om je controle te geven over wanneer het circuit aan of uit is.
