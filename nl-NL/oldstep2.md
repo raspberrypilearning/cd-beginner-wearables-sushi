@@ -1,46 +1,46 @@
-## What you will need
+## Wat heb je nodig
 
 ### Hardware
 
-The different parts of an electronic circuit are called **components**. Here is a list of the components you'll be using:
+De verschillende onderdelen van een elektronisch circuit worden **componenten** genoemd. Hier is een lijst met de onderdelen die je gaat gebruiken:
 
-+ A battery ![](images/batteries.png)
++ Een batterij ![](images/batteries.png)
 
-+ LEDs. These are small lights that come in different colours, and some of them can even flash or change colour. You can also get special sewable LEDs. For this project, you can use any kind of LED!
++ LED's. Dit zijn kleine lampjes die er in verschillende kleuren zijn, en sommigen van hen kunnen zelfs flitsen of van kleur veranderen. Je kunt ook speciale naaibare LED's krijgen. Voor dit project kun je elk type LED gebruiken!
 
 ![](images/LEDs_mix.png)
 
-+ A sewable battery holder. This is a battery holder that's attached to a special board (called a **printed circuit board** or **PCB**) that you can sew onto your project.
++ Een naaibare batterijhouder. Dit is een batterijhouder die is bevestigd aan een speciale houder (een **printplaat** of **PCB** genoemd) die je op je project kunt naaien.
 
 ![](images/battery_holders.png)
 
-Note: Your battery holder might look different from the ones shown above.
+Opmerking: De batterijhouder kan er anders uitzien dan die hierboven weergegeven.
 
-+ Conductive thread. This is like embroidery thread, but it contains metal so that electricity can flow through it. We say that it **conducts** electricity.
++ Geleidende draad. Dit is als borduurdraad, maar het bevat metaal zodat er elektriciteit doorheen kan stromen. We zeggen dat het elektriciteit **geleidt**.
 
 ![](images/thread.png)
 
-+ Crocodile clips (optional)
++ Krokodillenklemmen (optioneel)
 
 ![](images/crocs.png)
 
-+ A switch (optional). You will see there are lots of different kinds of switches.
++ Een schakelaar (optioneel). Je zult zien dat er veel verschillende soorten schakelaars zijn.
 
-### Other items
+### Andere items
 
-+ Some fabric to sew the components onto. This could be a piece of clothing or a bag or anything you like. I will use regular craft felt.
++ Wat stof om de onderdelen op te naaien. Dit kan een kledingstuk, een tas of iets wat je maar wilt zijn. Ik zal vilt gebruiken.
 
-+ A sewing needle, e.g. embroidery needle
++ Een naainaald, bijvoorbeeld een borduurnaald
 
-+ Scissors
++ Schaar
 
-+ Tape-electrical or masking tape, or any other removable tape
++ Tape - isolatie- of afplaktape, of een andere verwijderbare tape
 
-+ A safety pin or any kind of badge pin
++ Een veiligheidsspeld of een andere badge speld
 
-#### Optional
+#### Optioneel
 
-+ Regular embroidery thread (or any other kind of thread)
++ Normaal borduurdraad (of een ander soort draad)
 
-+ Pliers (preferably round-nosed)
++ Tang (bij voorkeur rond)
  
