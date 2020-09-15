@@ -1,44 +1,44 @@
-## Sew on components
+## Naai de onderdelen vast
 
-+ Cut a piece of felt to the size you want for your badge. Decide where you are going to put the LED and mark the spot on the felt. Now decide where to put your battery holder. It could be on the back! Mark the spot for one of the positive holes and one of the negative holes with a **+** and **-**.
++ Knip een stuk vilt op de maat die je voor je badge wilt hebben. Bepaal waar je de LED gaat plaatsen en markeer de plek op het vilt. Bepaal nu waar je de batterijhouder wilt plaatsen. Het zou op de achterkant kunnen! Markeer de plek voor een van de positieve gaten en een van de negatieve gaten met een **+** en **-**.
 
-+ If you are using a regular LED, you will need to bend the pins into loops. Pliers can be helpful here. If you have a sewable LED, skip this step!
++ Als je een gewone LED gebruikt, moet je de pinnen in lussen buigen. Tangen kunnen hier handig bij zijn. Als je een naaibare LED hebt, sla deze stap dan over!
 
 ![](images/led_loops1.png) ![](images/LED_loops2.JPG)
 
-+ Thread your needle! Take a piece of conductive thread about 30cm long, and pull one end of it through the hole in the needle (called the **eye**). This can be pretty fiddly. If the thread is frayed at the end, cut off the frayed bits with a scissors.
++ Rijg de draad door je naald! Neem een stuk geleidende draad van ongeveer 30 cm lang en trek een uiteinde ervan door het gat in de naald (het **oog** genoemd). Dit kan behoorlijk lastig zijn. Als de draad aan het einde gerafeld is, knip de gerafelde stukjes er dan af met een schaar.
 
-+ Once the needle is threaded, the thread will be hanging out in two pieces. Pull one of them so it is a good bit longer than the other and tie a knot in the very end of the long piece.
++ Zodra de naald is voorzien van draad, hangt de draad in twee delen naar buiten. Trek er een uit zodat het een beetje langer is dan het andere en bind een knoop aan het einde van het lange stuk.
 
-Ready to start sewing?
+Klaar om te beginnen met naaien?
 
-+ Place your LED onto the felt at the spot you have marked out for it. With one hand, hold onto the felt and the LED. With the other hand, place the tip of the needle **behind** the felt and push it through so that it comes out through the **-** hole of the LED.
++ Plaats je LED op het vilt op de plek waar je het hebt gemarkeerd. Houd met één hand het vilt en de LED vast. Plaats met de andere hand de punt van de naald **achter** het vilt en duw het erdoor zodat het uit het **-** gat van de LED komt.
 
 ![](images/needle_through_LED.png)
 
-+ Pull the needle and thread all the way through at the front. Try holding the needle by the eye and pinching the thread tightly there to keep it from falling out of the needle while you pull (if it does fall out, it's ok, you can re-thread it). You want to keep pulling until only the knot remains at the back.
++ Trek de naald en draad helemaal door het vilt. Probeer de naald bij het oog vast te houden en de draad er stevig in te knijpen om te voorkomen dat deze uit de naald valt terwijl je aan het touw trekt (als deze eruit valt, kun je het er opnieuw doorrijgen). Je wilt blijven trekken totdat alleen de knoop tegen de achterkant komt.
 
 ![](images/pull_thread_through.png)
 
-+ Now, place the tip of the needle **right beside** the **-** hole of the LED (the one it just came through), but **not inside** it. Like this:
++ Plaats nu de punt van de naald **naast** het **-** gat van de LED (het gat waar het net doorheen kwam), maar **niet erin**. Zoals dit:
 
 ![](images/needle_next_to_LED.png)
 
-+ Push the needle through the felt so it comes out the back. Grab the needle behind the felt and pull it all the way through, just like you did at the front. You've just sewn your first stitch! It should look something like this:
++ Duw de naald door het vilt zodat het naar buiten komt. Pak de naald achter het vilt en trek het helemaal door, net zoals je aan de voorkant deed. Je hebt net je eerste steek genaaid! Het zou er ongeveer zo uit moeten zien:
 
 ![](images/first_stitch.png)
 
-+ Repeat the last two steps three more times. Be sure to pull the thread tight each time. This will create a good connection and keep the LED secured tightly to the felt.
++ Herhaal de laatste twee stappen nog drie keer. Zorg ervoor dat je de draad elke keer strak trekt. Dit zorgt voor een goede verbinding en houdt de LED stevig vast aan het vilt.
 
-+ You have just learned how to attach wearable components. Almost there!
++ Je hebt zojuist geleerd hoe je draagbare onderdelen kunt bevestigen. Bijna klaar!
 
 --- collapse ---
 ---
-title: Tips for sewing
+title: Tips voor naaien
 ---
 
-+ Practice makes perfect! If you have never sewn before, it can be tricky in the beginning. Don't worry, you'll get the hang of it.
++ Oefening baart kunst! Als je nog nooit eerder hebt genaaid, kan het in het begin lastig zijn. Maak je geen zorgen, je zult het onder de knie krijgen.
 
-+ This video might be helpful if you are new to sewing: [dojo.soy/wear-stitches](http://dojo.soy/wear-stitches){:target="_blank"}
++ Deze video kan handig zijn als je voor het eerst gaat naaien: [dojo.soy/wear-stitches](http://dojo.soy/wear-stitches){:target="_blank"}
 
 --- /collapse ---
