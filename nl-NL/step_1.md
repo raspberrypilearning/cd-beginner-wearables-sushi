@@ -1,83 +1,83 @@
-## Introduction
+## Inleiding
 
-These Sushi Cards will introduce you to wearable electronics. These are electronic circuits you can make using especially designed parts to create amazing-looking clothes and accessories.
+Deze Sushi-kaarten laten je kennismaken met draagbare elektronica. Dit zijn elektronische circuits die je kunt maken met speciaal ontworpen onderdelen om prachtige kleding en accessoires te maken.
 
-You will get to learn about and make electronic circuits, and you'll also do some sewing.
+Je zult leren over elektronische circuits en je zult ze gaan maken, en je zult ook wat naaien.
 
-You can use wearable electronics to decorate clothes, bags, hats, anything — the possibilities are unlimited!
+Je kunt draagbare elektronica gebruiken om kleding, tassen, hoeden, alles te versieren; de mogelijkheden zijn onbeperkt!
 
 ![](images/robot_headband_340_150_800.png)
 
-### What you will make
+### Wat ga je maken
 
-You are going to make a felt badge or patch that lights up!
+Je gaat een vilten badge of patch maken die oplicht!
 
 ![](images/badge_lit.png)
 
-You will also see how you can design the badge so that you can join lots of them together to make a glowing patchwork. This might be fun to do together with other Ninjas!
+Je zult ook zien hoe je de badge kunt ontwerpen zodat je veel van hen samen kunt voegen om een lichtgevende lap te maken. Dit zou leuk kunnen zijn om samen met andere Ninja's te doen!
 
 --- collapse ---
 ---
-title: What you will learn
+title: Wat ga je leren
 ---
 
-+ The basics of circuit components and the concepts involved in **positive/+** and **minus/-**
-+ Making a simple LED circuit
-+ How a switch works and how to use one in a circuit
-+ Using conductive thread and sewable components (parts) to make a wearable circuit
-+ Basic sewing skills
-+ Adding multiple LEDs to a circuit
-+ How to make a wearable circuit that’s split into detachable components
++ De basisprincipes van circuitcomponenten en de bijbehorende concepten **positief/+** en **negatief/-**
++ Een eenvoudig LED-circuit maken
++ Hoe een schakelaar werkt en hoe deze in een circuit te gebruiken
++ Gebruik geleidende draad en naaibare componenten (onderdelen) om een draagbaar circuit te maken
++ Basisvaardigheden voor naaien
++ Meerdere LED's toevoegen aan een circuit
++ Hoe maak je een draagbaar circuit dat is opgesplitst in afneembare componenten
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you need
+title: Wat heb je nodig
 ---
 
 ### Hardware
 
-The different parts of an electronic circuit are called **components**. Here is a list of the components you'll be using:
+De verschillende onderdelen van een elektronisch circuit worden **componenten** genoemd. Hier is een lijst met de onderdelen die je gaat gebruiken:
 
-+ A battery ![](images/batteries.png)
++ Een batterij ![](images/batteries.png)
 
-+ LEDs. These are small lights that come in different colours, and some of them can even flash or change colour. You can also get special sewable LEDs. For this project, you can use any kind of LED!
++ LED's. Dit zijn kleine lampjes die er in verschillende kleuren zijn, en sommigen van hen kunnen zelfs flitsen of van kleur veranderen. Je kunt ook speciale naaibare LED's krijgen. Voor dit project kun je elk type LED gebruiken!
 
 ![](images/LEDs_mix.png)
 
-+ A sewable battery holder. This is a battery holder that's attached to a special board (called a **printed circuit board** or **PCB**) that you can sew onto your project.
++ Een naaibare batterijhouder. Dit is een batterijhouder die is bevestigd aan een speciale houder (een **printplaat** of **PCB** genoemd) die je op je project kunt naaien.
 
 ![](images/battery_holders.png)
 
-Note: Your battery holder might look different from the ones shown above.
+Opmerking: De batterijhouder kan er anders uitzien dan die hierboven weergegeven.
 
-+ Conductive thread. This is like embroidery thread, but it contains metal so that electricity can flow through it. We say that it **conducts** electricity.
++ Geleidende draad. Dit is als borduurdraad, maar het bevat metaal zodat er elektriciteit doorheen kan stromen. We zeggen dat het elektriciteit **geleidt**.
 
 ![](images/thread.png)
 
-+ Crocodile clips (optional)
++ Krokodillenklemmen (optioneel)
 
 ![](images/crocs.png)
 
-+ A switch (optional). You will see there are lots of different kinds of switches.
++ Een schakelaar (optioneel). Je zult zien dat er veel verschillende soorten schakelaars zijn.
 
-### Other items
+### Andere items
 
-+ Some fabric to sew the components onto. This could be a piece of clothing or a bag or anything you like. I will use regular craft felt.
++ Wat stof om de onderdelen op te naaien. Dit kan een kledingstuk, een tas of iets wat je maar wilt zijn. Ik zal vilt gebruiken.
 
-+ A sewing needle, e.g. embroidery needle
++ Een naainaald, bijvoorbeeld een borduurnaald
 
-+ Scissors
++ Schaar
 
-+ Tape-electrical or masking tape, or any other removable tape
++ Tape - isolatie- of afplaktape, of een andere verwijderbare tape
 
-+ A safety pin or any kind of badge pin
++ Een veiligheidsspeld of een andere badgespeld
 
-#### Optional
+#### Optioneel
 
-+ Regular embroidery thread (or any other kind of thread)
++ Normale borduurdraad (of een ander soort draad)
 
-+ Pliers (preferably round-nosed)
++ Tang (bij voorkeur rond)
 
 --- /collapse ---
