@@ -1,0 +1,23 @@
+---
+title: ಪ್ರಜ್ವಲಿಸುವ ಪದಕ (Badge)
+hero_image: images/banner.png
+description: ಬೆಳಕು ಚೆಲ್ಲುವ ಫೆಲ್ಟ್ ಬ್ಯಾಡ್ಜ್ ಮಾಡಿ ಮತ್ತು ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಸರ್ಕ್ಯೂಟ್‌ಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ
+theme: violet
+version: 3.0.0
+listed: true
+copyedit: true
+curriculum: 1, design-0, programming-0, phys-comp-0, manufacture-1, community-0
+interests: wearable-technology
+technologies: electronic-components
+site_areas: coderdojo, projects
+hardware: electronic-components
+software: ''
+last_tested: "2017-04-28"
+steps:
+  - title: ಪರಿಚಯ
+  - title: ಸರ್ಕ್ಯೂಟ್ ರಚಿಸಿ
+  - title: ಸ್ವಿಚ್ ಸೇರಿಸಿ
+  - title: ಘಟಕಗಳನ್ನು ಹೊಲಿಯಿರಿ
+  - title: ನಿಮ್ಮ ಧರಿಸಬಹುದಾದ ಸರ್ಕ್ಯೂಟ್ ಅನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ
+  - title: ಹೆಚ್ಚಿನ ಎಲ್ಇಡಿಗಳನ್ನು ಸೇರಿಸಿ
+  - title: ಬೇರ್ಪಡಿಸಬಹುದಾದ ಭಾಗಗಳನ್ನು ತಯಾರಿಸಿ
