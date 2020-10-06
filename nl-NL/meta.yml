@@ -1,0 +1,23 @@
+---
+title: Oplichtende badge
+hero_image: images/banner.png
+description: Maak een vilten badge die oplicht en leer over elektronische circuits
+theme: violet
+version: 3.0.0
+listed: true
+copyedit: true
+curriculum: 1, design-0, programming-0, phys-comp-0, manufacture-1, community-0
+interests: wearable-technology
+technologies: electronic-components
+site_areas: coderdojo, projects
+hardware: electronic-components
+software: ''
+last_tested: '2017-04-28'
+steps:
+  - title: Inleiding
+  - title: Maak een circuit
+  - title: Voeg een schakelaar toe
+  - title: Naai de onderdelen vast
+  - title: Maak je draagbare circuit compleet
+  - title: Voeg meer LED's toe
+  - title: Maak afneembare onderdelen
