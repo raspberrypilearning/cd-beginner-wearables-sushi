@@ -1,45 +1,45 @@
-## Add a switch
+## Ajouter un commutateur
 
-What if you want to turn your circuit off? To do this, you need a break somewhere in the circuit to stop the electricity from flowing. A **switch** is a component that allows you to turn a circuit off and on easily. There are lots of different types of switches: buttons, sliders, even magnetic or tilting ones. Some battery holders even have a built-in switch.
+Et si tu souhaites désactiver ton circuit ? Pour faire cela, tu as besoin d'une coupure quelque part dans le circuit pour empêcher l'électricité de circuler. Un **commutateur** est un composant qui te permet d'éteindre et de rallumer facilement un circuit. Il existe de nombreux types de commutateurs : boutons, curseurs, même magnétiques ou inclinables. Certains supports de pile ont même un commutateur intégré.
 
 ![](images/switches.png)
 
-+ On your circuit, detach the thread from the **+** hole of the battery holder. Take a new piece of thread and put one end of the new piece through the the **+** hole where the other thread just was. You might need to team up with a third person here, for some extra hands! Otherwise you can always use tape, or use crocodile clips instead of thread.
++ Sur ton circuit, détache le fil du trou **+** du support de pile. Prends un nouveau morceau de fil et place une extrémité de la nouvelle pièce dans le trou **+** où se trouvait l'autre fil. Tu devras peut-être faire équipe avec une troisième personne ici, pour avoir quelques mains supplémentaires ! Sinon, tu peux toujours utiliser du ruban adhésif ou utiliser des pinces crocodiles au lieu du fil.
 
-+ If you have a ready-made switch, hold the other end of the new thread to one end of it. Then take the thread you removed from the battery holder (it should still be attached to the LED) and hold it to the other end of the switch. Now you can use the switch to turn the LED off and on!
++ Si tu as un commutateur prêt à l'emploi, maintiens l'autre extrémité du nouveau fil à une extrémité de celui-ci. Ensuite, prends le fil que tu as retiré du support de pile (il doit toujours être attaché à la LED) et maintiens-le à l'autre extrémité du commutateur. Tu peux maintenant utiliser le commutateur pour éteindre et allumer la LED !
 
 ![](images/switch_on_thread.png)
 
 --- collapse ---
 ---
-title: Which way around should the switch go?
+title: Dans quel sens le commutateur doit-il aller ?
 ---
 
-+ Notice there is no positive or negative side on a switch. This means it doesn't matter which way around the switch sits.
++ Note qu'il n'y a pas de côté positif ou négatif sur un commutateur. Cela signifie que le sens du commutateur n'a pas d'importance.
 
 --- /collapse ---
 
-+ If you don't have a switch, you can make one very easily. Take the two loose ends of thread in your circuit and hold them together to make your LED light up. When you separate them, it turns off again. You have just created a simple switch!
++ Si tu n'as pas de commutateur, tu peux en créer un très facilement. Prends les deux extrémités de fil libres de ton circuit et maintiens-les ensemble pour que ta LED s'allume. Lorsque tu les sépares, elle s'éteint à nouveau. Tu viens de créer un commutateur simple !
 
 ![](images/switch_diy_thread_a.png) ![](images/switch_diy_thread_b.png) ![](images/switch_diy_thread_c.png)
 
 --- collapse ---
 ---
-title: How does it work?
+title: Comment ça marche ?
 ---
 
-As you've seen, electricity flows all the way around the circuit to make the LED light up. For the electricity to flow, there needs to be a connection between each component in the circuit.
+Comme tu l'as vu, l'électricité circule tout autour du circuit pour que la LED s'allume. Pour que l'électricité circule, il doit y avoir une connexion entre chaque composant du circuit.
 
-When you separate the two threads, you have broken the connection between them, so the electricity can no longer flow.
+Lorsque tu sépares les deux fils, tu as interrompu la connexion entre eux, de sorte que l'électricité ne peut plus circuler.
 
-When you make the threads touch, they are connected and the electricity is able to flow once more.
+Lorsque tu fais toucher les fils, ils sont connectés et l'électricité peut circuler à nouveau.
 
-I've put tape near the end of each thread so you can more easily see where the break is in the circuit. This will be the switch. Here it is in action:
+J'ai mis du ruban adhésif près de l'extrémité de chaque fil afin que tu puisses voir plus facilement où se trouve la coupure dans le circuit. Ce sera le commutateur. Le voici en action :
 
 ![](images/switch_diy_tape_abc_120_650.png)
 
-In a ready-made switch, the part where the connection gets broken and reconnected is usually hidden inside so you can't see it. Now you know what is really happening when you switch something on or off!
+Dans un commutateur prêt à l'emploi, la partie où la connexion est interrompue et reconnectée est généralement cachée à l'intérieur afin que tu ne puisses pas la voir. Tu sais maintenant ce qui se passe réellement lorsque tu actives ou désactives quelque chose !
 
 --- /collapse ---
 
-Different types of switches work by breaking the circuit in different ways. You can use a switch in your wearables projects to give you control over when the circuit is on or off.
+Différents types de commutateurs fonctionnent en coupant le circuit de différentes manières. Tu peux utiliser un commutateur dans tes projets d'objets portatifs pour te donner le contrôle du moment où le circuit est activé ou désactivé.
