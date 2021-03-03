@@ -1,46 +1,46 @@
-## What you will need
+## Ce dont tu auras besoin
 
-### Hardware
+### Matériel informatique
 
-The different parts of an electronic circuit are called **components**. Here is a list of the components you'll be using:
+Les différentes parties d'un circuit électronique sont appelées **composants**. Voici une liste des composants que tu utiliseras :
 
-+ A battery ![](images/batteries.png)
++ Une pile ![](images/batteries.png)
 
-+ LEDs. These are small lights that come in different colours, and some of them can even flash or change colour. You can also get special sewable LEDs. For this project, you can use any kind of LED!
++ Des LED. Ce sont de petites lumières de différentes couleurs, et certaines d'entre elles peuvent même clignoter ou changer de couleur. Tu peux également obtenir des LED cousues spéciales. Pour ce projet, tu peux utiliser n'importe quel type de LED !
 
 ![](images/LEDs_mix.png)
 
-+ A sewable battery holder. This is a battery holder that's attached to a special board (called a **printed circuit board** or **PCB**) that you can sew onto your project.
++ Un support de pile à coudre. Il s'agit d'un support de pile fixé à une carte spéciale (appelée **carte de circuit imprimé** ou **PCB**) que tu peux coudre sur ton projet.
 
 ![](images/battery_holders.png)
 
-Note: Your battery holder might look different from the ones shown above.
+Remarque : ton support de pile peut être différent de ceux illustrés ci-dessus.
 
-+ Conductive thread. This is like embroidery thread, but it contains metal so that electricity can flow through it. We say that it **conducts** electricity.
++ Fil conducteur. C'est comme du fil à broder, mais il contient du métal pour que l'électricité puisse y circuler. On dit qu'il **conduit** électricité.
 
 ![](images/thread.png)
 
-+ Crocodile clips (optional)
++ Pinces crocodiles (facultatif)
 
 ![](images/crocs.png)
 
-+ A switch (optional). You will see there are lots of different kinds of switches.
++ Un commutateur (en option). Tu verras qu'il existe de nombreux types de commutateur.
 
-### Other items
+### Autres éléments
 
-+ Some fabric to sew the components onto. This could be a piece of clothing or a bag or anything you like. I will use regular craft felt.
++ Du tissu sur lequel coudre les composants. Cela peut être un vêtement ou un sac ou tout ce que tu aimes. J'utiliserai du feutre artisanal ordinaire.
 
-+ A sewing needle, e.g. embroidery needle
++ Une aiguille à coudre, p.ex. une aiguille à broder
 
-+ Scissors
++ Des ciseaux
 
-+ Tape-electrical or masking tape, or any other removable tape
++ Ruban adhésif électrique ou de masquage, ou tout autre ruban amovible
 
-+ A safety pin or any kind of badge pin
++ Une épingle de sécurité ou tout type d'épingle d'insigne
 
-#### Optional
+#### Facultatif
 
-+ Regular embroidery thread (or any other kind of thread)
++ Fil à broder ordinaire (ou tout autre type de fil)
 
-+ Pliers (preferably round-nosed)
++ Pinces (de préférence à bec rond)
  
