@@ -1,7 +1,7 @@
 ---
-title: Glowing badge
+title: Insigne lumineux
 hero_image: images/banner.png
-description: Make a felt badge that lights up, and learn about electronic circuits
+description: Fabriquer un insigne en feutre qui s'allume et découvrir les circuits électroniques
 theme: violet
 version: 3.0.0
 listed: true
@@ -17,14 +17,14 @@ steps:
   - 
     title: Introduction
   - 
-    title: Make a circuit
+    title: Créer un circuit
   - 
-    title: Add a switch
+    title: Ajouter un commutateur
   - 
-    title: Sew on components
+    title: Coudre des composants
   - 
-    title: Complete your wearable circuit
+    title: Compléter ton circuit portable
   - 
-    title: Add more LEDs
+    title: Ajouter plus de LED
   - 
-    title: Make detachable parts
+    title: Créer des pièces détachables
