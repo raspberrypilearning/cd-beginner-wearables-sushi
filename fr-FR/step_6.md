@@ -1,50 +1,50 @@
-## Add more LEDs
+## Ajouter plus de LED
 
-Adding more LEDs to your circuit is easy, and you don't need any additional batteries!
+Ajouter plus de LED à ton circuit est facile et tu n'as pas besoin de piles supplémentaires !
 
-**Note**: the LEDs in your circuit must be of the same type, either all sewable or all non-sewable. It will work best with sewable LEDs, as you can connect many more of them to the same battery without the power being reduced.
+**Remarque** : les LED de ton circuit doivent être du même type, soit toutes à coudre, soit toutes non à coudre. Cela fonctionnera mieux avec les LED à coudre, car tu peux en connecter beaucoup plus à la même pile sans réduire la puissance.
 
-+ Pop the battery out of the battery holder for now. When working on a circuit, it is important to always make sure is is not **live** by switching it off or taking out the battery!
++ Retire la pile du support de pile pour le moment. Lorsque tu travailles sur un circuit, il est important de toujours s'assurer qu'il ne soit pas **en marche** en l'éteignant ou en retirant la pile !
 
-+ Decide where on your badge you want to put your next LED, and mark that place.
++ Décide où sur ton insigne tu veux placer ta prochaine LED et marque cet endroit.
 
-You will connect the LEDs in **parallel**. There are two ways to do this.
+Tu vas connecter les LED en **parallèle**. Il y a deux façons de faire ça.
 
-### Method 1
+### Méthode 1
 
-One option is to connect the LED directly to the battery, just like the first LED. It is OK to use the same holes on the battery holder more than once on the battery holder - the only limit is how much thread you can fit through! The example circuit in the picture hasn't been sewn onto anything, so you can see the threads clearly:
+Une option consiste à connecter la LED directement à la pile, tout comme la première LED. Tu peux utiliser les mêmes trous sur le support de pile plus d'une fois sur le support de pile - la seule limite est la quantité de fil que tu peux insérer ! L'exemple de circuit dans l'image n'a été cousu sur rien, tu peux donc voir clairement les fils :
 
 ![](images/more_leds_separate.png)
 
-### Method 2
+### Méthode 2
 
-Another option is to attach the new LED to the LED that's already in your circuit, instead of to the battery. You match up the **+** to the **+** and the **-** to the **-** as you would if you were connecting it to a battery. In the below example, the same two long pieces of thread are used for both LEDs. You could also use separate pieces of thread for each LED.
+Une autre option consiste à attacher la nouvelle LED à la LED qui est déjà dans ton circuit, au lieu de la pile. Tu fais correspondre le **+** au **+** et le **-** au **-** comme tu le ferais si tu la connectais à une pile. Dans l'exemple ci-dessous, les deux mêmes longs morceaux de fil sont utilisés pour les deux LED. Tu peux également utiliser des morceaux de fil séparés pour chaque LED.
 
 ![](images/more_leds_extended.png)
 
 --- collapse ---
 ---
-title: Which method should I choose?
+title: Quelle méthode dois-je choisir ?
 ---
 
-Deciding whether to connect the LED to the battery holder or to the other LED depends on where you want to put the new LED!
+Décider de connecter la LED au support de pile ou à l'autre LED dépend de l'endroit où tu souhaites placer la nouvelle LED !
 
-+ Usually you will pick the component that's closer to the place you've chosen for your second LED.
++ Habituellement, tu choisiras le composant le plus proche de l'endroit que tu as choisi pour ta deuxième LED.
 
-+ You also need to make sure all the different threads are kept separate and don't cross over or touch, so it is a good idea to look at where the **+** and **-** of your components are when you pick a method and a place for the LED.
++ Tu dois également t'assurer que tous les différents fils sont séparés et ne se croisent pas ou ne se touchent pas, c'est donc une bonne idée de regarder où se trouvent les **+** et **-** de tes composants lorsque tu choisis une méthode et un endroit pour la LED.
 
 --- /collapse ---
 
-+ Holding the LED in place, use a needle and a new piece of conductive thread to secure the **-** hole of the LED like you did for the first one you sewed on.
++ En tenant la LED en place, utilise une aiguille et un nouveau morceau de fil conducteur pour fixer le trou **-** de la LED comme tu l'as fait pour le premier que tu as cousu.
 
-+ The next step is the running stitch. If you are connecting the LED to the other LED, then this time the stitches will go in a line towards the **-** hole of the other LED, instead of to the battery holder. Once you reach the correct hole, make three stitches through it, and three tiny stitches to finish, exactly as you did before.
++ L'étape suivante est le point coulé. Si tu connectes la LED à l'autre LED, cette fois , les points vont dans une ligne vers le trou **-** de l'autre LED, au lieu du support de pile. Une fois que tu as atteint le bon trou, fais trois points à travers et trois minuscules points pour terminer, exactement comme tu l'as fait auparavant.
 
-+ Now connect the **+** hole of the new LED using the same method.
++ Connecte maintenant le trou **+** de la nouvelle LED en utilisant la même méthode.
 
-In this photo, the second LED is connected directly to the battery:
+Sur cette photo, la deuxième LED est connectée directement à la pile :
 
 ![](images/second_led.JPG)
 
-In the next photo, a second LED has been connected to the first LED, which is in turn connected to the battery (the battery is at the back of the fabric):
+Sur la photo suivante, une deuxième LED a été connectée à la première LED, elle-même connectée à la pile (la pile est à l'arrière du tissu) :
 
 ![](images/second_led2.png)
