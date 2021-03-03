@@ -1,46 +1,46 @@
-## Complete your wearable circuit
+## أكمل دائرتك الكهربائية القابلة للارتداء
 
-By now you have needle and thread coming out of the felt where the LED has been attached. Imagine a line between this spot and the spot you marked for the **-** hole of the battery holder. If it helps, you could draw the line on the felt. You will sew a **running stitch** along this line to connect the LED to the battery holder.
+الآن لديك إبرة وخيط يخرجان من قطعة القماش حيث تم توصيل المصباح. تخيل خيط بين هذا المكان والمكان الذي حددته لـ ** - ** فتحة حامل البطارية. إذا كان ذلك مفيدًا ، يمكنك رسم الخط على قطعة القماش. ستخيط من خلال **تمرير الإبرة إلى داخل وخارج ** على طول هذا الخط لتوصيل المصباح بحامل البطارية.
 
-+ Place the tip of the needle on the line, about 1cm away from where the thread is coming out of the felt, and push it through. Pull the needle and thread all the way through as before. Then repeat this on the other side of the felt. Keep doing this in 1cm wide steps until you reach the spot you marked for the **-** hole of the battery holder.
++ ضع طرف الإبرة على الخط ، على بعد حوالي 1 سم من مكان خروج الخيط من قطعة القماش، وادفعه خلاله. اسحب الإبرة وخيطها بالكامل من الأمام. ثم كرر هذا على الجانب الآخر من القماش. تخيل خيط بين هذا المكان والمكان الذي حددته لـ ** - ** فتحة حامل البطارية.
 
-+ Next, put your battery holder into place on the felt. Then, just like you did for the LED, attach the battery holder by sewing three stitches through the **-** hole. Remember to make sure they are good and tight!
++ بعد ذلك ، ضع حامل البطارية في مكانه على القماش. ثم ، وكما فعلت مع المصباح، قم بتثبيت حامل البطارية عن طريق خياطة ثلاث غرز من خلال ثقب طرف الــ** - **. تذكر وللتأكد من أنها جيدة وضيقة!
 
-+ To finish, sew three tiny stitches right next to where you attached the battery holder, all in the same place. This will secure the end of the thread and stop your work from unravelling.
++ للانتهاء ، قم بخياطة ثلاث غرز صغيرة بجوار المكان الذي قمت بتوصيل حامل البطارية فيه ، وكل ذلك في نفس المكان. سيؤدي ذلك إلى تأمين نهاية الخيط وإيقاف عملك من التفكك.
 
-+ Cut the thread so that only a tiny bit is hanging out of the felt.
++ اقطع الخيط بحيث يتدلى جزء صغير جدًا من قطعة القماش.
 
 --- collapse ---
 ---
-title: Watch a video of the last bit
+العنوان: شاهد فيديو الجزء الاخير
 ---
 
-Here is a video showing you how to finish this part of the sewing: [dojo.soy/wear-finishing](http://dojo.soy/wear-finishing){:target="_blank"}
+إليك مقطع فيديو يوضح لك كيفية إنهاء هذا الجزء من الخياطة: [ dojo.soy/wear-finishing ](http://dojo.soy/wear-finishing) {: target = "_ blank"}
 
 --- /collapse ---
 
  ![](images/tiny_stitches_triple_80_650.png)
 
-You now have half of your circuit sewn.
+لديك الآن نصف دائرتك مخيط.
 
-+ To complete the circuit, you need to connect the **+** hole on the LED with the **+** hole on the battery holder. Do this in the same way in which you just connected the **negatives**. I am not including a switch in this circuit, but you could if you wanted, using a third piece of thread as before.
++ لإكمال الدائرة ، تحتاج إلى توصيل ** + ** ثقب على LED مع ** + ** ثقب على حامل البطارية. افعل ذلك بالطريقة نفسها التي ربطت بها ** السلبيات **. أنا لا أقوم بتضمين مفتاح في هذه الدائرة ، ولكن يمكنك إذا أردت استخدام قطعة ثالثة من الخيط كما كان من قبل.
 
 ![](images/sewing_complete_front.png)
 
-  **Important!** Make sure the path for your **+** thread **does not cross/touch** the **-** thread or any edges of the battery holder anywhere. Remember, this would cause a **short circuit** (a bad thing)!
+  ** هام! ** تأكد من أن مسار ** + الخاص بك ** الخيط ** لا يتقاطع / اللمس ** ** - ** الخيط أو أي حواف لحامل البطارية في أي مكان. تذكر أن هذا قد يتسبب في ** تماس كهربائى** (شيئا سيئا)!
 
 ![](images/sewing_complete_back.png)
 
-+ Insert a battery into the battery holder and watch your LED light up!
++ أدخل البطارية في حامل البطارية وشاهد ضوء المصباح الخاص بك!
 
-### Making the badge
+### صنع العلامة (الباج)
 
-+ Time to get creative! Decorate your badge however you like with different coloured felt or thread, or any other materials you have. Covering the LED with felt will give it a softer glow.
++ حان وقت البرمجة! قم بتزيين علامتك كيفما تشاء مع خيوط ملونة مختلفة ، أو أي مواد أخرى لديك. ستغطي المصباح بقطعة القماش وتعطيه وهجًا أكثر نعومة.
 
 ![](images/badge_front.png)
 
-+ If you are attaching a pin to your badge, it is a good idea to put it onto a separate piece of felt that you attach to the back of your badge. This ensures that the pin does not touch any part of your circuit — since the pin is metal, that would cause a short circuit. Use ordinary thread for the extra sewing, or glue or tape instead.
++ إذا كنت تعلق دبوسًا على علامتك، فمن الجيد وضعه على قطعة قماش منفصلة تعلقها بالجزء الخلفي من علامتك. هذا يضمن أن الدبوس لا يلمس أي جزء من دائرتك - لأن الدبوس معدن ، مما قد يتسبب خلل في الدائرة كهربائية. استخدم خيطًا عاديًا للخياطة الإضافية ، أو الغراء أو الشريط بدلاً من ذلك.
 
 ![](images/badge_back.png)
 
-Congratulations! Your badge is done, and you have sewn a complete wearable circuit. The next Sushi Cards show you how to add more LEDs, and they are optional.
+تهانينا! تم الانتهاء من علامتك، وقمت بخياطة دائرة كاملة يمكن ارتداؤها. توضح لك بطاقات السوشي التالية كيفية إضافة المزيد من مصابيح ، وهي اختيارية.
