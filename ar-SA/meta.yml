@@ -1,7 +1,7 @@
 ---
-title: Glowing badge
+title: علامة متوهجة
 hero_image: images/banner.png
-description: Make a felt badge that lights up, and learn about electronic circuits
+description: اصنع علامة تضيء من الالياف، وتعرف على الدوائر الإلكترونية
 theme: violet
 version: 3.0.0
 listed: true
@@ -15,16 +15,16 @@ software: ''
 last_tested: "2017-04-28"
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Make a circuit
+    title: اصنع دائرة كهربائية
   - 
-    title: Add a switch
+    title: أضف مفتاحًا كهربائياً
   - 
-    title: Sew on components
+    title: خياطة على المكونات
   - 
-    title: Complete your wearable circuit
+    title: أكمل دائرتك الكهربائية القابلة للارتداء
   - 
-    title: Add more LEDs
+    title: أضف المزيد من المصابيح
   - 
-    title: Make detachable parts
+    title: اصنع أجزاء قابلة للفصل
