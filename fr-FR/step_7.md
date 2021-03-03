@@ -1,41 +1,41 @@
-## Make detachable parts
+## Créer des pièces détachables
 
-You can also extend your badge circuit so that separate pieces of felt with their own LEDs (of the same type) can be joined to it to make them light up!
+Tu peux également prolonger ton circuit d'insignes afin que des morceaux de feutre séparés avec leurs propres LED (du même type) puissent s'y joindre pour les faire s'allumer !
 
-First you will need another badge. This one will not have a battery of its own. But without a battery, where will the threads go?
+Tu auras d'abord besoin d'un autre insigne. Celui-ci n'aura pas sa propre pile. Mais sans pile, où iront les fils ?
 
-+ When you sew your LED onto this new badge, do the running stitches all the way to the edge of the felt, or near the edge. Remember to keep the **positive** and **negative** threads separate from each other!
++ Lorsque tu couds ta LED sur ce nouvel insigne, fais les points coulés jusqu'au bord du feutre, ou près du bord. N'oublie pas de garder les fils **positifs** et **négatifs** séparés l'un de l'autre !
 
-+ Then sew several medium-sized stitches next to each other or criss-crossing over each other. You want to make it look like a "blob" of conductive thread on the felt.
++ Ensuite, couds plusieurs points de taille moyenne les uns à côté des autres ou en s'entrecroisant les uns sur les autres. Tu veux le faire ressembler à une « boulette » de fil conducteur sur le feutre.
 
-+ Finish the stitching as normal by doing three tiny stitches in one spot before cutting the thread short.
++ Termine la couture normalement en faisant trois petits points en un seul endroit avant de couper le fil court.
 
 ![](images/new_badge_blobs_front_back_120_650.png)
 
-+ Once you have one blob for the **negative**, and one blob for the **positive** side, the new badge is ready. If you want, you can repeat these steps so that you extend the circuit to another pair of blobs at the opposite edge of the new badge, like this:
++ Une fois que tu as une boulette pour le **négatif** et une boulette pour le **positif** côté, le nouvel insigne est prêt. Si tu le souhaites, tu peux répéter ces étapes afin d'étendre le circuit à une autre paire de boulettes sur le bord opposé du nouvel insigne, comme ceci :
 
 ![](images/new_badge_front_back_120_650.png)
 
-+ Now you just need to extend the circuit on the main badge (the one with the battery). Remember to remove the battery from the holder first.
++ Il ne te reste plus qu'à prolonger le circuit sur l'insigne principal (celui avec la pile). N'oublie pas de retirer d'abord la pile du support.
 
-+ Decide where you want to the badges to join together. You will be sewing stitches from the LED on the main badge to this point, so make sure you can trace a line from the **+** to the **positive** blob and from the **-** to the **negative** blob without the lines crossing.
++ Décide où tu veux que les insignes se rejoignent. Tu couds des points à partir de la LED de l'insigne principal jusqu'à ce point, alors assure-toi de pouvoir tracer une ligne du **+** à la boulette **positive** et de la boulette **-** à la boulette **négative** sans que les lignes ne se croisent.
 
-+ Mark two spots on the main badge where the **positive** and **negative** blobs touch it. You are going to sew matching blobs here for them to connect to. You can put the new badge to one side for the next bit.
++ Marque deux points sur l'insigne principal où les boulettes **positives** et **négatives** le touchent. Tu vas coudre des boulettes correspondantes ici pour qu'elles se connectent. Tu peux mettre le nouvel insigne de côté pour la partie suivante.
 
-+ Taking new thread and the main badge, sew a bunch of stitches at the spot you marked for the **negative** blob. Then sew a running stitch all the way to the LED on this badge and secure it to the **-** hole. Repeat this process to make a **positive** blob that is connected to the **+** hole of the same LED. When you are done it should look something like this:
++ En prenant un nouveau fil et l'insigne principal, couds un tas de points à l'endroit que tu as marqué pour la boulette **négative**. Ensuite, couds un point coulé jusqu'à la LED sur cet insigne et attache-le au trou **-**. Répète ce processus pour créer une boulette **positive** qui est connectée au trou **+** de la même LED. Lorsque tu as terminé, cela devrait ressembler à ceci :
 
 ![](images/badge_ext_blobs.png)
 
-Your badges are ready to be joined together!
+Tes insignes sont prêts à être réunis !
 
-+ Pop the battery back into its holder. Place the new badge onto the main badge so the blobs touch each other. Remember to match up **+** to **+** and **-** to **-**. You should see the new badge suddenly light up!
++ Remets la pile dans son support. Place le nouvel insigne sur l'insigne principal afin que les boulettes se touchent. N'oublie pas de faire correspondre **+** à **+** et **-** à **-**. Tu devrais voir le nouvel insigne s'allumer soudainement !
 
 ![](images/badge_extended_unlit.png) ![](images/badge_extended_lit.png)
 
 --- challenge ---
 
-## Challenge: Make a soft switch
+## Défi : Créer un commutateur doux
 
-+ You could use this technique to make a simple soft switch on your project. For example, put a **positive** blob each at either end of a bracelet, so the two come in contact when you close it.
++ Tu peux utiliser cette technique pour faire un simple commutateur doux sur ton projet. Par exemple, place une boulette **positive** à chaque extrémité d'un bracelet, afin que les deux entrent en contact lorsque tu la fermes.
 
 --- /challenge ---
