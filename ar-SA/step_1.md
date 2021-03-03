@@ -1,83 +1,83 @@
-## Introduction
+## المقدمة
 
-These Sushi Cards will introduce you to wearable electronics. These are electronic circuits you can make using especially designed parts to create amazing-looking clothes and accessories.
+ستقدم لك بطاقات السوشي هذه الأجهزة الإلكترونية القابلة للارتداء. هذه هي دوائر إلكترونية يمكنك صنعها باستخدام أجزاء مصممة خصيصًا لإنشاء ملابس وإكسسوارات رائعة المظهر.
 
-You will get to learn about and make electronic circuits, and you'll also do some sewing.
+سوف تتعلم عن الدوائر الإلكترونية وتصنعها ، وستقوم أيضًا ببعض الخياطة.
 
-You can use wearable electronics to decorate clothes, bags, hats, anything — the possibilities are unlimited!
+يمكنك استخدام الإلكترونيات القابلة للارتداء لتزيين الملابس والحقائب والقبعات وأي شيء - الاحتمالات غير محدودة!
 
 ![](images/robot_headband_340_150_800.png)
 
-### What you will make
+### ما الذي ستصنعه
 
-You are going to make a felt badge or patch that lights up!
+سوف تقوم بعمل علامة (باج) أو قطعة قماش تضيء!
 
 ![](images/badge_lit.png)
 
-You will also see how you can design the badge so that you can join lots of them together to make a glowing patchwork. This might be fun to do together with other Ninjas!
+سترى أيضًا كيف يمكنك تصميم الباج بحيث يمكنك ضم الكثير منها معًا لعمل خليط متوهج. قد يكون هذا ممتعًا مع النينجا الآخرين!
 
 --- collapse ---
 ---
-title: What you will learn
+العنوان: ما الذي سوف تتعلمه
 ---
 
-+ The basics of circuit components and the concepts involved in **positive/+** and **minus/-**
-+ Making a simple LED circuit
-+ How a switch works and how to use one in a circuit
-+ Using conductive thread and sewable components (parts) to make a wearable circuit
-+ Basic sewing skills
-+ Adding multiple LEDs to a circuit
-+ How to make a wearable circuit that’s split into detachable components
++ أساسيات مكونات الدائرة والمفاهيم التي ينطوي عليها ** موجب/ + ** و ** سالب/ - **
++ صنع دائرة LED (ضوء) بسيطة
++ كيف يعمل المفتاح وكيفية استخدامه في الدائرة
++ استخدام خيط موصل ومكونات (أجزاء) قابلة للخياطة لصنع دائرة يمكن ارتداؤها
++ مهارات الخياطة الأساسية
++ إضافة مصابيح LED متعددة إلى الدائرة
++ كيفية إنشاء دائرة يمكن ارتداؤها مقسمة إلى مكونات قابلة للفصل
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you need
+العنوان: ما تحتاج إليه
 ---
 
-### Hardware
+### الأجهزة
 
-The different parts of an electronic circuit are called **components**. Here is a list of the components you'll be using:
+تسمى الأجزاء المختلفة للدائرة الإلكترونية **مكونات**. فيما يلي قائمة بالمكونات التي ستستخدمها:
 
-+ A battery ![](images/batteries.png)
++ بطارية ![](images/batteries.png)
 
-+ LEDs. These are small lights that come in different colours, and some of them can even flash or change colour. You can also get special sewable LEDs. For this project, you can use any kind of LED!
++ ضوء LED. هذه أضواء صغيرة تأتي بألوان مختلفة ، ويمكن لبعضها وميض أو تغيير اللون. يمكنك أيضًا الحصول على مصابيح LED خاصة قابلة للخياطة. لهذا المشروع ، يمكنك استخدام أي نوع من LED!
 
 ![](images/LEDs_mix.png)
 
-+ A sewable battery holder. This is a battery holder that's attached to a special board (called a **printed circuit board** or **PCB**) that you can sew onto your project.
++ حامل بطارية قابل للخياطة ( يمكن تثبيتها أو وضعها بواسطة التطريز). هذا حامل بطارية متصل بلوحة خاصة (تسمى **لوحة دائرة مطبوعة**) التي يمكنك خياطتها في مشروعك.
 
 ![](images/battery_holders.png)
 
-Note: Your battery holder might look different from the ones shown above.
+ملاحظة: قد يبدو حامل البطارية مختلفًا عن ما هو موضح أعلاه.
 
-+ Conductive thread. This is like embroidery thread, but it contains metal so that electricity can flow through it. We say that it **conducts** electricity.
++ خيط موصل. يشبه هذا خيط التطريز ، لكنه يحتوي على معدن حتى تتدفق الشحنات الكهرباء من خلاله. نقول أنها ** توصل** كهرباء.
 
 ![](images/thread.png)
 
-+ Crocodile clips (optional)
++ مقاطع تشبه فم التمساح (اختياري)
 
 ![](images/crocs.png)
 
-+ A switch (optional). You will see there are lots of different kinds of switches.
++ مفتاح (اختياري). سترى أن هناك العديد من أنواع المفاتيح المختلفة.
 
-### Other items
+### عناصر اخرى
 
-+ Some fabric to sew the components onto. This could be a piece of clothing or a bag or anything you like. I will use regular craft felt.
++ بعض الأقمشة لخياطة المكونات عليها. قد يكون هذا قطعة من الملابس أو حقيبة أو أي شيء تريده. سأستخدم الحرفة اليدوية (اعمال يديوية).
 
-+ A sewing needle, e.g. embroidery needle
++ إبرة خياطة ، مثل إبرة التطريز
 
-+ Scissors
++ مقص
 
-+ Tape-electrical or masking tape, or any other removable tape
++ الشريط الكهربائي أو الشريط اللاصق أو أي شريط آخر قابل للإزالة
 
-+ A safety pin or any kind of badge pin
++ دبوس أمان أو أي نوع من دبوس العلامة (الباج)
 
-#### Optional
+#### اختياري
 
-+ Regular embroidery thread (or any other kind of thread)
++ خيط التطريز العادي (أو أي نوع آخر من الخيط)
 
-+ Pliers (preferably round-nosed)
++ كماشة(يفضل أن تكون دائرية الشكل)
 
 --- /collapse ---
