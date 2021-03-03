@@ -1,46 +1,46 @@
-## What you will need
+## ما ستحتاج إليه
 
-### Hardware
+### الأجهزة
 
-The different parts of an electronic circuit are called **components**. Here is a list of the components you'll be using:
+تسمى الأجزاء المختلفة للدائرة الإلكترونية **مكونات**. فيما يلي قائمة بالمكونات التي ستستخدمها:
 
-+ A battery ![](images/batteries.png)
++ بطارية ![](images/batteries.png)
 
-+ LEDs. These are small lights that come in different colours, and some of them can even flash or change colour. You can also get special sewable LEDs. For this project, you can use any kind of LED!
++ ضوء LED. هذه أضواء صغيرة تأتي بألوان مختلفة ، ويمكن لبعضها وميض أو تغيير اللون. يمكنك أيضًا الحصول على مصابيح LED خاصة قابلة للصرف. لهذا المشروع ، يمكنك استخدام أي نوع من LED!
 
 ![](images/LEDs_mix.png)
 
-+ A sewable battery holder. This is a battery holder that's attached to a special board (called a **printed circuit board** or **PCB**) that you can sew onto your project.
++ حامل بطارية قابل للخياطة ( يمكن تثبيتها أو وضعها بواسطة طرز). هذا حامل بطارية متصل بلوحة خاصة (تسمى **لوحة دائرة مطبوعة**) التي يمكنك خياطتها في مشروعك.
 
 ![](images/battery_holders.png)
 
-Note: Your battery holder might look different from the ones shown above.
+ملاحظة: قد يبدو حامل البطارية مختلفًا عن ما هو موضح أعلاه.
 
-+ Conductive thread. This is like embroidery thread, but it contains metal so that electricity can flow through it. We say that it **conducts** electricity.
++ خيط موصل. يشبه هذا خيط التطريز ، لكنه يحتوي على معدن حتى تتدفق الشحنات الكهرباء من خلاله. نقول أنها ** توصل** كهرباء.
 
 ![](images/thread.png)
 
-+ Crocodile clips (optional)
++ مقاطع تشبه فم التمساح (اختياري)
 
 ![](images/crocs.png)
 
-+ A switch (optional). You will see there are lots of different kinds of switches.
++ مفتاح (اختياري). سترى أن هناك العديد من أنواع المفاتيح المختلفة.
 
-### Other items
+### عناصر اخرى
 
-+ Some fabric to sew the components onto. This could be a piece of clothing or a bag or anything you like. I will use regular craft felt.
++ بعض الأقمشة لخياطة المكونات عليها. قد يكون هذا قطعة من الملابس أو حقيبة أو أي شيء تريده. سأستخدم الحرفة اليدوية.
 
-+ A sewing needle, e.g. embroidery needle
++ إبرة خياطة ، مثل إبرة التطريز
 
-+ Scissors
++ مقص
 
-+ Tape-electrical or masking tape, or any other removable tape
++ الشريط الكهربائي أو الشريط اللاصق أو أي شريط آخر قابل للإزالة
 
-+ A safety pin or any kind of badge pin
++ دبوس أمان أو أي نوع من دبوس العلامة (الباج)
 
-#### Optional
+#### اختياري
 
-+ Regular embroidery thread (or any other kind of thread)
++ خيط التطريز العادي (أو أي نوع آخر من الخيط)
 
-+ Pliers (preferably round-nosed)
++ كماشة(يفضل أن تكون دائرية الشكل)
  
