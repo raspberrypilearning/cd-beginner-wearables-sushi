@@ -1,41 +1,41 @@
-## Make detachable parts
+## اصنع أجزاء قابلة للفصل
 
-You can also extend your badge circuit so that separate pieces of felt with their own LEDs (of the same type) can be joined to it to make them light up!
+يمكنك أيضًا تمديد دائرة العلامة الخاصة بك بحيث يمكن ربط قطع منفصلة من القماش بمصابيح الخاصة بها (من نفس النوع) لجعلها تضيء!
 
-First you will need another badge. This one will not have a battery of its own. But without a battery, where will the threads go?
+أولاً ، ستحتاج إلى علامة أخرى. هذا لن يكون لديه بطارية خاصة به. ولكن بدون بطارية ، أين ستذهب الخيوط؟
 
-+ When you sew your LED onto this new badge, do the running stitches all the way to the edge of the felt, or near the edge. Remember to keep the **positive** and **negative** threads separate from each other!
++ عند خياطة المصباح الخاص بك على هذه العلامة الجديدة ، قم تمرير الإبرة إلى داخل وخارج القماش على طول الطريق حتى حافة القماش أو بالقرب من الحافة. تذكر أن تحافظ على تكون خيوط ** الموجب** و ** السالب** منفصلة عن بعضها البعض!
 
-+ Then sew several medium-sized stitches next to each other or criss-crossing over each other. You want to make it look like a "blob" of conductive thread on the felt.
++ ثم خيط عدة غرز متوسطة الحجم بجانب بعضها البعض أو متقاطعًا فوق بعضها البعض. تريد أن تجعلها تبدو وكأنها "بقعة" من الخيط الموصل على القماش.
 
-+ Finish the stitching as normal by doing three tiny stitches in one spot before cutting the thread short.
++ قم بإنهاء الغرز كالمعتاد عن طريق عمل ثلاث غرز صغيرة في بقعة واحدة قبل قطع الخيط القصير.
 
 ![](images/new_badge_blobs_front_back_120_650.png)
 
-+ Once you have one blob for the **negative**, and one blob for the **positive** side, the new badge is ready. If you want, you can repeat these steps so that you extend the circuit to another pair of blobs at the opposite edge of the new badge, like this:
++ بمجرد أن يكون لديك نقطة واحدة للجانب ** السالب** ، ونقطة واحدة للجانب** للموجب** ، العلامة الجديدة جاهزة. إذا أردت ، يمكنك تكرار هذه الخطوات بحيث يمكنك تمديد الدائرة إلى زوج آخر من النقط عند الحافة المقابلة للعلامة الجديدة ، مثل هذا:
 
 ![](images/new_badge_front_back_120_650.png)
 
-+ Now you just need to extend the circuit on the main badge (the one with the battery). Remember to remove the battery from the holder first.
++ الآن تحتاج فقط إلى تمديد الدائرة على الباج الرئيسي (ذلك الذي يحتوي على البطارية). تذكر إزالة البطارية من الحامل أولاً.
 
-+ Decide where you want to the badges to join together. You will be sewing stitches from the LED on the main badge to this point, so make sure you can trace a line from the **+** to the **positive** blob and from the **-** to the **negative** blob without the lines crossing.
++ حدد المكان الذي تريد أن تنضم إليه العلامات معًا. ستقوم بخياطة غرز من المصباح على العلامة الرئيسية إلى هذه النقطة ، لذا تأكد من أنه يمكنك تتبع خط من ** + ** إلى ** الموجب ** النقطة ومن ** - ** إلى السالب ** ** النقطة دون عبور الخطوط.
 
-+ Mark two spots on the main badge where the **positive** and **negative** blobs touch it. You are going to sew matching blobs here for them to connect to. You can put the new badge to one side for the next bit.
++ ضع نقطتين على العلامة الرئيسية بحيث نقطتي** الموجب ** و ** السالب ** تلمسها. ستقوم بخياطة النقط المطابقة هنا للتواصل معها. يمكنك وضع العلامة الجديدة على جانب واحد للجزء التالي.
 
-+ Taking new thread and the main badge, sew a bunch of stitches at the spot you marked for the **negative** blob. Then sew a running stitch all the way to the LED on this badge and secure it to the **-** hole. Repeat this process to make a **positive** blob that is connected to the **+** hole of the same LED. When you are done it should look something like this:
++ خيط مجموعة جديدة و العلامة الرئيسية ، خيط مجموعة من الغرز في المكان الذي حددته للعلامة ** السالبة**. ثم خيط من خلال تمرير الإبرة إلى داخل وخارج القماش على طول الطريق إلى المصباح على هذه العلامة وثبتها بـفتحة ** - **. كرر هذه العملية لجعل نقطة** الموجب** المتصلة بـنقطة ** + ** من نفس المصباح. عند الانتهاء ، يجب أن يبدو شيء مثل هذا:
 
 ![](images/badge_ext_blobs.png)
 
-Your badges are ready to be joined together!
+علامتك جاهزة للانضمام معًا!
 
-+ Pop the battery back into its holder. Place the new badge onto the main badge so the blobs touch each other. Remember to match up **+** to **+** and **-** to **-**. You should see the new badge suddenly light up!
++ أعد إدخال البطارية في حاملها. ضع العلامة الجديدة على العلامة الرئيسية حتى تلمس النقط بعضها البعض. تذكر أن تطابق ** + ** إلى ** + ** و ** - ** إلى ** - **. من المفترض أن ترى العلامة الجديدة تضيء فجأة!
 
 ![](images/badge_extended_unlit.png) ![](images/badge_extended_lit.png)
 
 --- challenge ---
 
-## Challenge: Make a soft switch
+## التحدي: قم بعمل مفتاح ناعم
 
-+ You could use this technique to make a simple soft switch on your project. For example, put a **positive** blob each at either end of a bracelet, so the two come in contact when you close it.
++ يمكنك استخدام هذه التقنية لعمل مفتاح بسيط في مشروعك. على سبيل المثال ، ضع علامة ** الموجب** يفصل كل طرف من طرفي السوار ، حتى يتلامس الاثنان عند غلقه.
 
 --- /challenge ---
