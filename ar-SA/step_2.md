@@ -1,67 +1,67 @@
-## Make a circuit
+## اصنع دائرة كهربائية
 
-Let's create your first circuit!
+دعونا إنشاء دائرتك الكهربائية الأولى!
 
-+ Take a regular LED (one with two legs rather than a sewable one) and connect it to a battery by holding both legs to the battery, one on either side. Notice that one of the legs of the LED is longer than the other one. The longer one should be connected to the side of the battery marked with a plus sign **+**. Watch your LED light up!
++ خذ مصباح LED عاديًا (واحد بساقين بدلاً من واحدة قابلة للخياطة) وقم بتوصيله بالبطارية عن طريق تثبيت كلا الساقين بالبطارية ، واحدة على كلا الجانبين. لاحظ أن أحد أرجل LED أطول من الأخرى. يجب توصيل الجهاز الأطول بجانب البطارية مع وضع علامة ** + **. شاهد ضوء LED الخاص بك!
 
 ![](images/LED_battery_140_291_650.png)
 
 --- collapse ---
 ---
-title: My LED didn't light up
+العنوان: لم يضيء مصباح LED الخاص بي
 ---
 
-+ If it didn't work, check that the legs are the right way round.
++ إذا لم يفلح ذلك ، تحقق من أن الأرجل تم توصيلها بالطريقة الصحيحة.
 
 --- /collapse ---
 
-+ Once you have the LED lighting up, try flipping the battery over so the legs are connected the wrong way around, with the shorter one on the `+` side of the battery. Does it still work?
++ بمجرد إضاءة LED ، حاول قلب البطارية حتى يتم توصيل الأرجل بطريقة خاطئة ، مع وجود أقصر على ` + ` جانب البطارية. هل مازال يعمل؟
 
 --- collapse ---
 ---
-title: How it works
+العنوان: كيف يعمل؟
 ---
 
-In every circuit, there are a **positive** or **+** and a **negative** or **-** direction.
+في كل دائرة ، هناك اتجاه ** موجبة ** أو ** + ** وسالب ** ** أو ** - **.
 
-For electricity to flow, you need to match up the **+** to **+** and the **-** to **-** between your components. This is why the LED doesn't light up when you flip the battery around.
+لتدفق الكهرباء ، تحتاج إلى مطابقة ** + ** إلى ** + ** و ** - ** إلى ** - ** بين مكوناتك. هذا هو السبب في أن ضوء LED لا يضيء عند قلب البطارية.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Identifying + and - on different LEDs
+العنوان: تحديد + و- على مصابيح LED مختلفة
 ---
 
-+ On the LED, the longer leg is **+** and the shorter pin is **-**. You can also identify **-** by looking closely at the bulb: it is the side with the flat edge.
++ على LED ، تكون الساق الأطول هي ** + ** والدبوس الأقصر هو ** - **. يمكنك أيضًا تحديد ** - ** من خلال النظر إلى المصباح عن كثب: إنه الجانب ذو الحافة المسطحة.
 
-+ A sewable LED is built onto a tiny **printed circuit board**, so it has holes instead of legs. The holes are marked with **+** and **-** signs.
++ تم بناء مصباح LED قابل للخياطة على لوحة دائرة مطبوعة ** صغيرة ** فتوجد بها ثقوب بدلاً من الأرجل. يتم تمييز الثقوب بعلامة ** + ** و ** - **.
 
 ![](images/LEDs_pos_neg_100_650.png)
 
 --- /collapse ---
 
-+ Separate the LED and the battery, and pop the battery into a battery holder, with the **+** facing up (the holder will have a mark to show its **+** side too).
++ افصل LED والبطارية ، وادخل البطارية في حامل البطارية ، باستخدام ** + ** متجهة لأعلى (سيحصل حامل البطاقة على علامة لإظهار ** + ** جانبًا أيضًا).
 
-+ Get two pieces of conductive thread, and team up with the Ninja next to you, so you can help each other hold things in place.
++ احصل على قطعتين من الخيط الموصل ، وتعاون مع النينجا بجانبك ، حتى تتمكن من مساعدة بعضكما البعض على تثبيت الأشياء في مكانها.
 
-+ Put one end of the first thread through the **+** hole of the battery holder, making sure it touches the metal, and hold the other end to the **positive** leg of the LED. You can use tape if you need to, although this will fray the thread a lot. If you have crocodile clips, you can use these instead of thread.
++ ضع أحد طرفي الخيط الأول من خلال ** + ** ثقب حامل البطارية ، مع التأكد من أنه يلمس المعدن ، وأمسك الطرف الآخر **الموجب** بساق LED. يمكنك استخدام الشريط إذا كنت بحاجة إلى ذلك ، على الرغم من أن هذا سوف يتسبب في تآكل الخيط كثيرًا. إذا كان لديك مقاطع تشبه فم التمساح (لتثبيت المكونات بشكل افضل)، يمكنك استخدامها بدلاً من الخيط.
 
 ![](images/circuit_thread_pos.png)
 
-+ Now take the second thread. Put one end through the **-** hole of the battery holder, and hold the other end to the **negative** leg of the LED.
++ الآن خذ الموضوع الثاني. ضع أحد طرفي الخيط الأول من خلال ** + ** ثقب حامل البطارية ، مع التأكد من أنه يلمس المعدن ، وأمسك الطرف الآخر **الموجب** بساق LED.
 
 ![](images/circuit_thread_complete.png)
 
-+ Make sure the two threads are not touching or crossing over at any point. If they do, this will cause a **short** in your circuit and it will not work properly.
++ تأكد من أن الخيطين لا يلامسان أو يعبران في أي وقت. إذا فعلوا ذلك ، سيؤدي ذلك إلى **خلل** في دائرتك ولن تعمل بشكل صحيح.
 
 --- collapse ---
 ---
-title: What is a short?
+العنوان: ما هو الخلل؟
 ---
 
-+ When you have a **short circuit**, the electricity goes a shorter way through the circuit, skipping some of the components, and that's why it stops working.
++ عندما يكون لديك **خلل بالدائرة** ، سوف يسبب خلال بتوصيل الشحنات الكهربائية في الدائرة، وتتخطى بعض المكونات ، ولهذا السبب تتوقف عن العمل.
 
 --- /collapse ---
 
-Now you have a circuit and are ready to make a light-up badge!
+لديك الآن دائرة كهربائية ومستعدة لعمل علامة (باج) مضيئة!
