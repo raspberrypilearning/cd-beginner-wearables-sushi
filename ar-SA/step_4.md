@@ -1,44 +1,44 @@
-## Sew on components
+## خياطة على المكونات
 
-+ Cut a piece of felt to the size you want for your badge. Decide where you are going to put the LED and mark the spot on the felt. Now decide where to put your battery holder. It could be on the back! Mark the spot for one of the positive holes and one of the negative holes with a **+** and **-**.
++ قص قطعة قماش بالحجم الذي تريده لعلامتك (الباج). حدد المكان الذي ستضع فيه المصباح LED ووضع نقطة على قطعة القماش. قرر الآن مكان وضع حامل البطارية. يمكن أن يكون على الظهر! ضع نقطة على مكان إحدى الثقوب الموجبة وأحد الثقوب السالبة بعلامة ** + ** و ** - **.
 
-+ If you are using a regular LED, you will need to bend the pins into loops. Pliers can be helpful here. If you have a sewable LED, skip this step!
++ إذا كنت تستخدم مصباح LED عاديًا ، فستحتاج إلى دبوس ثنائي في حلقات. كماشة يمكن أن تكون مفيدة هنا. إذا كان لديك مصباح LED قابل للخياطة ، فتخط هذه الخطوة!
 
 ![](images/led_loops1.png) ![](images/LED_loops2.JPG)
 
-+ Thread your needle! Take a piece of conductive thread about 30cm long, and pull one end of it through the hole in the needle (called the **eye**). This can be pretty fiddly. If the thread is frayed at the end, cut off the frayed bits with a scissors.
++ خيط إبرة الخاص بك! خذ قطعة من الخيط الموصل بطول حوالي 30 سم واسحب أحد طرفيه من خلال فتحة الإبرة (تسمى ** العين **). يمكن أن يكون هذا أمرًا رائعًا. إذا كان الخيط غير منتظم (مهترئاً) في النهاية ، فقم بقطع القطع الغير منتظمة بمقص.
 
-+ Once the needle is threaded, the thread will be hanging out in two pieces. Pull one of them so it is a good bit longer than the other and tie a knot in the very end of the long piece.
++ بمجرد خيط الإبرة ، سيتم تعليق الخيط في قطعتين. اسحب أحدهما بحيث يكون أطول قليلاً من الآخر واربط عقدة في نهاية القطعة الطويلة.
 
-Ready to start sewing?
+جاهز لبدء الخياطة؟
 
-+ Place your LED onto the felt at the spot you have marked out for it. With one hand, hold onto the felt and the LED. With the other hand, place the tip of the needle **behind** the felt and push it through so that it comes out through the **-** hole of the LED.
++ ضع مصباح LED الخاص بك على قطعة القماش في المكان الذي حددته له. بيد واحدة ، امسك على قطعة القماش و المصباح. مع اليد ألاخرى ، ضع طرف الإبرة ** خلف ** قطعة القماش ودفع من خلال ذلك يخرج من خلال ثقب** - ** للمصباح.
 
 ![](images/needle_through_LED.png)
 
-+ Pull the needle and thread all the way through at the front. Try holding the needle by the eye and pinching the thread tightly there to keep it from falling out of the needle while you pull (if it does fall out, it's ok, you can re-thread it). You want to keep pulling until only the knot remains at the back.
++ اسحب الإبرة وخيطها بالكامل من الأمام. حاول إمساك الإبرة من طرف العين وضغط الخيط بإحكام عليه لمنعها من السقوط من الإبرة أثناء السحب (إذا سقطت ، فلا بأس ، يمكنك إعادة لفها). تريد الاستمرار في الشد حتى تبقى العقدة فقط في الخلف.
 
 ![](images/pull_thread_through.png)
 
-+ Now, place the tip of the needle **right beside** the **-** hole of the LED (the one it just came through), but **not inside** it. Like this:
++ الآن ، ضع طرف الإبرة ** بجوار** الطرف** - ** لثقب المصباح(الذي خرج للتو) ، ولكن ** ليس في الداخل **. مثل هذا:
 
 ![](images/needle_next_to_LED.png)
 
-+ Push the needle through the felt so it comes out the back. Grab the needle behind the felt and pull it all the way through, just like you did at the front. You've just sewn your first stitch! It should look something like this:
++ ادفع الإبرة من خلال قطعة الفماش حتى يخرج من الخلف. أمسك الإبرة خلف قطعة القماش واسحبها بالكامل ، تمامًا كما فعلت من الأمام. لقد خيطت أول غرزة! يجب أن يكون لديك شيء كهذا:
 
 ![](images/first_stitch.png)
 
-+ Repeat the last two steps three more times. Be sure to pull the thread tight each time. This will create a good connection and keep the LED secured tightly to the felt.
++ كرر الخطوتين الأخيرتين ثلاث مرات أخرى. تأكد من سحب الخيط بإحكام في كل مرة. سيؤدي ذلك إلى إنشاء اتصال جيد والحفاظ على المصباح محكمًا بشكل جيد.
 
-+ You have just learned how to attach wearable components. Almost there!
++ لقد تعلمت للتو كيفية تعليق المكونات القابلة للارتداء. اوشكت على الوصول!
 
 --- collapse ---
 ---
-title: Tips for sewing
+العنوان: نصائح للخياطة
 ---
 
-+ Practice makes perfect! If you have never sewn before, it can be tricky in the beginning. Don't worry, you'll get the hang of it.
++ مع التدريب يأتي الإتقان! إذا لم تكن قد خيطت من قبل ، فقد تكون صعبة (معقدة) في البداية. لا تقلق ، سوف تحصل على تعليق منه.
 
-+ This video might be helpful if you are new to sewing: [dojo.soy/wear-stitches](http://dojo.soy/wear-stitches){:target="_blank"}
++ قد يكون هذا الفيديو مفيدًا إذا كنت جديدًا في الخياطة: [ dojo.soy/wear-stitches ](http://dojo.soy/wear-stitches) {: target = "_ blank"}
 
 --- /collapse ---
