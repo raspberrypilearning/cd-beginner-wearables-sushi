@@ -1,50 +1,50 @@
-## Add more LEDs
+## أضف المزيد من المصابيح
 
-Adding more LEDs to your circuit is easy, and you don't need any additional batteries!
+إن إضافة المزيد من مصابيح إلى دائرتك أمر سهل ، ولا تحتاج إلى أي بطاريات إضافية!
 
-**Note**: the LEDs in your circuit must be of the same type, either all sewable or all non-sewable. It will work best with sewable LEDs, as you can connect many more of them to the same battery without the power being reduced.
+** ملاحظة **: يجب أن تكون مصابيح في دائرتك من نفس النوع ، سواء كانت قابلة للخياطة أو غير قابلة للخياطة. ستعمل بشكل أفضل مع مصابيح القابلة للخياطة، حيث يمكنك توصيل المزيد منها بنفس البطارية دون تقليل الطاقة.
 
-+ Pop the battery out of the battery holder for now. When working on a circuit, it is important to always make sure is is not **live** by switching it off or taking out the battery!
++ أخرج البطارية من حامل البطارية في الوقت الحالي. عند العمل على الدائرة، من المهم دائمًا التأكد من عدم وجود **مباشر** عن طريق إيقاف تشغيله أو إخراج البطارية!
 
-+ Decide where on your badge you want to put your next LED, and mark that place.
++ حدد المكان الذي تريد أن تضع فيه مؤشر المصباح التالي على علامتك، وحدد ذلك المكان.
 
-You will connect the LEDs in **parallel**. There are two ways to do this.
+سوف تقوم بتوصيل المصابيح في بشكل** موازي**. هناك طريقتان للقيام بذلك.
 
-### Method 1
+### الطريقة الاولى
 
-One option is to connect the LED directly to the battery, just like the first LED. It is OK to use the same holes on the battery holder more than once on the battery holder - the only limit is how much thread you can fit through! The example circuit in the picture hasn't been sewn onto anything, so you can see the threads clearly:
+أحد الخيارات هو توصيل المصباح مباشرة بالبطارية ، تمامًا مثل مصباح الأول. من المقبول استخدام نفس الثقوب على حامل البطارية أكثر من مرة على حامل البطارية - الحد الوحيد هو مقدار الخيط الذي يمكنك وضعه من خلاله! مثال الدائرة الكهربائية في الصورة لم يتم خياطة أي شيء على اي شي ، حتى تتمكن من رؤية الخيوط بوضوح:
 
 ![](images/more_leds_separate.png)
 
-### Method 2
+### الطريقة الثانية
 
-Another option is to attach the new LED to the LED that's already in your circuit, instead of to the battery. You match up the **+** to the **+** and the **-** to the **-** as you would if you were connecting it to a battery. In the below example, the same two long pieces of thread are used for both LEDs. You could also use separate pieces of thread for each LED.
+خيار آخر هو ربط المصباح الجديد بمصباح الموجود بالفعل في دائرتك ، بدلاً من البطارية. تتطابق مع ** + ** إلى ** + ** و ** - ** إلى ** - ** كما لو كنت توصله ببطارية. في المثال أدناه ، يتم استخدام نفس قطعتين من الخيط لكلا المصابيح. يمكنك أيضًا استخدام قطع منفصلة من الخيط لكل مصباح.
 
 ![](images/more_leds_extended.png)
 
 --- collapse ---
 ---
-title: Which method should I choose?
+title: ما الخيار الذي يجب علي اختياره؟
 ---
 
-Deciding whether to connect the LED to the battery holder or to the other LED depends on where you want to put the new LED!
+يعتمد تحديد ما إذا كنت تريد توصيل مصباح إلى حامل البطارية أو مصباح الآخر على المكان الذي تريد وضع مصباح الجديد فيه!
 
-+ Usually you will pick the component that's closer to the place you've chosen for your second LED.
++ عادة ستختار المكون الأقرب إلى المكان الذي اخترته لمصباح الثاني.
 
-+ You also need to make sure all the different threads are kept separate and don't cross over or touch, so it is a good idea to look at where the **+** and **-** of your components are when you pick a method and a place for the LED.
++ تحتاج أيضًا إلى التأكد من أن جميع سلاسل الخيوط المختلفة منفصلة ولا تتقاطع أو تلمس ، لذلك من الجيد أن ننظر إلى مكان ** + ** و ** - ** من المكونات الخاصة بك عند اختيار طريقة ومكان المصباح.
 
 --- /collapse ---
 
-+ Holding the LED in place, use a needle and a new piece of conductive thread to secure the **-** hole of the LED like you did for the first one you sewed on.
++ عند تثبيت المصباح في مكانه ، استخدم إبرة وقطعة خيط موصل جديدة لتأمين ثقب القطب ** - ** كما فعلت لأول واحد بالخياطة عليه.
 
-+ The next step is the running stitch. If you are connecting the LED to the other LED, then this time the stitches will go in a line towards the **-** hole of the other LED, instead of to the battery holder. Once you reach the correct hole, make three stitches through it, and three tiny stitches to finish, exactly as you did before.
++ الخطوة التالية هي تمرير الإبرة إلى داخل وخارج القماش. إذا كنت تقوم بتوصيل المصباح بمصباح آخر ، فستكون الخياطة هذه المرة في خط باتجاه القطب** - ** اللمصباح الأخرى ، بدلاً من حامل البطارية. بمجرد الوصول إلى الفتحة الصحيحة ، قم بعمل ثلاث غرز من خلالها ، وثلاث غرز صغيرة لإكمالها ، تمامًا كما فعلت من قبل.
 
-+ Now connect the **+** hole of the new LED using the same method.
++ الآن قم بتوصيل قطب** + ** مع المصباح الجديد باستخدام نفس الطريقة.
 
-In this photo, the second LED is connected directly to the battery:
+في هذه الصورة ، يتم توصيل المصباح الثاني مباشرة بالبطارية:
 
 ![](images/second_led.JPG)
 
-In the next photo, a second LED has been connected to the first LED, which is in turn connected to the battery (the battery is at the back of the fabric):
+في الصورة التالية ، تم توصيل مؤشر المصباح آخر بمصباح الأول ، والذي يتم توصيله بدوره بالبطارية (البطارية في الجزء الخلفي من القماش):
 
 ![](images/second_led2.png)
