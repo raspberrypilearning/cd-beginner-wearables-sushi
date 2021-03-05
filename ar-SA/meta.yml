@@ -1,0 +1,23 @@
+---
+title: علامة متوهجة
+hero_image: images/banner.png
+description: اصنع علامة تضيء من الالياف، وتعرف على الدوائر الإلكترونية
+theme: violet
+version: 3.0.0
+listed: true
+copyedit: true
+curriculum: 1, design-0, programming-0, phys-comp-0, manufacture-1, community-0
+interests: wearable-technology
+technologies: electronic-components
+site_areas: coderdojo, projects
+hardware: electronic-components
+software: ''
+last_tested: "2017-04-28"
+steps:
+  - title: المقدمة
+  - title: اصنع دائرة كهربائية
+  - title: أضف مفتاحًا كهربائياً
+  - title: خياطة على المكونات
+  - title: أكمل دائرتك الكهربائية القابلة للارتداء
+  - title: أضف المزيد من المصابيح
+  - title: اصنع أجزاء قابلة للفصل
