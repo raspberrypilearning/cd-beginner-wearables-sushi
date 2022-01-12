@@ -1,7 +1,8 @@
 ---
 title: Insigne lumineux
 hero_image: images/banner.png
-description: Fabriquer un insigne en feutre qui s'allume et découvrir les circuits électroniques
+description: Fabriquer un insigne en feutre qui s'allume et découvrir les circuits
+  électroniques
 theme: violet
 version: 3.0.0
 listed: true
@@ -12,12 +13,14 @@ technologies: electronic-components
 site_areas: coderdojo, projects
 hardware: electronic-components
 software: ''
-last_tested: "2017-04-28"
+last_tested: '2017-04-28'
 steps:
-  - title: Introduction
-  - title: Créer un circuit
-  - title: Ajouter un commutateur
-  - title: Coudre des composants
-  - title: Compléter ton circuit portable
-  - title: Ajouter plus de LED
-  - title: Créer des pièces détachables
+- title: Introduction
+  completion: engaged
+- title: Créer un circuit
+- title: Ajouter un commutateur
+- title: Coudre des composants
+- title: Compléter ton circuit portable
+- title: Ajouter plus de LED
+  completion: internal
+- title: Créer des pièces détachables

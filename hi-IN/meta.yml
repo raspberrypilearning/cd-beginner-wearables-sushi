@@ -1,7 +1,8 @@
 ---
 title: चमकता हुआ पदक
 hero_image: images/banner.png
-description: एक महसूस करने वाला पदक बनाएं जो रोशनीरोशन होता है, और इलेक्ट्रॉनिक सर्किट (electronic circuits) के बारे में सीखें
+description: एक महसूस करने वाला पदक बनाएं जो रोशनीरोशन होता है, और इलेक्ट्रॉनिक सर्किट
+  (electronic circuits) के बारे में सीखें
 theme: violet
 version: 3.0.0
 listed: true
@@ -12,12 +13,14 @@ technologies: electronic-components
 site_areas: coderdojo, projects
 hardware: electronic-components
 software: ''
-last_tested: "2017-04-28"
+last_tested: '2017-04-28'
 steps:
-  - title: परिचय
-  - title: एक सर्किट बनाओ
-  - title: एक स्विच (switch) जोड़ें
-  - title: पुर्ज़ो की सिलाई
-  - title: अपने पहनने योग्य सर्किट को पूरा करें
-  - title: और LEDs जोड़ें
-  - title: अलग किए जाने योग्य भाग बनाएं
+- title: परिचय
+  completion: engaged
+- title: एक सर्किट बनाओ
+- title: एक स्विच (switch) जोड़ें
+- title: पुर्ज़ो की सिलाई
+- title: अपने पहनने योग्य सर्किट को पूरा करें
+- title: और LEDs जोड़ें
+  completion: internal
+- title: अलग किए जाने योग्य भाग बनाएं
