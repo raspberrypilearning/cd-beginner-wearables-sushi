@@ -1,7 +1,8 @@
 ---
 title: Insignia brillante
 hero_image: images/banner.png
-description: Crea una insignia de fieltro que se ilumine y aprende sobre los circuitos electrónicos
+description: Crea una insignia de fieltro que se ilumine y aprende sobre los circuitos
+  electrónicos
 theme: violet
 version: 3.0.0
 listed: true
@@ -12,12 +13,16 @@ technologies: electronic-components
 site_areas: coderdojo, projects
 hardware: electronic-components
 software: ''
-last_tested: "2017-04-28"
+last_tested: '2017-04-28'
 steps:
-  - title: Introducción
-  - title: Crea un circuito
-  - title: Agrega un interruptor
-  - title: Cose los componentes
-  - title: Completa tu circuito portátil
-  - title: Agrega más LEDs
-  - title: Crea piezas desmontables
+- title: Introducción
+- title: Crea un circuito
+- title: Agrega un interruptor
+  completion:
+  - engaged
+- title: Cose los componentes
+- title: Completa tu circuito portátil
+- title: Agrega más LEDs
+- title: Crea piezas desmontables
+  completion:
+  - internal

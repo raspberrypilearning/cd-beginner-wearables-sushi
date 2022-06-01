@@ -14,10 +14,14 @@ hardware: electronic-components
 software: ''
 last_tested: '2017-04-28'
 steps:
-  - title: Inleiding
-  - title: Maak een circuit
-  - title: Voeg een schakelaar toe
-  - title: Naai de onderdelen vast
-  - title: Maak je draagbare circuit compleet
-  - title: Voeg meer LED's toe
-  - title: Maak afneembare onderdelen
+- title: Inleiding
+- title: Maak een circuit
+- title: Voeg een schakelaar toe
+  completion:
+  - engaged
+- title: Naai de onderdelen vast
+- title: Maak je draagbare circuit compleet
+- title: Voeg meer LED's toe
+- title: Maak afneembare onderdelen
+  completion:
+  - internal
