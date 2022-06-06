@@ -16,11 +16,13 @@ software: ''
 last_tested: '2017-04-28'
 steps:
 - title: ಪರಿಚಯ
-  completion: engaged
 - title: ಸರ್ಕ್ಯೂಟ್ ರಚಿಸಿ
 - title: ಸ್ವಿಚ್ ಸೇರಿಸಿ
+  completion:
+  - engaged
 - title: ಘಟಕಗಳನ್ನು ಹೊಲಿಯಿರಿ
 - title: ನಿಮ್ಮ ಧರಿಸಬಹುದಾದ ಸರ್ಕ್ಯೂಟ್ ಅನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ
 - title: ಹೆಚ್ಚಿನ ಎಲ್ಇಡಿಗಳನ್ನು ಸೇರಿಸಿ
-  completion: internal
 - title: ಬೇರ್ಪಡಿಸಬಹುದಾದ ಭಾಗಗಳನ್ನು ತಯಾರಿಸಿ
+  completion:
+  - internal

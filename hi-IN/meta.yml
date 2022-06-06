@@ -16,11 +16,13 @@ software: ''
 last_tested: '2017-04-28'
 steps:
 - title: परिचय
-  completion: engaged
 - title: एक सर्किट बनाओ
 - title: एक स्विच (switch) जोड़ें
+  completion:
+  - engaged
 - title: पुर्ज़ो की सिलाई
 - title: अपने पहनने योग्य सर्किट को पूरा करें
 - title: और LEDs जोड़ें
-  completion: internal
 - title: अलग किए जाने योग्य भाग बनाएं
+  completion:
+  - internal

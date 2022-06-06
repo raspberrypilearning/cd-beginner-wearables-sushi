@@ -15,11 +15,13 @@ software: ''
 last_tested: '2017-04-28'
 steps:
 - title: المقدمة
-  completion: engaged
 - title: اصنع دائرة كهربائية
 - title: أضف مفتاحًا كهربائياً
+  completion:
+  - engaged
 - title: خياطة على المكونات
 - title: أكمل دائرتك الكهربائية القابلة للارتداء
 - title: أضف المزيد من المصابيح
-  completion: internal
 - title: اصنع أجزاء قابلة للفصل
+  completion:
+  - internal

@@ -16,11 +16,13 @@ software: ''
 last_tested: '2017-04-28'
 steps:
 - title: Introducción
-  completion: engaged
 - title: Crea un circuito
 - title: Agrega un interruptor
+  completion:
+  - engaged
 - title: Cose los componentes
 - title: Completa tu circuito portátil
 - title: Agrega más LEDs
-  completion: internal
 - title: Crea piezas desmontables
+  completion:
+  - internal

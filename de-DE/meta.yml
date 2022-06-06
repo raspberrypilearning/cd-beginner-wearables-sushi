@@ -16,11 +16,13 @@ software: ''
 last_tested: '2017-04-28'
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Fertige einen Schaltkreis an
 - title: Füge einen Schalter hinzu
+  completion:
+  - engaged
 - title: Nähe die Komponenten zusammen
 - title: Stelle deinen tragbaren Schaltkreis fertig
 - title: Füge weitere LEDs hinzu
-  completion: internal
 - title: Fertige die abnehmbaren Teile an
+  completion:
+  - internal

@@ -16,11 +16,13 @@ software: ''
 last_tested: '2017-04-28'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Créer un circuit
 - title: Ajouter un commutateur
+  completion:
+  - engaged
 - title: Coudre des composants
 - title: Compléter ton circuit portable
 - title: Ajouter plus de LED
-  completion: internal
 - title: Créer des pièces détachables
+  completion:
+  - internal

@@ -15,11 +15,13 @@ software: ''
 last_tested: '2017-04-28'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Make a circuit
 - title: Add a switch
+  completion:
+  - engaged
 - title: Sew on components
 - title: Complete your wearable circuit
 - title: Add more LEDs
-  completion: internal
 - title: Make detachable parts
+  completion:
+  - internal
