@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: Make a felt badge that lights up, and learn about electronic circuits
 theme: violet
 version: 3.0.0
-listed: true
+listed: false
 copyedit: true
 curriculum: 1, design-0, programming-0, phys-comp-0, manufacture-1, community-0
 interests: wearable-technology
